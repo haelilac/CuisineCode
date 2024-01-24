@@ -1126,7 +1126,25 @@ image: "bicol_express_pizza.jpg"
       procedure: "1. Alternately arrange 1kg fish, 8 pieces of bilimbi, and 2 medium tomatoes in a wide cooking pot.\n2. Sprinkle 1 1/2 teaspoon salt and 1 teaspoon whole peppercorn, and then pour-in 1 cup water.\n3. Cover the cooking pot and turn on the heat to medium. Let boil.\n4. When the liquid starts to boil, adjust the heat to low. Continue cooking for 15 to 20 minutes.\n5. Turn off the heat and transfer to a serving plate.\n6. Serve with steamed rice. Serve. Share and enjoy.",
       image: "pinangat_fish.jpg"
     },
-        
+    {
+      id: 78,
+      name: "Kilawing Labanos",
+      ingredients: [
+        "radish",
+        "pork",
+        "pork liver",
+        "sugar",
+        "vinegar",
+        "onion",
+        "garlic",
+        "cooking oil",
+        "salt",
+        "pepper"
+      ],
+      procedure: "1. Slice 1 piece daikon radish into thin pieces. Arrange in a bowl and then add 2 tablespoons of salt. Rub salt all over the radish slices and let it stay for 15 minutes. Squeeze the juice out of the radish. Rinse with water until all the salt goes off. Squeeze to release water.\n2. Combine prepared radish, 1/4 kg pork, 1/8 kg pork liver, 3/4 cup sugar, 1 piece sliced onion, and 3/4 cup white vinegar in a large bowl. Toss until well blended. Marinate for 20 minutes.\n3. Heat oil in a cooking pot. Saute 4 sliced garlic cloves until golden brown.\n4. Add the marinated mixture. Let boil. Stir and then adjust the heat between low to medium. Cover the pot and continue to cook for 20 to 25 minutes.\n6. Season with salt and ground black pepper. Serve with warm white rice.\n7. Share and enjoy.",
+      image: "kilawing_labanos.jpg"
+    },
+    
      
 ];
   
