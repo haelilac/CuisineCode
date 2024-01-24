@@ -796,6 +796,32 @@ export const recipes = [
            image: "La_Paz_Batchoy.jpg"
         },
 
+        {
+          id:52,
+          name: "Pancit Canton",
+          ingredients: [
+          "flour stick noodles",
+        "pork",
+        "sausage slice ",
+        "onion",
+        "garlic",
+        "shrimp",
+        "snap peas",
+          "shrimp paste",
+        "carrot",
+        "cabbage",
+        "chicken broth",
+        "oyster saucer",
+        "water",
+        "carrot",
+        "flat leaf parsley",
+        "cooking oil",
+        "salt",
+        "pepper"
+          ],
+        procedure: "1. Place 2 cups of ice and 3 cups of water in a large bowl. Set aside. \n2. 2.Boil 6 cups of water in a cooking pot. \n3. 3.Once the water starts to boil, blanch the 10 to 12 pieces snap peas, 3/4 cup carrots, and 1 piece cabbage for 35 to 50 seconds. Quickly remove the vegetables and immerse in a bowl with ice cold water. Drain the water after 2 minutes and set aside. \n4. 4.Heat a large wok or cooking pot and pour-in the  3 tablespoons of cooking oil \n5. 5. Saute the onion and garlic. \n6. 6.Add the  4 ounces pork and 1 piece sausage slices and continue to cook for 2 minutes. \n7. 7.Add-in 3 tablespoons soy sauce and 1 tablespoon  oyster sauce. Stir. \n8. 8.Pour-in chicken broth and water. Add salt and pepper. Let boil. continue to cook for 5 to 10 minutes. \n9. 9.Put-in the shrimp and parsley. Cook for 3 minutes. Add more water if needed. \n10. 10.Put-in the flour noodles. Gently toss until the noodles absorb the liquid. \n11. 11.Add-in the blanched vegetables. Toss and cook for 1 to 2 minutes. \n12. 12.Transfer to a serving plate. Serve.",
+        image: "Pancit_Canton.jpg"
+        },
         
           
 
