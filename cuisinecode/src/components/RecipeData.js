@@ -1144,6 +1144,26 @@ image: "bicol_express_pizza.jpg"
       procedure: "1. Slice 1 piece daikon radish into thin pieces. Arrange in a bowl and then add 2 tablespoons of salt. Rub salt all over the radish slices and let it stay for 15 minutes. Squeeze the juice out of the radish. Rinse with water until all the salt goes off. Squeeze to release water.\n2. Combine prepared radish, 1/4 kg pork, 1/8 kg pork liver, 3/4 cup sugar, 1 piece sliced onion, and 3/4 cup white vinegar in a large bowl. Toss until well blended. Marinate for 20 minutes.\n3. Heat oil in a cooking pot. Saute 4 sliced garlic cloves until golden brown.\n4. Add the marinated mixture. Let boil. Stir and then adjust the heat between low to medium. Cover the pot and continue to cook for 20 to 25 minutes.\n6. Season with salt and ground black pepper. Serve with warm white rice.\n7. Share and enjoy.",
       image: "kilawing_labanos.jpg"
     },
+    {
+      id: 79,
+      name: "Lechon Paksiw",
+      ingredients: [
+        "pork lechon",
+        "pork Cube",
+        "lechon sauce",
+        "sugar",
+        "vinegar",
+        "bay leaves",
+        "onion",
+        "garlic",
+        "cooking oil",
+        "salt",
+        "peppercorn",
+        "water"
+      ],
+      procedure: "1. Chop 1 1/2 kg lechon into serving pieces. Place in a large cooking pot and add 2 1/2 cups of water. Bring to a boil.\n2. Add 5 cloves garlic, 2 pieces onion, 2 teaspoons whole peppercorn, and 5 pieces dried bay leaves. Cover the pot. Boil for 5 minutes.\n3. Add 1 piece Knorr Pork Cube and 1/2 cup vinegar. Cover the pot. Let boil. Adjust the heat between low to medium. Cook for 30 minutes.\n4. Pour lechon sauce into the pan. Stir. Cook for 15 minutes.\n5. Add 1/4 cup sugar and season with salt. Cook for 3 minutes.\n6. Transfer to a serving bowl. Serve with rice. Share and enjoy.",
+      image: "lechon_paksiw.jpg"
+    },
     
      
 ];
