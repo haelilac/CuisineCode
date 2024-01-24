@@ -946,7 +946,14 @@ export const recipes = [
       image: "pork_menudo.jpg"
     },
 
-    
+    {
+      id: 64,
+      name: "Pancit Malabon",
+      ingredients: ["rice noodles or bihon", "pork belly", "annatto seeds", "shrimp juice", "fish sauce", "black pepper", "garlic", "onion", "chicharon", "shrimp", "adobong pusit", "cabbage", "lemon", "tinapa flakes", "hard-boiled eggs", "parsley", "garlic"],
+      procedure: "1.Cook the 1 lb. thick rice noodles according to package instructions. If you are using the traditional Pancit Malabon noodles, you will need to soak it in water overnight before cooking. Set aside.\n2. 2. Start making the sauce by sautéing the 1 tbsp. fresh minced garlic and 1 medium-sized onion.\n3. 3. Add ½ lb. chopped boiled pork and cook for 3 minutes.\n4. 4. Add 3 tbsp. fish sauce and ½ tsp. ground black pepper then stir.\n5. 5. Pour-in shrimp juice and annatto water and let boil.\n6. 6. Add ½ cup of pounded pork rinds (chicharon) then stir.\n7. 7. Simmer for 2 to 3 minutes then turn off heat.\n8. 8. Place the cooked noodles in a large bowl then pour-in the sauce and mix well.\n9. 9. Transfer the sauce and noodle mixture in a wide serving plate and arrange the ¾ cup of tinapa flakes, 3 pcs. of sliced hard boiled eggs, 1 tbsp. chopped parsley, 1 tbsp minced garlic, and 1 pc. chopped cabbage on top.\n10. 10. Serve with 1 pc. quartered lemon or calamansi and a lot of love. Share and enjoy!",
+      image: "pancit_malabon.jpg"
+    },
+
      
 ];
   
