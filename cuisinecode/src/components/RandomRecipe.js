@@ -17,12 +17,25 @@ const RandomRecipe = ({ randomIndex, setRandomIndex }) => {
 
   return (
     <div className="Random-Recipe">
-      <h2>Random Daily Recipe</h2>
+      <h2>Explore Something New!</h2>
       {isValidIndex && (
         <div className="recipe" onClick={generateNewRandomIndex}>
           <img src={randomRecipe.image} alt={randomRecipe.name} />
-          <p className="recipe-name">{randomRecipe.name}</p>
-          {/* Add a className to style the recipe name or make other adjustments */}
+          <div className="recipe-details">
+            <p className="recipe-name">{randomRecipe.name}</p>
+            <p className="recipe-ingredients">
+              <strong>Ingredients:</strong> {randomRecipe.ingredients.join(', ')}
+            </p>
+            <p className="recipe-preparation">
+              <strong>Preparation:</strong>
+              {randomRecipe.procedure.split('\n').map((line, index) => (
+                <React.Fragment key={index}>
+                  {line}
+                  <br />
+                </React.Fragment>
+              ))}
+            </p>
+          </div>
         </div>
       )}
     </div>

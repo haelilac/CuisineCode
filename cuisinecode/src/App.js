@@ -4,20 +4,31 @@ import { recipes } from './components/RecipeData';
 import RecipeModal from './components/RecipeModal';
 import RandomRecipe from './components/RandomRecipe';
 
-
-
 function App() {
   const [searchInput, setSearchInput] = useState('');
   const [filteredRecipes, setFilteredRecipes] = useState([]);
   const [selectedRecipe, setSelectedRecipe] = useState(null);
   const [randomIndex, setRandomIndex] = useState(null);
+  const [scrollingUp, setScrollingUp] = useState(false);
 
   useEffect(() => {
-    // Generate a random index only on initial page load
+    // Generate a random index only on the initial page load
     if (randomIndex === null) {
       const newRandomIndex = Math.floor(Math.random() * recipes.length);
       setRandomIndex(newRandomIndex);
     }
+
+    // Event listener for scrolling
+    const handleScroll = () => {
+      setScrollingUp(window.scrollY < window.scrollYOffset);
+    };
+
+    window.addEventListener('scroll', handleScroll);
+
+    // Cleanup
+    return () => {
+      window.removeEventListener('scroll', handleScroll);
+    };
   }, [randomIndex]);
 
   const handleSearch = () => {
@@ -66,12 +77,15 @@ function App() {
     setSelectedRecipe(null);
   };
 
+
+  
+
   return (
-    <div className="App" style={{ backgroundImage: `url(/Assets/MainBg.jpg)` }}>
+    <div className={`app-container ${scrollingUp ? 'scrolling-up' : ''}`}>
       <div className="header" style={{ backgroundImage: `url(/Assets/headerbg.jpg)` }}>
         <div className="header-text">
           <h1>Cuisine Code</h1>
-          <p>Ingredient-based Filipino recipe search</p>
+          <p>Discover the Art of Filipino Cuisine</p>
         </div>
       </div>
       <div className="content">
