@@ -110,7 +110,8 @@ button {
   width: 200px;
   height: 200px;
   margin: 0 10px 50px 0;
-  cursor: pointer; 
+  cursor: pointer;
+  text-align: left; /* Add this line to align text to the left */
 }
 
 .recipe img {
