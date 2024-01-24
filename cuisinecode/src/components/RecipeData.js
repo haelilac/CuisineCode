@@ -284,7 +284,7 @@ export const recipes = [
       ingredients: ["pig leg", "dried bay leaves", "peppercorn", "star anise", "salt", "garlic powder", "salt", "brown sugar", "water", "cooking oil"],
       procedure: "1. Pour 12 cups of water in a cooking pot then let boil.\n2. 2. Put-in 6 dried bay leaves, 2 tbsp of whole peppercorn, 4 pcs of star anise, and 4 tsp of salt.\n3. 3. Add the whole pig’s legs in the cooking pot then simmer until the leg becomes tender (about 45 to 60 minutes).\n4. 4. Remove the tender leg from the cooking pot and set aside until the temperature goes down.\n5. 5. Rub the leg with 2 teaspoons of garlic powder, 2 teaspoons of  ground black pepper, and remaining salt. Let stand for 15 minutes to absorb the rub.\n6. 6. Heat a clean large cooking pot (preferably with cover) and pour-in cooking oil.\n7. 7. When the oil becomes hot, deep fry the rubbed pork leg. Continue cooking in medium heat until one side becomes crispy, and then cautiously flip the leg to crisp the other side. Note: Be extra careful in doing this procedure.\n8. 8. Turn-off the heat; remove the crispy pork leg; and transfer it to a wide serving plate.\n9. 9. Serve with atcharang papaya and soy sauce – vinegar dipping sauce.\n10. 10. Share and enjoy!",
       image: "crispy_pata.jpg"
-    }
+    },
 
    {
       id: 17,
@@ -297,7 +297,7 @@ export const recipes = [
     {
       id: 18,
       name: "Kare-Kare",
-      ingredients: ["beef or pork", "banana flower bud", "pechay ", "egg plants", "ground peanuts", "peanut butter", "shrimp paste", "water", "onion", "garlic", "annatto seeds", “ground rice”, “salt”, “pepper”],
+      ingredients: ["beef or pork", "banana flower bud", "pechay ", "egg plants", "ground peanuts", "peanut butter", "shrimp paste", "water", "onion", "garlic", "annatto seeds", "ground rice", "salt", "pepper"],
       procedure: "1. In a large pot, bring the 34 ounces water to a boil.\n2. 2. Put in the 3 lbs pork or beef followed by the onions and simmer for 2.5 to 3 hrs or until tender (35 minutes if using a pressure cooker).\n3. 3. Once the meat is tender, add the 1 cup ground peanuts, ½ cup peanut butter, and coloring (water from the ½ cup annatto seed mixture) and simmer for 5 to 7 minutes\n4. 4. Add the ½ cup toasted ground rice and simmer for 5 minutes.\n5. 5. On a separate pan, saute the 1 tbsp minced garlic then add the 1 piece sliced banana flower,  4 pcs sliced eggplant, and 1 bundle sliced string beans and cook for 5 minutes.\n6. 6. Transfer the cooked vegetables to the large pot (where the rest of the ingredients are).\n7. 7. Add salt and pepper to taste.\n8. 8. Add the string beans (and other vegetables if there are any) and simmer for 5 to 8 minutes.\n9. 9. Serve hot with shrimp paste. Enjoy!",
       image: "kare-kare.jpg"
     },
