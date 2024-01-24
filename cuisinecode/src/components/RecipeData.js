@@ -1031,7 +1031,307 @@ image: "cheesy_lumpiang_shanghai.jpg"
     procedure: "1. Slice the 1 lb. pork into thin pieces. Arrange in a large bowl.\n2. 2. Add 1⁄2 tsp. ground black pepper. Squeeze  1 pc. of lime over the pork and pour patis. Mix everything together. Let it stay for 10 minutes for the meat to absorb the flavors of the seasonings.\n3. 3. Heat oil in a pot or deep fryer.\n4. 4. Beat 2 pcs. eggs in a bowl. Prepare 3 ⁄ 4 cups of almond flour by transferring to a bowl. Place the two bowls side-by-side.\n5. 5. Dip sliced pork in almond flour, then on beaten eggs. Dip it again in almond flour making sure that all sides are coated. Place on a frying basket (for deep-frying), or a clean plate (for traditional frying).\n6. 6. Fry pork until golden brown and crispy. Note: this should take around 4 to 6 minutes in medium heat.\n7. 7. Remove from the fryer and arrange on a serving plate. Serve with a spicy vinegar dipping sauce.",
     image: "pinatisang_baboy.jpg"
   },
-
+  {
+    id: 71,
+    name: "Ginataang Kuhol",
+    ingredients: [
+      "Apple snails",
+      "spinach",
+      "red chilies",
+      "onion",
+      "garlic",
+      "coconut milk",
+      "ginger",
+      "shrimp paste",
+      "pepper",
+      "egg",
+      "cooking oil"
+    ],
+    procedure: "1. Heat 3 tablespoons of cooking oil in a cooking pot.\n2. Once the oil gets hot, saute the 4 cloves of garlic and 1 medium sliced onion. Add sliced 2 thumbs ginger and continue to cook for 1 to 2 minutes.\n3. Put 1/2 kg apple snails in the cooking pot. Stir and cook for 2 minutes.\n4. Add 1/4 cup shrimp paste and 6 pieces of red chilies. Stir.\n5. Pour in 2 cups of coconut milk. Let boil. Cover and simmer for 30 minutes.\n6. Add 1/4 teaspoon ground black pepper and 1 large bunch of spinach. Stir and cook for 5 minutes without covering.\n7. Transfer to a serving bowl. Serve for pulutan or as a main dish with warm white rice. Share and enjoy!",
+    image: "ginataang_kuhol.jpg"
+  },
+  
+  {
+    id: 72,
+    name: "Dinengdeng with Fried Fish",
+    ingredients: [
+      "milkfish",
+      "okra",
+      "squash flower",
+      "bitter gourd",
+      "snake beans",
+      "plum tomato",
+      "ginger",
+      "onion",
+      "pepper",
+      "hot pepper leaves",
+      "water",
+      "bagoong monamon",
+      "salt",
+      "cooking oil"
+    ],
+    procedure: "1. Rub salt all over the fish. Heat ½ cup cooking oil in a pan. Once the oil gets hot, fry 2 to 3 pieces of medium-sized fish until the side turns golden brown. Turn the fish over and continue to fry the other side until the same color is achieved. Remove the fried fish from the cooking pot. Place on a plate and set aside.\n2. Pour 3 cups of water into a clean cooking pot. Let boil.\n3. Add 1 medium onion, 2 sliced knobs of ginger, and 2 medium ripe plum tomatoes. Cover and boil in medium heat for 5 minutes.\n4. Stir-in the bagoong. Add okra, bitter gourd, and snake beans. Cover and cook for 7 to 12 minutes.\n5. Add 2 cups hot pepper leaves and 1 ½ cup squash flower. Cook for 3 minutes.\n6. Put the fried fish on top. Cover. Cook for 1 minute. Transfer to a serving bowl.\n7. Serve. Share and enjoy!",
+    image: "dinengdeng_with_fried_fish.jpg"
+  },
+  
+  {
+    id: 73,
+    name: "Lechon Kawali",
+    ingredients: [
+      "pork belly",
+      "salt",
+      "peppercorn",
+      "bay leaves",
+      "cooking oil",
+      "water"
+    ],
+    procedure: "1. Pour 5 cups of water into the cooking pot. Boil.\n2. Add 1kg pork belly and 1 tablespoon of salt. Put some peppercorn and 5 pieces of dried bay leaves. Boil for 30 minutes or until meat gets tender.\n3. Remove the meat from the pot and let it cool down for a few minutes.\n4. Spread 1 tablespoon of salt on the pork belly. Make sure to distribute it evenly on all sections.\n5. Start to deep fry the boiled meat. Heat 3 cups of cooking oil on a cooking pot.\n6. Put each piece of boiled pork belly into the hot oil with extra caution. Fry until crispy. Turn the meat over to completely fry the opposite side until crispy. Note: be extra careful when frying as oil can splatter. You can use the cover of the pot to cover it while oil splatters, but do not cover completely as steam will be trapped. It will cause more splatters.\n7. Remove the meat from the cooking pot. Arrange on a wire rack to cool down.  Slice according to desired portions.\n8. Serve with lechon sauce. Share and Enjoy!",
+    image: "lechon_kawali.jpg"
+  },
+  
+  {
+    id: 74,
+    name: "Pork Pata Humba",
+    ingredients: [
+      "ham hock",
+      "banana blossoms",
+      "pork cube",
+      "black beans",
+      "brown sugar",
+      "onion",
+      "garlic",
+      "bay leaves",
+      "peppercorn",
+      "pineapple juice",
+      "soy sauce",
+      "vinegar",
+      "water",
+      "cooking oil"
+    ],
+    procedure: "1. Pour 6 cups of water into the cooking pot. Boil.\n2. Add the 1 kg ham hock (pata). Scoop out the scums that will eventually float. Cover and boil in medium heat for 40 to 60 minutes. You can add more water if needed.\n3. Remove the pata from the cooking pot and set it aside. Discard the water.\n4. Pour 3 tablespoons of cooking oil into a clean cooking pot.\n5. Once the oil gets hot, saute 4 cloves of garlic and 1 medium yellow onion.\n6. Add the boiled pata. Stir and cook for 1 minute.\n7. Pour 1/2 cup soy sauce and 4 cups pineapple juice into the pot. Let boil.\n8. Add 1 pork cube. Stir.\n9. Add 3 pieces of dried bay leaves, 1/2 teaspoon crushed peppercorns, 1/2 cup dried banana blossoms, and 1/4 cup salted black beans (tausi). Stir. Cover and continue to cook between low to medium heat until the liquid reduces to half.\n10. Add 1 teaspoon of vinegar. Stir and then add 1/4 cup dark brown sugar. Continue to cook for 5 minutes.\n11. Transfer to a serving bowl or plate. Serve.\n12. Share and enjoy!",
+    image: "pork_pata_humba.jpg"
+  },
+  {
+    id: 75,
+    name: "Sinuglaw",
+    ingredients: [
+      "pork belly",
+      "tuna meat",
+      "cucumber",
+      "vinegar",
+      "red onion",
+      "ginger",
+      "finger chilies",
+      "lemon",
+      "salt"
+    ],
+    procedure: "1. Place 1/2 kg tuna meat in a bowl then pour in 1/2 cup of vinegar. Soak for 8 minutes.\n2. Using a spoon or fork, press the tuna meat lightly.\n3. Drain the vinegar then combine 2 cups cucumber, 1 sliced medium-sized red onion, 2 tablespoons julienned ginger, 4 pieces sliced finger chili, and 1 teaspoon salt. Mix well.\n4. Squeeze 1 piece lemon until all the juices are extracted then pour in the remaining 3/4 cup vinegar. Mix well and soak for 10 minutes.\n5. Put in the 1/2 kg grilled pork belly and mix thoroughly. Let the mixture stand for at least 1 hour (you may place this inside the refrigerator).\n6. Transfer to a serving bowl or plate. Serve.\n7. Share and enjoy!",
+    image: "sinuglaw.jpg"
+  },
+  
+  {
+    id: 76,
+    name: "Adobong Pusit",
+    ingredients: [
+      "squid",
+      "soy sauce",
+      "vinegar",
+      "salt",
+      "onion",
+      "tomato",
+      "garlic",
+      "sugar",
+      "cooking oil"
+    ],
+    procedure: "1. Combine 5 pieces of large squid, 1 teaspoon salt, 2 tablespoons soy sauce, and 5 tablespoons vinegar in a bowl. Mix well. Marinate for 12 minutes.\n2. Heat 3 tablespoons of cooking oil in a cooking pot. Saute 5 crushed cloves of garlic until it starts to turn light brown. Add 1 piece chopped onion and 1 piece chopped tomato. Continue to saute until onion and tomato completely softens.\n3. Pour the marinade liquid into the pot. Add ground black pepper. Let boil and then cook for 3 minutes using low to medium heat. Make sure to cover the pot.\n4. Add 5 large squid. Let the sauce boil. Cover the pot and continue cooking for 3 minutes.\n5. Add 1/2 teaspoon sugar. Stir. Remove the squid from the pot and then arrange in a bowl. Continue cooking the sauce until it reduces to half.\n6. Pour the sauce over the squid. Serve. Share and enjoy.",
+    image: "adobong_pusit.jpg"
+  },
+  
+  {
+    id: 77,
+    name: "Pinangat Fish",
+    ingredients: [
+      "fish",
+      "bilimbi",
+      "tomato",
+      "peppercorn",
+      "salt",
+      "water"
+    ],
+    procedure: "1. Alternately arrange 1kg fish, 8 pieces of bilimbi, and 2 medium tomatoes in a wide cooking pot.\n2. Sprinkle 1 1/2 teaspoon salt and 1 teaspoon whole peppercorn, and then pour-in 1 cup water.\n3. Cover the cooking pot and turn on the heat to medium. Let boil.\n4. When the liquid starts to boil, adjust the heat to low. Continue cooking for 15 to 20 minutes.\n5. Turn off the heat and transfer to a serving plate.\n6. Serve with steamed rice. Serve. Share and enjoy.",
+    image: "pinangat_fish.jpg"
+  },
+  
+  {
+    id: 78,
+    name: "Kilawing Labanos",
+    ingredients: [
+      "radish",
+      "pork",
+      "pork liver",
+      "sugar",
+      "vinegar",
+      "onion",
+      "garlic",
+      "cooking oil",
+      "salt",
+      "pepper"
+    ],
+    procedure: "1. Slice 1 piece daikon radish into thin pieces. Arrange in a bowl and then add 2 tablespoons of salt. Rub salt all over the radish slices and let it stay for 15 minutes. Squeeze the juice out of the radish. Rinse with water until all the salt goes off. Squeeze to release water.\n2. Combine prepared radish, 1/4 kg pork, 1/8 kg pork liver, 3/4 cup sugar, 1 piece sliced onion, and 3/4 cup white vinegar in a large bowl. Toss until well blended. Marinate for 20 minutes.\n3. Heat oil in a cooking pot. Saute 4 sliced garlic cloves until golden brown.\n4. Add the marinated mixture. Let boil. Stir and then adjust the heat between low to medium. Cover the pot and continue to cook for 20 to 25 minutes.\n6. Season with salt and ground black pepper. Serve with warm white rice.\n7. Share and enjoy.",
+    image: "kilawing_labanos.jpg"
+  },
+  
+  {
+    id: 79,
+    name: "Lechon Paksiw",
+    ingredients: [
+      "pork lechon",
+      "pork Cube",
+      "lechon sauce",
+      "sugar",
+      "vinegar",
+      "bay leaves",
+      "onion",
+      "garlic",
+      "cooking oil",
+      "salt",
+      "peppercorn",
+      "water"
+    ],
+    procedure: "1. Chop 1 1/2 kg lechon into serving pieces. Place in a large cooking pot and add 2 1/2 cups of water. Bring to a boil.\n2. Add 5 cloves garlic, 2 pieces onion, 2 teaspoons whole peppercorn, and 5 pieces dried bay leaves. Cover the pot. Boil for 5 minutes.\n3. Add 1 piece Knorr Pork Cube and 1/2 cup vinegar. Cover the pot. Let boil. Adjust the heat between low to medium. Cook for 30 minutes.\n4. Pour lechon sauce into the pan. Stir. Cook for 15 minutes.\n5. Add 1/4 cup sugar and season with salt. Cook for 3 minutes.\n6. Transfer to a serving bowl. Serve with rice. Share and enjoy.",
+    image: "lechon_paksiw.jpg"
+  },
+  
+  {
+    id: 80,
+    name: "Inun-unan",
+    ingredients: [
+      "fish",
+      "bitter gourd",
+      "eggplant",
+      "ginger",
+      "vinegar",
+      "green chili",
+      "onion",
+      "water",
+      "peppercorn"
+    ],
+    procedure: "1. Arrange the 1 small onion, fish, 1 thumb sliced ginger, 1 teaspoon whole peppercorn, water, and vinegar in a cooking pot. Cover the pot and turn the heat on. Let the liquid boil.\n2. Once the liquid starts to boil, adjust the heat to low. Cook for 15 minutes.\n3. Add 1 medium eggplant, 1 medium bitter gourd, 5 pieces long green and chili (or pepper). Cover the pot and continue to cook until the water completely evaporates.\n4. Transfer to a serving plate. Serve.\n5. Share and enjoy!",
+    image: "inun-unan.jpg"
+  },
+  
+  {
+    id: 81,
+    name: "Sinarsahang Manok",
+    ingredients: [
+      "chicken",
+      "bell pepper",
+      "chicken cube",
+      "green peas",
+      "green beans",
+      "green chili",
+      "onion",
+      "garlic",
+      "tomato",
+      "soy sauce",
+      "tomato sauce",
+      "water",
+      "tomato ketchup",
+      "sugar",
+      "pepper",
+      "salt",
+      "cooking oil"
+    ],
+    procedure: "1. Heat 2 tablespoons of oil in a pan. Sauté 1 piece bell pepper julienne, 1/2 cup green peas, and 6 pieces long green beans for 45 seconds. Remove from the pan and set aside.\n2. Add remaining oil. Once oil becomes hot, pan-fry the 1/2kg chicken pieces for 3 minutes per side. Remove chicken from the pan and place on a clean plate. Set aside.\n3. Sauté 3 cloves garlic chopped, 1 piece onion chopped, and 8 ounces tomato sauce using the remaining oil. Add 3 tablespoons soy sauce, tomato sauce, and water once the onion softens. Let it boil.\n4. Add Knorr chicken cube and then put the chicken piece back into the pan. Cover the pan and continue cooking the chicken using medium heat for 15 minutes. Remove the cover and cook until the sauce becomes thick.\n5. Add Knorr chicken cube and then put the chicken piece back into the pan. Cover the pan and continue cooking the chicken using medium heat for 15 minutes. Remove the cover and cook until the sauce becomes thick.\n6. Season with sugar, salt, and ground black pepper. Transfer to a serving plate. Serve!",
+    image: "sinarsahang_manok.jpg"
+  },
+  
+  {
+    id: 82,
+   name: "Ginataang Langka with Tinapa",
+    ingredients: [
+      "unripe jackfruit",
+      "coconut milk",
+      "chili pepper",
+      "tinapa flakes",
+      "malunggay leaves",
+      "garlic ",
+      "onion",
+      "shrimp paste",
+      "vinegar",
+      "pepper",
+      "cooking oil",
+      "salt"
+    ],
+    procedure: "1. Heat 3 tablespoons of oil in a pan. Saute 5 cloves garlic crushed and chopped and 1 large yellow onion minced until the onion gets soft.\n2. Add the chopped 1/2 kg unripe jackfruit. Cook for 3 to 5 minutes.\n3. Put-in the tinapa flakes (smoked fish flakes). Stir and cook for 1 minute.\n4. Add 1/8 teaspoon ground black pepper and 8 pieces of chili peppers.\n5. Pour-in 4 cups coconut milk. Let boil. Add 2 tablespoons shrimp paste and 2 tablespoons vinegar. Stir. Cover and cook in medium heat for 15 minutes while stirring occasionally.\n6. Add the malunggay leaves. Stir and continue to cook for 5 to 10 minutes.\n.7. Sprinkle some salt only if needed. Stir.\n8. Transfer to a serving bowl. Serve!",
+    image: "ginataang_langka_with_tinapa.jpg"
+  },
+  
+  {
+    id: 83,
+    name: "Kinilaw na Tuna",
+    ingredients: [
+      "tuna",
+      "lemon",
+      "ginger",
+      "onion",
+      "vinegar",
+      "pepper",
+      "cooking oil",
+      "salt"
+    ],
+    procedure: "1. Place 1 kg cubed tuna meat in a large bowl then pour-in 3/4 cups of vinegar.\n2. Let stand for 2 minutes then gently squeeze the tuna by placing a spoon on top applying a little pressure.\n3. Gently wash the tuna meat with vinegar. Drain all the vinegar once done. This will help reduce the fishy smell.\n4. Add the remaining 3/4 cup vinegar, calamansi or lemon juice, 3 tablespoons ginger, 2 teaspoon salt, 1 teaspoon ground black pepper, and red chilies then mix well.\n5. Cover the bowl and refrigerate for at least 2 hours.\n6. Top with minced red onions and serve (you may also add the red onions with the rest of the ingredients in step 4).\n.7. Share and enjoy!",
+    image: "kinilaw_na_tuna.jpg"
+  },
+  
+  {
+    id: 84,
+    name: "Kwek-Kwek",
+    ingredients: [
+      "quail eggs",
+      "flour",
+      "cornstarch",
+      "water",
+      "anatto powder",
+      "pepper",
+      "cooking oil",
+      "salt"
+    ],
+    procedure: "1. Place 3 tablespoons cornstarch in a container and dredge the boiled quail eggs. Set aside.\n2. In a mixing bowl, combine 1 cup flour, 1/2 teaspoon salt, and  1/2 teaspoon pepper then mix thoroughly.\n3. Dilute 1 tablespoons anatto powder in warm water then pour-in the mixing bowl with the other ingredients. Mix well.\n4. Place all the quail eggs in the mixing bowl and coat with the batter.\n5. Heat the pan and pour the cooking oil.\n6. When the oil is hot enough, deep-fry the quail eggs by scooping them from the mixing bowl using a spoon. Make sure that each is coated with batter.\n.7. After a few minutes, remove the fried quail eggs from the pan and place in a serving plate.\n8. Serve with vinegar or fish ball sauce while still crispy. Share and enjoy!",
+    image: "kwek-kwek.jpg"
+  },
+  
+  {
+    id: 85,
+    name: "Binatog",
+    ingredients: [
+      "white corn",
+      "sugar",
+      "coconut"
+    ],
+    procedure: "1. Heat a cooking pot then pour-in the canned hominy/white corn (include the liquid).\n2. Add 1 cup of water and bring to a boil.\n3. Simmer for 12 to 15 minutes.\n4. Drain the water and place the boiled hominy in a serving plate.\n5. Top with sugar (or salt depending on your preference) and grated coconut.\n6. Serve. Share and enjoy!",
+    image: "binatog.jpg"
+  },
+  
+  {
+    id: 86,
+    name: "Ginataang Puso ng Saging",
+    ingredients: [
+      "banana blossom",
+      "coconut milk",
+      "ground pork",
+      "chili pepper",
+      "onion",
+      "garlic",
+      "black pepper",
+      "water",
+      "cooking oil",
+      "shrimp"
+    ],
+    procedure: "1. Slice banana blossom into thin pieces. Soak in 1/2 cup vinegar for 15 minutes. Rinse and wring tight. Set aside.\n2. Heat oil in a pot. Add 4 cloves of garlic minced and cook until it starts to brown.\n3. Add 1 piece onion chopped. Saute while constantly stirring until onion softens.\n4. Add 1/4 kg ground pork. Cook until pork turns light brown.\n5. Put the banana blossoms in the pan. Saute for 2 minutes. Pour vinegar. Cover and cook in medium heat for another 2 minutes.\n6. Pour coconut milk and add chili peppers. Let boil. Cover the pot and continue cooking in low to medium heat for 7 to 10 minutes. Note: add more water as needed.\n7. Add shrimp. Cook for 2 minutes. Season with ground black pepper.\n8. Transfer to a serving bowl and serve. Share and enjoy!",
+    image: "ginataang_puso_ng_saging.jpg"
+  },
+  
   
   
     ];
