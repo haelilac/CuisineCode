@@ -756,6 +756,24 @@ export const recipes = [
         procedure: "1. In a pot, heat the 2 tbsp cooking oil then sauté the 1 tbsp minced garlic, 1 cup minced onion, and 2knobs ginger \n2. 2. Dash-in some ground 1/2 teaspoon of ground black pepper. \n3. 3. Rinse pandan leaves and pat dry. \n4. 4.Pour-in the fish sauce and water then simmer until the ox tripe is tender. \n5. 5. Add the 1 cup uncooked rice and stir. \n6. 6. Pour-in the beef broth and bring to a boil. \n7. 7. Stir occasionally until the rice reaches the desired consistency \n8.8. Put-in the hard boiled eggs then stir. \n9. 9. Add the 1 tbsp of safflower for additional color and aroma.\n10. 10. Serve hot with minced green onions, crushed chicharon, and lemon. Share and Enjoy.",
         image: "Goto.jpg"
         },
+
+        {
+          id:49,
+          name: "Puto Bumbong",
+          ingredients: [
+        "sticky purple rice",
+        "glutinous white rice",
+        "long grain purple rice ",
+        "water",
+        "muscovado sugar",
+        "freshly grated coconut",
+        "softened butter",
+         
+          ],
+        procedure: "1. Combine all 1 1/3 cups sticky purple rice and 2/3 cup long grain purple rice in a large mixing bowl. Pour water. Soak for 2 days.\n2. 2. Drain the water by pouring the contents of the bowl into a large sieve. \n3. 3. Put the soaked rice in a large food processor. Start to grind the rice until it becomes very fine. Note: It took me around 10 minutes to achieve this consistency. \n4. 4.Fill your puto bumbong steamer with water halfway through. Apply heat and then let the water boil. \n5. 5. Meanwhile, fill each bumbong (bamboo tube) with powdered rice. Note: Do not compress the rice so that steam can pass easily. \n6. 6. Once the water starts to boil rapidly, arrange each bamboo tube on the steamer. Continue to cook until steam comes out of the tube.\n7. 7.Remove the tube from the steamer. Arrange the contents over a piece of banana leaf. Spread 1/2 cup butter all over and then top with 1 1/2 cups freshly grated coconut and 3/4 cups muscovado sugar.",
+        image: "Puto_Bumbong.jpg"
+        },
+        
         
 
         
