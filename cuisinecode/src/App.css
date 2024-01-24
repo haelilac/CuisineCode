@@ -38,7 +38,6 @@
 .header-text {
   color: #fff;
 }
-
 .content {
   display: flex;
   flex: 1;
@@ -51,7 +50,7 @@
   width: 400px;
   height: auto;
   background-color: #ffffff;
-  padding: 50px;
+  padding: 80px;
   box-sizing: border-box;
 }
 
@@ -62,7 +61,8 @@
 
 .Random-Recipe-container h2 {
   font-size: 24px;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
+  margin-right:20px;
 }
 
 .recipe {
