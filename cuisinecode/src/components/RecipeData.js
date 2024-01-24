@@ -1165,6 +1165,23 @@ image: "bicol_express_pizza.jpg"
       image: "lechon_paksiw.jpg"
     },
     {
+      id: 80,
+      name: "Inun-unan",
+      ingredients: [
+        "fish",
+        "bitter gourd",
+        "eggplant",
+        "ginger",
+        "vinegar",
+        "green chili",
+        "onion",
+        "water",
+        "peppercorn"
+      ],
+      procedure: "1. Arrange the 1 small onion, fish, 1 thumb sliced ginger, 1 teaspoon whole peppercorn, water, and vinegar in a cooking pot. Cover the pot and turn the heat on. Let the liquid boil.\n2. Once the liquid starts to boil, adjust the heat to low. Cook for 15 minutes.\n3. Add 1 medium eggplant, 1 medium bitter gourd, 5 pieces long green and chili (or pepper). Cover the pot and continue to cook until the water completely evaporates.\n4. Transfer to a serving plate. Serve.\n5. Share and enjoy!",
+      image: "inun-unan.jpg"
+    },    
+    {
       id: 81,
       name: "Sinarsahang Manok",
       ingredients: [
