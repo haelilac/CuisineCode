@@ -461,6 +461,24 @@ export const recipes = [
         procedure: "1. Combine 2 cups of sticky rice and 1 1/2 cups of water in a rice cooker and cook until the rice is ready (we intentionally combined a lesser amount of water than usual so that the rice will not be fully cooked).\n2. While the rice is cooking, combine 4 cups of coconut milk with 2 cups of brown sugar and 1/2 teaspoon salt in a separate pot and cook on low heat until the texture becomes thick. Stir constantly.\n3. Once the rice is cooked and the coconut milk-sugar mixture is thick enough, add the cooked rice to the coconut milk and sugar mixture then mix well. Continue cooking until all the liquid evaporates (but do not overcook).\n4. Scoop the cooked biko and place it in a serving plate then flatten the surface.\n5. Share and enjoy!",
         image: "biko.jpg"
       },
+      {
+        id: 33,
+        name: "Buko Pie",
+        ingredients: [
+          "all-purpose flour",
+          "butter",
+          "salt",
+          "vegetable shortening",
+          "cold water",
+          "young coconut meat",
+          "granulated white sugar",
+          "cornstarch",
+          "coconut water",
+          "evaporated milk"
+        ],
+        procedure: "1. Create the crust. Combine 2 cups of all-purpose flour and 1 teaspoon salt then mix using a balloon whisk. Add 1/3 cup melted butter and 1/3 cup vegetable shortening then mix using a pastry mixer. Gradually add coconut water a tablespoon at a time while mixing the ingredients. When everything is completely mixed, gather the mixture and divide it into two equal parts. On a flat surface flatten each of the dough and roll using a rolling pin until wide enough to fit an eight or nine-inch cake pan. Note: Sprinkle flour over the flat surface to prevent the dough from sticking or use a silicon mat. Arrange the first dough over the cake pan. This will be the base. Set the second flattened dough aside. This will be needed after arranging the filling in the cake pan.\n2. Make the filling by heating a saucepan and pour in 1/2 cup of evaporated milk. Let it boil.\n3. Add 3/4 cups of granulated white sugar and stir.\n4. Put in 2 cups of young coconut meat and cook for 3 minutes.\n5. Pour in 1/2 cup cornstarch diluted in young coconut water and stir thoroughly while cooking. Cook until the texture thickens.\n6. Turn off the heat and allow the mixture to cool down.\n7. Preheat the oven to 375 degrees Fahrenheit.\n8. Arrange the cooked filling in the cake pan.\n9. Put the second crust over the filling and seal the sides.\n10. Create holes on the secondary crust using a fork. This will serve as exhaust vents that will prevent the crust from deforming.\n11. Bake for 45 to 55 minutes or until the color turns golden brown. Note: Baking time may vary; make sure to check the color of the crust to determine if baking is complete.\n12. Let cool and serve. Share and enjoy!",
+        image: "buko_pie.jpg"
+      },
       
 
       ]
