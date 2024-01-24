@@ -371,7 +371,32 @@ export const recipes = [
         procedure: "1. Heat a pan and cooking pot then pour-in ½ cup of vinegar and 1 cup of water.\n2. 2. Add 2 tsp. of salt and whole 1 tsp. Whole peppercorn then stir. Bring to a boil.\n3. 3. Arrange the fish in the pan along with the ginger, 6 cloves garlic, 1 medium sliced onion, and 3 pcs. finger chili. Cover and simmer in low to medium heat for 12 to 15 minutes.\n4. 4. Turn off the heat and transfer to a serving plate.\n5. 5. Serve hot with steamed rice. Share and enjoy!/n6. 6. Note: You may substitute salt with 3/4 to 1 tablespoon fish sauce.",
       image: "paksiw_na_isda.jpg"
       },  
-  
+      {
+        id: 28,
+        name: "Halo-Halo",
+        ingredients: [
+          "sweetened jackfruit",
+          "sweetened saba banana",
+          "ripe mango",
+          "sweetened sweet potato",
+          "sweetened garbanzos",
+          "sweetened red beans",
+          "sweetened white beans",
+          "sweet corn kernels",
+          "gulaman",
+          "tapioca",
+          "young coconut",
+          "evaporated milk",
+          "rice krispies",
+          "purple yam",
+          "leche flan",
+          "ice cream",
+          "shaved ice"
+        ],
+        procedure: "1. Add about a teaspoon of each desired add-in to a tall glass, filling it about ⅓ full.\n2. Pack the glass with shaved ice.\n3. Drizzle evaporated milk over the ice.\n4. Top the ice with scoops of ice cream, leche flan, and purple yam.\n5. Sprinkle with rice crispies as desired.",
+        image: "halo_halo.jpg"
+      },
+      
 
       ]
       
