@@ -97,6 +97,21 @@ export const recipes = [
     procedure: "1. Prepare the ground pork stuffing by heating 3 tablespoons of oil in a pan. Saute garlic and onion until the latter softens. Add ground pork. Saute until medium brown. Season with salt and ground black pepper. Remove from the pan and put on a large bowl. Let it cool down. Beat 1 piece of egg and pour into the cooked ground pork. Mix well. Set aside.\n2. Slice one side of the peppers lengthwise all the way to the bottom. Remove the seeds by gently scraping using a small spoon or a butter knife. Set aside.\n3. Slice the 4 ounces of cheddar cheese into long pieces. Stuff individual slices of cheese into each pepper. Scoop the cooked meat mixture and stuff into the chili peppers. Make sure that there is enough meat.\n4. Wrap the stuffed peppers in a lumpia wrapper.\n5. Heat 2 cups of oil in a pan. Fry each piece of dynamite lumpia in medium heat for 2 minutes per side or until the lumpia wrapper turns golden brown. Note: you may fry longer if needed.\n6. Remove from the pan and place over a wire rack. Let it cool down. Arrange on a serving plate and then serve with your favorite condiment.\n7. Share and enjoy!",
     image: "Dynamite_Lumpia.jpg"
   },
+  {
+    id: 6,
+    name: "Bagoong Rice",
+    ingredients: [
+      "Pork belly",
+      "Scallions",
+      "Green mango",
+      "Steamed white rice",
+      "Bagoong guisado",
+      "Garlic minced",
+      "Cooking oil"
+    ],
+    procedure: "1. Heat a frying pan.\n2. Sear the sliced 1/4 lb pork belly by putting them directly in the hot pan and cooking them until oil comes out. This should take about 2 to 5 minutes.\n3. Add 1 tablespoon of bagoong guisado and then stir. Cook for a minute and then remove from the pan and set aside.\n4. Pour the 1 tablespoon cooking oil in the same frying pan.\n5. When the oil becomes hot, put in 1 teaspoon of garlic and then cook for 15 seconds.\n6. Add 2 tablespoons of shrimp paste and then cook for 30 seconds on medium heat.\n7. Put in the rice. Gently mix while cooking until all the ingredients are distributed properly. Cook the rice for 10 minutes while gently scraping the bottom of the pan once in a while.\n8. Transfer the rice to a serving bowl. Top with the cooked pork belly, 1/2 cup chopped green mango, and 3 tablespoons chopped scallions.\n9. Serve. Share and enjoy!",
+    image: "Bagoong_Rice.jpeg"
+  },
   
 
 ];
