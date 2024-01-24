@@ -860,6 +860,28 @@ export const recipes = [
         image: "Taba_ng_talangka_fried_rice.jpg"
         },
         
+        {
+          id:55,
+          name: "Ginisang Monggo",
+          ingredients: [
+        "mung beans",
+        "garlic",
+        "pork",
+        "spinach",
+        "tomato",
+        "onion",
+        "shrimp",
+        "fish sauce",
+        "water",
+        "knorr beef cube",
+        "pork rind",
+        "black pepper"
+         
+          ],
+          procedure: "1. In a pan, put-in 24 ounces of water and bring to a boil. \n2. 2.Put-in the 1 1/2 Mung beans and simmer until they become soft. \n3. 3.On a separate pan, 1 tbsp garlic, 1 piece chopped onion, and 1 piece chopped tomato. \n4. 4.Add the 1/2 cup crushed pork rind. Cook for 5 mins \n5. 5. Put-in the 1 piece beef cube and 2 tablespoons fish sauce. Simmer for 10 mins or until the meat is tender. Note: If necessary, you may add water to help make the meat tender but make sure to add more time to simmer. \n6. 6.Add the 8 pieces of shrimp. Stir and then cook for 2 minutes.\n7. 7.Pour the cooked Mung beans. Stir and then simmer for 10 minutes \n8 8.Add the spinach and 1/2 cup crushed pork rinds. \n9. 9.Sprinkle the ground 1/4 teaspoon black pepper and serve.",
+          image: "Ginisang_Monggo.jpg"
+        },
+        
         
           
 
