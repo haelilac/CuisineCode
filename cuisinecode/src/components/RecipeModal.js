@@ -1,7 +1,7 @@
 import React from 'react';
 
 const RecipeModal = ({ recipe, onClose }) => {
-  const imagePath = process.env.PUBLIC_URL + '/' + recipe.image; // Constructing the image path
+  const imagePath = process.env.PUBLIC_URL + '/' + recipe.image;
 
   // Split the procedure string into an array of lines
   const procedureLines = recipe.procedure.split('\n');

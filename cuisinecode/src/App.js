@@ -67,7 +67,7 @@ function App() {
   };
 
   return (
-    <div className="App">
+    <div className="App" style={{ backgroundImage: `url(/Assets/MainBg.jpg)` }}>
       <div className="header" style={{ backgroundImage: `url(/Assets/headerbg.jpg)` }}>
         <div className="header-text">
           <h1>Cuisine Code</h1>
@@ -92,20 +92,20 @@ function App() {
           <span class="material-icons-outlined">search</span>
         </button>
         </div>
-          <div className="recipes-container">
-            {filteredRecipes.length > 0 ? (
-              filteredRecipes.map((recipe) => (
-                <div key={recipe.id} className="recipe" onClick={() => openRecipeModal(recipe)}>
-                  <img src={recipe.image} alt={recipe.name} />
-                  <p>{recipe.name}</p>
-                </div>
-              ))
-            ) : (
-              <div className="no-recipes">
-              <p>No matching recipes found.</p>
-              </div>
-            )}
+        <div className="recipes-container">
+        {filteredRecipes.length > 0 ? (
+          filteredRecipes.map((recipe) => (
+            <div key={recipe.id} className="recipe" onClick={() => openRecipeModal(recipe)}>
+              <img src={recipe.image} alt={recipe.name} />
+              <p className="recipe-rname">{recipe.name}</p>
+            </div>
+          ))
+        ) : (
+          <div className="no-recipes">
+            <p>No matching recipes found.</p>
           </div>
+        )}
+      </div>
         </div>
       </div>
       {selectedRecipe && <RecipeModal recipe={selectedRecipe} onClose={closeRecipeModal} />}
