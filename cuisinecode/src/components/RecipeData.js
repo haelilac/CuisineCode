@@ -294,6 +294,13 @@ export const recipes = [
       image: "sinigang.jpg"
     },
 
-     
+    {
+      id: 18,
+      name: "Kare-Kare",
+      ingredients: ["beef or pork", "banana flower bud", "pechay ", "egg plants", "ground peanuts", "peanut butter", "shrimp paste", "water", "onion", "garlic", "annatto seeds", “ground rice”, “salt”, “pepper”],
+      procedure: "1. In a large pot, bring the 34 ounces water to a boil.\n2. 2. Put in the 3 lbs pork or beef followed by the onions and simmer for 2.5 to 3 hrs or until tender (35 minutes if using a pressure cooker).\n3. 3. Once the meat is tender, add the 1 cup ground peanuts, ½ cup peanut butter, and coloring (water from the ½ cup annatto seed mixture) and simmer for 5 to 7 minutes\n4. 4. Add the ½ cup toasted ground rice and simmer for 5 minutes.\n5. 5. On a separate pan, saute the 1 tbsp minced garlic then add the 1 piece sliced banana flower,  4 pcs sliced eggplant, and 1 bundle sliced string beans and cook for 5 minutes.\n6. 6. Transfer the cooked vegetables to the large pot (where the rest of the ingredients are).\n7. 7. Add salt and pepper to taste.\n8. 8. Add the string beans (and other vegetables if there are any) and simmer for 5 to 8 minutes.\n9. 9. Serve hot with shrimp paste. Enjoy!",
+      image: "kare-kare.jpg"
+    },
+
 
 ];
