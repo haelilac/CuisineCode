@@ -981,6 +981,21 @@ image: "bulanglang.jpg"
       procedure: "1. Preheat the oven to 450°F.\n2. 2. Assemble pizza by spreading Bicol express sauce on each pizza crust surface.\n3. 3. Add mozzarella and quickmelt cheese on each crust. Top with Bicol express meat and bell peppers.\n4. 4. Bake for 10 minutes or until the crust is golden brown and the cheese has melted.\n5. 5. Combine together chili flakes and honey. Drizzle over pizza just before serving.",
 image: "bicol_express_pizza.jpg"
     },
+    {
+      id: 69,
+      name: "Cheesy Lumpiang Shanghai",
+      ingredients: ["lumpia wrapper", "cooking oil", "ground pork", "Mozzarella string cheese", "onion", "Knorr Liquid Seasoning", "carrot", "cornstarch", "egg", "ground black pepper"],
+      procedure: "1. Combine ground pork with the filling ingredients. Add Knorr Liquid seasoning. Mix everything together: 2 lbs. ground pork, 2 teaspoons Knorr Liquid Seasoning, 1 cup carrot, 4 tablespoons cornstarch, 1 egg, Ground black pepper to taste, 1 piece onion.\n2. 2. Wrap the lumpia by laying a sheet of lumpia wrapper on a clean flat surface. Scoop around 1 ½ tablespoons of mixture and spread it on one side of the wrapper. Put the sliced string cheese over and cover it completely with the meat mixture. Fold the sides of the wrapper inward, roll it, and secure the ends. Perform this step until the entire meat mixture is consumed: 30 pieces lumpia wrapper, 8 pieces Mozzarella string cheese\n3. 3. Cook the lumpia by heating the remaining oil in a wok. Deep fry using medium heat setting until the lumpia turns golden brown: 2 cups cooking oil.\n4. 4. Bake for 10 Arrange on a serving plate and serve with ketchup. Share and enjoy!",
+    image: "cheesy_lumpiang_shanghai.jpg"
+    },
+
+ {
+      id: 70,
+      name: "Pinatisang Baboy",
+     ingredients: ["pork", "kalamansi", "patis", "almond flour", "eggs", "ground black pepper", "cooking oil"],
+      procedure: "1. Slice the 1 lb. pork into thin pieces. Arrange in a large bowl.\n2. 2. Add 1⁄2 tsp. ground black pepper. Squeeze  1 pc. of lime over the pork and pour patis. Mix everything together. Let it stay for 10 minutes for the meat to absorb the flavors of the seasonings.\n3. 3. Heat oil in a pot or deep fryer.\n4. 4. Beat 2 pcs. eggs in a bowl. Prepare 3 ⁄ 4 cups of almond flour by transferring to a bowl. Place the two bowls side-by-side.\n5. 5. Dip sliced pork in almond flour, then on beaten eggs. Dip it again in almond flour making sure that all sides are coated. Place on a frying basket (for deep-frying), or a clean plate (for traditional frying).\n6. 6. Fry pork until golden brown and crispy. Note: this should take around 4 to 6 minutes in medium heat.\n7. 7. Remove from the fryer and arrange on a serving plate. Serve with a spicy vinegar dipping sauce.",
+      image: "pinatisang_baboy.jpg"
+    },
 
      
 ];
