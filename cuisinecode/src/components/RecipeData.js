@@ -1095,6 +1095,23 @@ image: "bicol_express_pizza.jpg"
       procedure: "1. Place 1/2 kg tuna meat in a bowl then pour in 1/2 cup of vinegar. Soak for 8 minutes.\n2. Using a spoon or fork, press the tuna meat lightly.\n3. Drain the vinegar then combine 2 cups cucumber, 1 sliced medium-sized red onion, 2 tablespoons julienned ginger, 4 pieces sliced finger chili, and 1 teaspoon salt. Mix well.\n4. Squeeze 1 piece lemon until all the juices are extracted then pour in the remaining 3/4 cup vinegar. Mix well and soak for 10 minutes.\n5. Put in the 1/2 kg grilled pork belly and mix thoroughly. Let the mixture stand for at least 1 hour (you may place this inside the refrigerator).\n6. Transfer to a serving bowl or plate. Serve.\n7. Share and enjoy!",
       image: "sinuglaw.jpg"
     },
+    {
+      id: 76,
+      name: "Adobong Pusit",
+      ingredients: [
+        "squid",
+        "soy sauce",
+        "vinegar",
+        "salt",
+        "onion",
+        "tomato",
+        "garlic",
+        "sugar",
+        "cooking oil"
+      ],
+      procedure: "1. Combine 5 pieces of large squid, 1 teaspoon salt, 2 tablespoons soy sauce, and 5 tablespoons vinegar in a bowl. Mix well. Marinate for 12 minutes.\n2. Heat 3 tablespoons of cooking oil in a cooking pot. Saute 5 crushed cloves of garlic until it starts to turn light brown. Add 1 piece chopped onion and 1 piece chopped tomato. Continue to saute until onion and tomato completely softens.\n3. Pour the marinade liquid into the pot. Add ground black pepper. Let boil and then cook for 3 minutes using low to medium heat. Make sure to cover the pot.\n4. Add 5 large squid. Let the sauce boil. Cover the pot and continue cooking for 3 minutes.\n5. Add 1/2 teaspoon sugar. Stir. Remove the squid from the pot and then arrange in a bowl. Continue cooking the sauce until it reduces to half.\n6. Pour the sauce over the squid. Serve. Share and enjoy.",
+      image: "adobong_pusit.jpg"
+    },
     
      
 ];
