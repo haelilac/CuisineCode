@@ -552,6 +552,20 @@ export const recipes = [
         procedure: "1. Roll the banana on the sugar plate and ensure that the banana is coated with enough sugar.\n2. Place the banana with sugar coating in the spring roll wrapper and add some ripe jackfruit.\n3. Fold and lock the spring roll wrapper, using water to seal the edge.\n4. In a pan, heat 2 cups of cooking oil and put in some sugar. Wait until the brown sugar floats.\n5. Serve hot as a dessert or snack. Share and enjoy!",
         image: "turon.jpg"
       },
+      {
+        id: 39,
+        name: "Ube Halaya",
+        ingredients: [
+          "grated purple yam",
+          "condensed milk",
+          "coconut milk",
+          "butter",
+          "ube flavoring",
+          "cheddar cheese"
+        ],
+        procedure: "1. Pour 2 cups of coconut milk into a cooking pot. Let it boil.\n2. Stir and add the 1 14 ounces condensed milk.\n3. Once the mixture starts to boil, add the 1/2 kilo grated purple yam and 1 teaspoon ube flavoring. Continue to cook on medium heat while continuously stirring for 30 minutes.\n4. Add butter. Stir. Cook until the mixture reaches your desired thickness. (I usually cook it for 10 to 12 minutes after adding butter).\n5. Transfer to a container. Top with shredded cheese.\n6. Serve. Share and enjoy!",
+        image: "ube_halaya.jpg"
+      },
       
 
       ]
