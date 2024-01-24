@@ -637,6 +637,29 @@ export const recipes = [
         image: "Tapsilog.jpg"
       },
       
+      {
+        id:44,
+        name: "Chicken Adobo Flakes",
+        ingredients: [
+          "boneless chicken thigh",
+          "garlic",
+          "cloves",
+          "whole peppercorns",
+          "bay leaves",
+          "white vinegar",
+          "soy sauce",
+      "sugar",
+      "water",
+      "chicken broth",
+      "poached eggs",
+      "pickled red onions"
+        ],
+        "procedure": "1. Combine all marinade ingredients in a bowl. Mix everything together with clean hands, making sure that all your chicken pieces are evenly coated. Cover and refrigerate overnight to marinate.\n2. 2. The next day, heat a pan over medium-high heat. Sear chicken pieces on one side until browned and slightly caramelized. Remove chicken. Deglaze pan with warm water and add the chicken broth cube. Stir until the cube is dissolved. Add remaining marinade and chicken pieces. Let cook until meat is tender—the exact cooking time will depend on the size of your chicken. Season to taste, then serve. Let leftovers cool completely before refrigerating. \n3. 3. Shred leftover chicken adobo along the grain using two forks or your hands. Heat oil in a pan over medium heat, then fry shredded chicken, working in batches if necessary, until dry and golden brown. Be careful not to burn the flakes. Transfer fried flakes to a heatproof plate or tray lined with paper towels. \n4. 4.Scoop one serving adobo flakes over rice. Place poached egg over the flakes, and pickled red onions on the side. Serve warm.",
+        image: "Chicken_Adobo_Flakes.jpg"
+      },
+       
+      
+      
      
 
 
