@@ -612,5 +612,305 @@ export const recipes = [
     procedure: "1. Preheat the oven to 375 degrees Fahrenheit.\n2. Combine 1 cup rice flour, 2 1/2 teaspoons baking powder, and 1/8 teaspoon salt, then mix well. Set aside.\n3. Cream butter, then gradually put in sugar while whisking.\n4. Add 3 pieces of eggs, then whisk until every ingredient is well incorporated.\n5. Gradually add the rice flour, salt, and baking powder mixture, then continue mixing.\n6. Pour in coconut milk and fresh milk, then whisk for 1 to 2 minutes.\n7. Arrange the pre-cut banana leaf on a cake pan or baking pan.\n8. Pour the mixture on the pan.\n9. Bake for 15 minutes.\n10. Remove from the oven, then top with sliced salted egg and grated cheese (do not turn the oven off).\n11. Put back in the oven and bake for 15 to 20 minutes or until the color of the top turns medium brown.\n12. Remove from the oven and let cool.\n13. Brush with butter and top with grated coconut.\n14. Serve. Share and enjoy!",
     image: "bibingka.jpg"
   },
+  {
+    id:41,
+    name: "Sinampalukang Manok",
+    ingredients: [
+      "chicken",
+      "spinach",
+      "tomatoes",
+      "long green beans",
+      "eggplant",
+      "onion",
+      "sinigang mix",
+      "cooking oil",
+      "water"
+    ],
+    procedure: "1. Heat 3 tablespoons of cooking oil in the pot..\n2. 2. Saute 1 medium onion and 3 medium tomatoes \n3. 3. When the onions and tomatoes become soft, add the 1 to 1 1/2 lb chicken and then cook until the color of the outer part turns light brown. \n4. 4 .Pour in the 2 tablespoons of fish sauce, and then add chicken bouillon. Stir. \n5. 5. Pour-in water and let boil. \n6. 6.Add  1 1/2 cups tamarind leaves and sinigang mix powder. Simmer until chicken becomes tender.\n7. 7. Add the 1 medium eggplant and  1/2 lb long green beans. Cook for 5 to 8 minutes. \n8. 8.Put in the 2 cups of spinach and cover the cooking pot. Let the cover stay for 5 to 6 minutes for the residual heat to cook the spinach. \n9.Transfer to a serving bowl. Serve.",
+    image:  "Sinampalukang_Manok.jpg"
+  },
+
+  {
+    id:42,
+    name: "Taho",
+    ingredients: [
+      "soft silken tofu",
+      "sago pearls",
+      "water",
+      "brown sugar",
+      "vanilla extract"
+    ],
+    procedure: "1. Pour 5 cups of water in a cooking pot and bring to a boil.\n2. 2. Add the  3/4 cup sago pearls. Boil for 3 to 6 minutes. Reduce the heat to low setting, continue boiling for 5 to 10 minutes \n3. 3.Drain the hot water by filtering the sago using a kitchen strainer. Put the sago pearls in a bowl with warm water and let it stay until needed. \n4. 4.Make the arnibal by boiling 3/4 cup water in a saucepan. Add the brown sugar. Stir. Add the vanilla extract. Turn the heat off. Set aside. \n5. 5.Transfer the extra soft tofu in a bowl. Microwave it for 2 1/2 minutes. \n6. 6. Arrange the soft tofu in individual cups. Top with sago pearls and pour arnibal (syrup) on top.\n7. 7. Serve warm. Share and Enjoy.",
+    image: "Taho.jpg"
+  },
+  {
+    id:43,
+    name: "Tapsilog",
+    ingredients: [
+      "beef sirloin",
+      "egg",
+      "cooking oil",
+      "Knorr Liquid Seasoning",
+      "garlict",
+      "pineapple juice",
+      "brown sugar",
+  "white pepper",
+  "rice"
+    ],
+    procedure: "1. Prepare the tapa by placing the beef in a large bowl. Combine with all the tapa marinade ingredients. Mix well and cover the bowl. Place inside the fridge and marinate overnight.\n2. 2. Cook the garlic fried rice (sinangag na kanin) by heating 3 tablespoons of cooking oil in a pan. Add crushed garlic. Cook until garlic turns light brown. Add the leftover rice. Stir-fry for 3 minutes. \n3. 3. Season with 1 teaspoon salt. Continue to stir-fry for 3 to 5 minutes. Set aside. \n4. 4. Start to cook the tapa. Heat a pan and pour the marinated beef into it, including the marinade. Add ¾ cups water. Let the mixture boil. Cover the pan and continue to cook until the liquid reduces to half. Add 3 tablespoons of cooking oil into the mixture. Continue to cook until the liquid completely evaporates. Fry the beef tapa in remaining oil until medium brown. Set aside. \n5. 5. Pour-in water and let boil. \n6. 6. Fry the egg by pouring 1 tablespoon of oil on a pan. Crack a piece of egg and sprinkle enough salt on top. Cook for 30 seconds. Pour 2 tablespoons of water on the side of the pan. Cover and let the water boil. Continue to cook until the egg yolks gets completely cooked by the steam. \n7. 7. Arrange the beef tapa, sinangag, and fried egg on a large plate to form Tapsilog. Serve with vinegar as a dipping sauce for tapa.",
+    image: "Tapsilog.jpg"
+  },
+   
+  {
+    id:44,
+    name: "Chicken Adobo Flakes",
+    ingredients: [
+      "boneless chicken thigh",
+      "garlic",
+      "cloves",
+      "whole peppercorns",
+      "bay leaves",
+      "white vinegar",
+      "soy sauce",
+  "sugar",
+  "water",
+  "chicken broth",
+  "poached eggs",
+  "pickled red onions"
+    ],
+    "procedure": "1. Combine all marinade ingredients in a bowl. Mix everything together with clean hands, making sure that all your chicken pieces are evenly coated. Cover and refrigerate overnight to marinate.\n2. 2. The next day, heat a pan over medium-high heat. Sear chicken pieces on one side until browned and slightly caramelized. Remove chicken. Deglaze pan with warm water and add the chicken broth cube. Stir until the cube is dissolved. Add remaining marinade and chicken pieces. Let cook until meat is tender—the exact cooking time will depend on the size of your chicken. Season to taste, then serve. Let leftovers cool completely before refrigerating. \n3. 3. Shred leftover chicken adobo along the grain using two forks or your hands. Heat oil in a pan over medium heat, then fry shredded chicken, working in batches if necessary, until dry and golden brown. Be careful not to burn the flakes. Transfer fried flakes to a heatproof plate or tray lined with paper towels. \n4. 4.Scoop one serving adobo flakes over rice. Place poached egg over the flakes, and pickled red onions on the side. Serve warm.",
+    image: "Chicken_Adobo_Flakes.jpg"
+  },
+   
+  {
+    id:45,
+    name: "Champurado",
+    ingredients: [
+      "tablea",
+      "glutinous rice",
+      "granulated white sugar",
+      "water",
+  "Condensed milk"
+    ],
+  procedure: "1. Pour 6 to 9 cups of water in a cooking pot. Bring to a boil.\n2. 2. Put in the 5 pieces of  tablea and then stir. Let it dissolve in boiling water. \n3. 3. Add in the 1 3/4 rice. Let the water re-boil. Set the heat to low-medium and then stir almost constantly to avoid sticking. The rice should be ready when it absorbs the water (about 15 to 25 minutes). \n4. 4. Add the 3/4 white sugar. Stir until the sugar dissolves. \n5.Transfer the champorado in individual serving bowls.Top with condensed milk.",
+  image: "Champurado"
+  },
+   
+  {
+    id:46,
+    name: "Isaw",
+    ingredients: [
+    "chicken intestine",
+  "vinegar",
+  "whole peppercorn",
+  "salt",
+  "dried bay leaves",
+  "water",
+  "UFC banana ketchup",
+  "sugar",
+  "water",
+  "soy sauce",
+  "cooking oil"
+    ],
+  procedure: "1. After buying already cleaned intestines, clean them again yourself, for safety reasons. Clean them lightly to squeeze out any remaining waste, and use a pair of scissors to cut them open and clean under some running water. You can also use a little water hose. \n2. 2. Slice the pork intestines horizontally into 1-inch/2.5cm long pieces, and the chicken intestines into 6-inch/15cm long pieces. Coil the intestines onto skewers, adding about 3 to 4 pieces to each stick. \n3. 3.Boil water with 2 tbsp salt, 1 tbsp whole peppercorns, and  4 to 6 dried bay leaves in a big pot. Place the skewered intestines into the pot and cook over a low flame for a few minutes. Next, add the 120ml  vinegar and simmer for approximately half an hour or until soft and tender. Leave to cool. \n4. 4. Mix the 3tbsp soy sauce, 2 tbsp cooking oil, and  ½ cup ketchup to make the grilling sauce. Grill the intestines, brushing them with the prepared sauce, for approximately 5-10 minutes, or until they turn reddish-brown. When done, serve isaw with some soy sauce or a spiced vinegar dip.",
+    image: "Isaw.jpg"
+  },
+  {
+    id:47,
+    name: "Sinigang na manok",
+    ingredients: [
+    "cloves garlic",
+  "onion",
+  "ginger ",
+  "chicken",
+  "quart water",
+  "labanos",
+  "Knorr Sinigang sa Sampaloc Mix",
+  "tomatoes",
+  "green pepper",
+  "okra",
+  "string beans ",
+  "ground black pepper ",
+  "fish sauce ",
+  "cooking oil "
+   
+    ],
+   procedure: "1. Heat cooking oil in a pot. 3 chopped Saute garlic, 1 chopped onion, and 1 thumb ginger. \n2. 2. Add the 2 lbs chicken once the onion softens. Cook one side for 2 minutes. Turn it over and do the same on the opposite side. \n3. 3.Pour water. Let boil. \n4. 4.Add 1 cup of labanos and 22gram Knorr Sinigang sa Sampaloc Mix. Cover the pot and continue cooking using low to medium heat for 35 minutes. \n5. 5.Add 2 halved tomato, 2 long green pepper, 5 okra, and 12 string beans cut into 2-inch pieces. Cook for 8 to 12 minutes. \n6. 6. Season with ground black pepper and fish sauce. \n7.7. Add spinach. Cook for 1 minute. \n8. 8.Transfer to a serving bowl. Serve and Enjoy.",
+  image: "Sinigang_na_manok.jpg"
+  },
+   
+  {
+    id:48,
+    name: "Sinanglay_na_Tilapia",
+    ingredients: [
+    "tilapia",
+  "tomatoes",
+  "shallots ",
+  "ginger",
+  "tamarind powder",
+  "pechay leaves",
+  "pandan leaves",
+  "coconut milk",
+  "chili peppers",
+  "salt and pepper"
+   
+    ],
+    procedure: "1. Rinse the 2 tilapia and make sure innards are completely removed. Season with salt and pepper to taste. \n2. 2. In a bowl, combine 2 diced tomatoes, 4 peeled and chopped shallots, 1 thumb-sized ginger peeled and minced, and 1 tbsp tamarind powder.\n3. 3.Rinse pandan leaves and pat dry. \n4. 4.Divide tomato-onion mixture and gently spoon into the belly cavity of each fish. \n5. 5.Wrap fish with pechay and tie with pandan to completely secure. \n6.In a wide pan, arrange prepared fish parcels in a single layer. \n6. 6..Add coconut milk and chili peppers. Season with salt and pepper to taste. \n7. 7. Cover and bring to a simmer over low heat. Continue to cook for about 20 to 25 minutes or until fish is cooked through and sauce is reduced. Serve hot.",
+  image: "Sinanglay_na_Tilapia"
+  },
+   
+  {
+    id:48,
+    name: "Goto",
+    ingredients: [
+    "ox tripe",
+  "uncooked rice",
+  "water ",
+  "beef stock",
+  "fish sauce",
+  "garlic",
+  "black pepper",
+  "onion ",
+  "boiled eggs",
+  "scallions" ,
+  "ginger" ,
+  "safflower" ,
+  "calamansi" ,
+  "chicharon" ,
+  "cooking oil" 
+   
+    ],
+    "procedure": "1. In a pot, heat the 2 tbsp cooking oil then sauté the 1 tbsp minced garlic, 1 cup minced onion, and 2knobs ginger \n2. 2. Dash-in some ground 1/2 teaspoon of ground black pepper. \n3. 3. Rinse pandan leaves and pat dry. \n4. 4.Pour-in the fish sauce and water then simmer until the ox tripe is tender. \n5. 5. Add the 1 cup uncooked rice and stir. \n6. 6. Pour-in the beef broth and bring to a boil. \n7. 7. Stir occasionally until the rice reaches the desired consistency \n8.8. Put-in the hard boiled eggs then stir. \n9. 9. Add the 1 tbsp of safflower for additional color and aroma.\n10. 10. Serve hot with minced green onions, crushed chicharon, and lemon. Share and Enjoy.",
+   
+  image: "Goto.jpg"
+  },
+   
+  {
+    id:49,
+    name: "Puto Bumbong",
+    ingredients: [
+    "sticky purple rice",
+  "glutinous white rice",
+  "long grain purple rice ",
+  "water",
+  "muscovado sugar",
+  "freshly grated coconut",
+  "softened butter"
+    ],
+    procedure: "1. Combine all 1 1/3 cups sticky purple rice and 2/3 cup long grain purple rice in a large mixing bowl. Pour water. Soak for 2 days. \n2. 2. Drain the water by pouring the contents of the bowl into a large sieve. \n3. 3. Put the soaked rice in a large food processor. Start to grind the rice until it becomes very fine. Note: It took me around 10 minutes to achieve this consistency. \n4. 4.Fill your puto bumbong steamer with water halfway through. Apply heat and then let the water boil. \n5. 5. Meanwhile, fill each bumbong (bamboo tube) with powdered rice. Note: Do not compress the rice so that steam can pass easily. \n6. 6. Once the water starts to boil rapidly, arrange each bamboo tube on the steamer. Continue to cook until steam comes out of the tube.\n7. 7.Remove the tube from the steamer. Arrange the contents over a piece of banana leaf. Spread 1/2 cup butter all over and then top with 1 1/2 cups freshly grated coconut and 3/4 cups muscovado sugar.",
+    image: "Puto_Bumbong.jpg"
+  },
+   
+  {
+    id:51,
+    name: "La Paz Batchoy",
+    ingredients: [
+    "miki noodles",
+  "pork",
+  "pig's intestines ",
+  "pig liver",
+  "salt",
+  "ground black pepper",
+  "sugar",
+    "shrimp paste",
+  "onion powder",
+  "cracklings",
+  "spring onion",
+  "toasted garlic",
+  "water",
+    ],
+    procedure: "1.Boil water in a cooking pot.\n2. 2.Put-in 1 1/2 teaspoons salt, 2 teaspoons sugar, 1 teaspoon onion powder,1/2 teaspoon ground black pepper, and 1 teaspoon shrimp paste. Cook for a minute.. \n3. 3.Add the 1 lb pork and cook until tender (about 30 to 45 minutes). \n4. 4.Put-in the 1 lb pig's intestines and 1/4 lb pig  liver, and then cook for 6 to 10 minutes. \n5. 5.Remove the pork, liver, and intestine from the broth (caldo). Set aside. \n6. 6.Slice the pork into strips. \n7. 7.Arranged the cooked miki noodles in a single serving bowl. \n8 8.Place the strips of pork, liver, and intestine on top of the 1 lb miki noodles. \n8. 8.Pour the broth in the bowl, and then garnish with spring onions and toasted garlic.\n9. 9.Pour the broth in the bowl, and then garnish with spring onions and toasted garlic. \n10. 10.Serve hot. Share and enjoy.",  
+  image: "La_Paz_Batchoy.jpg"
+  },
+   
+  {
+    id:52,
+    name: "Pancit Canton",
+    ingredients: [
+    "flour stick noodles",
+  "pork",
+  "sausage slice ",
+  "onion",
+  "garlic",
+  "shrimp",
+  "snap peas",
+    "shrimp paste",
+  "carrot",
+  "cabbage",
+  "chicken broth",
+  "oyster saucer",
+  "water",
+  "carrot",
+  "flat leaf parsley",
+  "cooking oil",
+  "salt",
+  "pepper"
+   
+    ],
+    procedure: "1. Place 2 cups of ice and 3 cups of water in a large bowl. Set aside. \n2. 2.Boil 6 cups of water in a cooking pot. \n3. 3.Once the water starts to boil, blanch the 10 to 12 pieces snap peas, 3/4 cup carrots, and 1 piece cabbage for 35 to 50 seconds. Quickly remove the vegetables and immerse in a bowl with ice cold water. Drain the water after 2 minutes and set aside. \n4. 4.Heat a large wok or cooking pot and pour-in the  3 tablespoons of cooking oil \n5. 5. Saute the onion and garlic. \n6. 6.Add the  4 ounces pork and 1 piece sausage slices and continue to cook for 2 minutes. \n7. 7.Add-in 3 tablespoons soy sauce and 1 tablespoon  oyster sauce. Stir. \n8. 8.Pour-in chicken broth and water. Add salt and pepper. Let boil. continue to cook for 5 to 10 minutes. \n9. 9.Put-in the shrimp and parsley. Cook for 3 minutes. Add more water if needed. \n10. 10.Put-in the flour noodles. Gently toss until the noodles absorb the liquid. \n11. 11.Add-in the blanched vegetables. Toss and cook for 1 to 2 minutes. \n12. 12.Transfer to a serving plate. Serve.",
+    image: "Pancit_Canton.jpg"
+  },
+   
+  {
+    id:53,
+    name: "Kinalabasang Hipon",
+    ingredients: [
+  "shrimp",
+  "squash",
+  "white onion ",
+  "canola oil",
+  "kangkong leaves",
+  "chicken cube",
+  "fish sauce",
+  "sugar"
+   
+    ],
+    procedure: "1.Heat 2 tbsp of oil in a small pot and sauté onion until it becomes translucent \n2. 2. Add 300g peeled and cut squash and 3 cups of stock. \n3. 3.Simmer until squash are soft. Use fork to mash it or if you prefer a smoother consistency, use an immersion blender. \n4. 4.Simmer for 5 more minutes. \n5. 5.Add in 500g shrimp and simmer for 10 minutes to let the flavors get married. If it gets too thick, add more water or stock to thin it out.\n6. 6.Stir in sugar and fish sauce to taste. \n7. 7.Add kangkong leaves and simmer for another minute. \n8 8.Serve with steamed rice.",
+    image: "Kinalabasang_Hipon.jpg"
+  },
+   
+  {
+    id:54,
+    name: "Taba ng Talangka Fried Rice",
+    ingredients: [
+  "minced garlic",
+  "grated ginger",
+  "finely chopped shallots",
+  "vegetable oil",
+  "crab paste",
+  "calamansi juice",
+  "salt",
+  "cooked white rice",
+  "scallion",
+   
+    ],
+    procedure: "1. 1 teaspoon minced garlic, 1/4 teaspoon grated ginger, and shallots in 1 tablespoon vegetable oil in a large skillet over medium heat for 1 to 2 minutes until softened. \n2. 2.Add the 1 tablespoon crab paste and 1 splash of calamansi juice. Stir for about 1 minute. \n3. 3.Taste and add 1/4 tablespoon salt, as needed. \n4. 4.Mix in the cooked rice and stir-fry just until heated through, about 5 minutes. Serve hot and garnished with 1 medium scallion",
+   
+  image: "Taba_ng_Talangka_Fried_ Rice.jpg"
+  },
+   
+  {
+    id:55,
+    name: "Ginisang Monggo",
+    ingredients: [
+  "mung beans",
+  "garlic",
+  "pork",
+  "spinach",
+  "tomato",
+  "onion",
+  "shrimp",
+  "fish sauce",
+  "water",
+  "knorr beef cube",
+  "pork rind",
+  "black pepper"
+   
+    ],
+    procedure: "1. In a pan, put-in 24 ounces of water and bring to a boil. \n2. 2.Put-in the 1 1/2 Mung beans and simmer until they become soft. \n3. 3.On a separate pan, 1 tbsp garlic, 1 piece chopped onion, and 1 piece chopped tomato. \n4. 4.Add the 1/2 cup crushed pork rind. Cook for 5 mins \n5. 5. Put-in the 1 piece beef cube and 2 tablespoons fish sauce. Simmer for 10 mins or until the meat is tender. Note: If necessary, you may add water to help make the meat tender but make sure to add more time to simmer. \n6. 6.Add the 8 pieces of shrimp. Stir and then cook for 2 minutes.\n7. 7.Pour the cooked Mung beans. Stir and then simmer for 10 minutes \n8 8.Add the spinach and 1/2 cup crushed pork rinds. \n9. 9.Sprinkle the ground 1/4 teaspoon black pepper and serve.",
+    image: "Ginisang_Monggo.jpg"
+  },
+    
+  
   
     ];
