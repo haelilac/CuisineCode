@@ -81,12 +81,14 @@ function App() {
   
 
   return (
+    <div className="body" style={{ backgroundImage: `url(/Assets/mainbg.jpg)` }}>
     <div className={`app-container ${scrollingUp ? 'scrolling-up' : ''}`}>
       <div className="header" style={{ backgroundImage: `url(/Assets/headerbg.jpg)` }}>
         <div className="header-text">
           <h1>Cuisine Code</h1>
           <p>Discover the Art of Filipino Cuisine</p>
         </div>
+      </div>
       </div>
       <div className="content">
         <div className="left-container">
