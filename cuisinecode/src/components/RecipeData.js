@@ -619,6 +619,23 @@ export const recipes = [
         procedure: "1. Pour 5 cups of water in a cooking pot and bring to a boil.\n2. 2. Add the  3/4 cup sago pearls. Boil for 3 to 6 minutes. Reduce the heat to low setting, continue boiling for 5 to 10 minutes \n3. 3.Drain the hot water by filtering the sago using a kitchen strainer. Put the sago pearls in a bowl with warm water and let it stay until needed. \n4. 4.Make the arnibal by boiling 3/4 cup water in a saucepan. Add the brown sugar. Stir. Add the vanilla extract. Turn the heat off. Set aside. \n5. 5.Transfer the extra soft tofu in a bowl. Microwave it for 2 1/2 minutes. \n6. 6. Arrange the soft tofu in individual cups. Top with sago pearls and pour arnibal (syrup) on top.\n7. 7. Serve warm. Share and Enjoy.",
         image: "Taho.jpg"
       },
+      {
+        id:43,
+        name: "Tapsilog",
+        ingredients: [
+          "beef sirloin",
+          "egg",
+          "cooking oil",
+          "Knorr Liquid Seasoning",
+          "garlict",
+          "pineapple juice",
+          "brown sugar",
+          "white pepper",
+          "rice"
+        ],
+        procedure: "1. Prepare the tapa by placing the beef in a large bowl. Combine with all the tapa marinade ingredients. Mix well and cover the bowl. Place inside the fridge and marinate overnight.\n2. 2. Cook the garlic fried rice (sinangag na kanin) by heating 3 tablespoons of cooking oil in a pan. Add crushed garlic. Cook until garlic turns light brown. Add the leftover rice. Stir-fry for 3 minutes. \n3. 3. Season with 1 teaspoon salt. Continue to stir-fry for 3 to 5 minutes. Set aside. \n4. 4. Start to cook the tapa. Heat a pan and pour the marinated beef into it, including the marinade. Add ¾ cups water. Let the mixture boil. Cover the pan and continue to cook until the liquid reduces to half. Add 3 tablespoons of cooking oil into the mixture. Continue to cook until the liquid completely evaporates. Fry the beef tapa in remaining oil until medium brown. Set aside. \n5. 5. Pour-in water and let boil. \n6. 6. Fry the egg by pouring 1 tablespoon of oil on a pan. Crack a piece of egg and sprinkle enough salt on top. Cook for 30 seconds. Pour 2 tablespoons of water on the side of the pan. Cover and let the water boil. Continue to cook until the egg yolks gets completely cooked by the steam. \n7. 7. Arrange the beef tapa, sinangag, and fried egg on a large plate to form Tapsilog. Serve with vinegar as a dipping sauce for tapa.",
+        image: "Tapsilog.jpg"
+      },
       
      
 
