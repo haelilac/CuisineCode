@@ -1242,6 +1242,22 @@ image: "bicol_express_pizza.jpg"
       procedure: "1. Place 1 kg cubed tuna meat in a large bowl then pour-in 3/4 cups of vinegar.\n2. Let stand for 2 minutes then gently squeeze the tuna by placing a spoon on top applying a little pressure.\n3. Gently wash the tuna meat with vinegar. Drain all the vinegar once done. This will help reduce the fishy smell.\n4. Add the remaining 3/4 cup vinegar, calamansi or lemon juice, 3 tablespoons ginger, 2 teaspoon salt, 1 teaspoon ground black pepper, and red chilies then mix well.\n5. Cover the bowl and refrigerate for at least 2 hours.\n6. Top with minced red onions and serve (you may also add the red onions with the rest of the ingredients in step 4).\n.7. Share and enjoy!",
       image: "kinilaw_na_tuna.jpg"
     },
+    {
+      id: 84,
+      name: "Kwek-Kwek",
+      ingredients: [
+        "quail eggs",
+        "flour",
+        "cornstarch",
+        "water",
+        "anatto powder",
+        "pepper",
+        "cooking oil",
+        "salt"
+      ],
+      procedure: "1. Place 3 tablespoons cornstarch in a container and dredge the boiled quail eggs. Set aside.\n2. In a mixing bowl, combine 1 cup flour, 1/2 teaspoon salt, and  1/2 teaspoon pepper then mix thoroughly.\n3. Dilute 1 tablespoons anatto powder in warm water then pour-in the mixing bowl with the other ingredients. Mix well.\n4. Place all the quail eggs in the mixing bowl and coat with the batter.\n5. Heat the pan and pour the cooking oil.\n6. When the oil is hot enough, deep-fry the quail eggs by scooping them from the mixing bowl using a spoon. Make sure that each is coated with batter.\n.7. After a few minutes, remove the fried quail eggs from the pan and place in a serving plate.\n8. Serve with vinegar or fish ball sauce while still crispy. Share and enjoy!",
+      image: "kwek-kwek.jpg"
+    },
     
      
 ];
