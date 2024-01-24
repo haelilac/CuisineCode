@@ -510,6 +510,22 @@ export const recipes = [
         procedure: "1. Combine 1 cup warm fresh milk, 1 pouch rapid rise yeast, and 1/2 cup sugar and stir until yeast and sugar dissolve in milk. Set aside to let the yeast activate (approximately 10 minutes).\n2. In a mixing bowl, combine all the dry ingredients starting from the 5 cups of flour, 3/4 cup sugar, and 1 teaspoon salt then mix thoroughly.\n3. Add 3 pieces of eggs, 1/2 cup butter, and the activated yeast mixture (these are the ingredients that we combined in number 1) to the mixed dry ingredients. Mix thoroughly until all ingredients are evenly distributed and a dough is formed.\n4. Knead the dough until the texture becomes fine.\n5. Put the dough back on the mixing bowl and cover the top with cloth. Allow the dough to rise for 2 hours.\n6. Put the dough on a flat surface and flatten. Punch the dough lightly to release the air inside.\n7. Using a dough slicer, divide the dough into four pieces.\n8. Roll each piece until the shape becomes cylindrical.\n9. Cut the cylindrical dough into individual serving pieces (1 serving piece should weigh at least 80 grams).\n10. Put the sliced individual serving piece on a flat surface and flatten using a rolling pin.\n11. Combine 1/4 cup melted butter with 1/4 cup white sugar. Using a brush, paint the mixture on the flattened dough. Make sure to paint only the center part of the flat dough.\n12. Sprinkle some cheese over the painted area then seal the dough by folding opposite directions and rolling it until a long cylindrical shape is formed (about 14 inches in length).\n13. Start forming the spiral Ensaymada shape by crossing the two opposite ends of the dough. The first end should be placed under the dough while the other end should be inserted in the middle. (See video for better comprehension).\n14. Place the dough in a baking tray with wax paper and cover with cloth. Set aside to rise for another 45 minutes.\n15. Pre-heat the oven at 350 degrees Fahrenheit for 10 minutes. Remove cloth on top of the tray and bake the dough for 15 minutes at 350 degrees Fahrenheit.\n16. Remove the baked Ensaymada from the oven. Using the remaining melted butter and sugar mixture, paint the top of the baked ensaymada and sprinkle additional cheese.\n17. Serve hot. Share and Enjoy!",
         image: "ensaymada.jpg"
       },
+      {
+        id: 36,
+        name: "Ginataang Mais",
+        ingredients: [
+          "coconut cream",
+          "coconut milk",
+          "glutinous rice",
+          "sweet corn",
+          "granulated white sugar",
+          "vanilla extract",
+          "salt"
+        ],
+        procedure: "1. Pour 2 cups coconut milk and 2 cups coconut cream into a cooking pot. Let it boil.\n2. Once it starts to boil, add 1/2 cup glutinous rice. Stir continuously for 10 minutes.\n3. Add 3/4 cup sugar. Stir.\n4. Add 1 cup of sweetcorn to the pot. Stir and continue to cook on low heat for 8 minutes. Note: You can cook this longer to make the corn and rice softer.\n5. Add 1 teaspoon vanilla extract and a pinch of salt. Stir.\n6. Transfer to a serving bowl and serve.\n7. Share and enjoy!",
+        "notes": "",
+        image: "ginataang_mais.jpg"
+      },
       
 
       ]
