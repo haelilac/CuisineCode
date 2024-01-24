@@ -558,13 +558,33 @@ export const recipes = [
         ingredients: [
           "grated purple yam",
           "condensed milk",
-          "coconut milk",
+          "coconut",
           "butter",
           "ube flavoring",
           "cheddar cheese"
         ],
         procedure: "1. Pour 2 cups of coconut milk into a cooking pot. Let it boil.\n2. Stir and add the 1 14 ounces condensed milk.\n3. Once the mixture starts to boil, add the 1/2 kilo grated purple yam and 1 teaspoon ube flavoring. Continue to cook on medium heat while continuously stirring for 30 minutes.\n4. Add butter. Stir. Cook until the mixture reaches your desired thickness. (I usually cook it for 10 to 12 minutes after adding butter).\n5. Transfer to a container. Top with shredded cheese.\n6. Serve. Share and enjoy!",
         image: "ube_halaya.jpg"
+      },
+      {
+        id: 40,
+        name: "Bibingka",
+        ingredients: [
+          "rice flour",
+          "salt",
+          "baking powder",
+          "butter",
+          "granulated sugar",
+          "coconut milk",
+          "fresh milk",
+          "salted egg",
+          "cheese",
+          "egg",
+          "coconut",
+          "banana leaf"
+        ],
+        procedure: "1. Preheat the oven to 375 degrees Fahrenheit.\n2. Combine 1 cup rice flour, 2 1/2 teaspoons baking powder, and 1/8 teaspoon salt, then mix well. Set aside.\n3. Cream butter, then gradually put in sugar while whisking.\n4. Add 3 pieces of eggs, then whisk until every ingredient is well incorporated.\n5. Gradually add the rice flour, salt, and baking powder mixture, then continue mixing.\n6. Pour in coconut milk and fresh milk, then whisk for 1 to 2 minutes.\n7. Arrange the pre-cut banana leaf on a cake pan or baking pan.\n8. Pour the mixture on the pan.\n9. Bake for 15 minutes.\n10. Remove from the oven, then top with sliced salted egg and grated cheese (do not turn the oven off).\n11. Put back in the oven and bake for 15 to 20 minutes or until the color of the top turns medium brown.\n12. Remove from the oven and let cool.\n13. Brush with butter and top with grated coconut.\n14. Serve. Share and enjoy!",
+        image: "bibingka.jpg"
       },
       
 
