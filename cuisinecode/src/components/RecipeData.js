@@ -733,6 +733,31 @@ export const recipes = [
         image: "Sinanglay_na_Tilapia"
         },
         
+        {
+          id:49,
+          name: "Goto",
+          ingredients: [
+        "ox tripe",
+        "uncooked rice",
+        "water ",
+        "beef stock",
+        "fish sauce",
+        "garlic",
+        "black pepper",
+        "onion ",
+        "boiled eggs",
+        "scallions" ,
+        "ginger" ,
+        "safflower" ,
+        "calamansi" ,
+        "chicharon" ,
+        "cooking oil" 
+        ],
+        procedure: "1. In a pot, heat the 2 tbsp cooking oil then sauté the 1 tbsp minced garlic, 1 cup minced onion, and 2knobs ginger \n2. 2. Dash-in some ground 1/2 teaspoon of ground black pepper. \n3. 3. Rinse pandan leaves and pat dry. \n4. 4.Pour-in the fish sauce and water then simmer until the ox tripe is tender. \n5. 5. Add the 1 cup uncooked rice and stir. \n6. 6. Pour-in the beef broth and bring to a boil. \n7. 7. Stir occasionally until the rice reaches the desired consistency \n8.8. Put-in the hard boiled eggs then stir. \n9. 9. Add the 1 tbsp of safflower for additional color and aroma.\n10. 10. Serve hot with minced green onions, crushed chicharon, and lemon. Share and Enjoy.",
+        image: "Goto.jpg"
+        },
+        
+
         
       
 
