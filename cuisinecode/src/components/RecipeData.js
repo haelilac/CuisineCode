@@ -126,8 +126,24 @@ export const recipes = [
       "Cooking oil"
     ],
     procedure: "1. Place the 3 tbsp cornstarch in a container and dredge the boiled quail eggs. Set aside.\n2. Combine all-purpose flour, 1/2 tsp salt, and 1/2 tsp pepper then mix thoroughly.\n3. Dilute the 1/4 cup annatto powder in warm water then pour-in the mixing bowl with the other ingredients. Mix well.\n4. Place all the quail eggs in the mixing bowl and coat with the batter.\n5. Put the boiled chicken eggs in the mixing bowl and coat with the batter.\n6. Heat the pan and pour 2 cups of cooking oil.\n7. When the oil is hot enough, deep-fry the eggs until the coating is crispy. Use a serving spoon to scoop the eggs from the mixing bowl.\n8. Remove the fried eggs from the pan and place in a serving plate.\n9. Serve with vinegar or special sauce.",
-    image: "Tokneneng.jpeg"
+    image: "Tokneneng.jpg"
   },
+  {
+    id: 8,
+    name: "Skinless Longganisa",
+    ingredients: [
+      "Ground pork",
+      "Dark brown sugar",
+      "Smoked paprika",
+      "Vegetable oil",
+      "Coarse salt",
+      "Black pepper",
+      "Head garlic"
+    ],
+    procedure: "1. Peel the skin off the garlic cloves. Crush thoroughly using mortar and pestle. Mince the crushed garlic. Set aside.\n2. In a large mixing bowl, combine ground pork along with all of the ingredients. Mix well.\n3. Cover the bowl. Refrigerate for 2 hours.\n4. Shape the longganisa by laying a sheet of wax paper on a flat surface. Scoop around 3 tablespoons of mixture and put over the wax paper. Fold the wax paper from top to down until the mixture is covered. Hold the edge of the paper with your fingers and then slide the card towards the mixture. Push a bit more until a sausage shape is formed. Do this step until the entire mixture is consumed.\n5. Refrigerate overnight.\n6. Cook and serve for breakfast. Share and enjoy!",
+    image: "Skinless_Longganisa.jpg"
+  },
+  
   
   
 
