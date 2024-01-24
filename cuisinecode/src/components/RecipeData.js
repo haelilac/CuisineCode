@@ -605,6 +605,21 @@ export const recipes = [
         procedure: "1. Heat 3 tablespoons of cooking oil in the pot..\n2. 2. Saute 1 medium onion and 3 medium tomatoes \n3. 3. When the onions and tomatoes become soft, add the 1 to 1 1/2 lb chicken and then cook until the color of the outer part turns light brown. \n4. 4 .Pour in the 2 tablespoons of fish sauce, and then add chicken bouillon. Stir. \n5. 5. Pour-in water and let boil. \n6. 6.Add  1 1/2 cups tamarind leaves and sinigang mix powder. Simmer until chicken becomes tender.\n7. 7. Add the 1 medium eggplant and  1/2 lb long green beans. Cook for 5 to 8 minutes. \n8. 8.Put in the 2 cups of spinach and cover the cooking pot. Let the cover stay for 5 to 6 minutes for the residual heat to cook the spinach. \n9.Transfer to a serving bowl. Serve",
         image: "Sinampalukang Manok.jpg"
       },
+
+      {
+        id:42,
+        name: "Taho",
+        ingredients: [
+          "soft silken tofu",
+          "sago pearls",
+          "water",
+          "brown sugar",
+          "vanilla extract"
+        ],
+        procedure: "1. Pour 5 cups of water in a cooking pot and bring to a boil.\n2. 2. Add the  3/4 cup sago pearls. Boil for 3 to 6 minutes. Reduce the heat to low setting, continue boiling for 5 to 10 minutes \n3. 3.Drain the hot water by filtering the sago using a kitchen strainer. Put the sago pearls in a bowl with warm water and let it stay until needed. \n4. 4.Make the arnibal by boiling 3/4 cup water in a saucepan. Add the brown sugar. Stir. Add the vanilla extract. Turn the heat off. Set aside. \n5. 5.Transfer the extra soft tofu in a bowl. Microwave it for 2 1/2 minutes. \n6. 6. Arrange the soft tofu in individual cups. Top with sago pearls and pour arnibal (syrup) on top.\n7. 7. Serve warm. Share and Enjoy.",
+        image: "Taho.jpg"
+      },
+      
      
 
 
