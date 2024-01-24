@@ -881,6 +881,22 @@ export const recipes = [
           procedure: "1. In a pan, put-in 24 ounces of water and bring to a boil. \n2. 2.Put-in the 1 1/2 Mung beans and simmer until they become soft. \n3. 3.On a separate pan, 1 tbsp garlic, 1 piece chopped onion, and 1 piece chopped tomato. \n4. 4.Add the 1/2 cup crushed pork rind. Cook for 5 mins \n5. 5. Put-in the 1 piece beef cube and 2 tablespoons fish sauce. Simmer for 10 mins or until the meat is tender. Note: If necessary, you may add water to help make the meat tender but make sure to add more time to simmer. \n6. 6.Add the 8 pieces of shrimp. Stir and then cook for 2 minutes.\n7. 7.Pour the cooked Mung beans. Stir and then simmer for 10 minutes \n8 8.Add the spinach and 1/2 cup crushed pork rinds. \n9. 9.Sprinkle the ground 1/4 teaspoon black pepper and serve.",
           image: "Ginisang_Monggo.jpg"
         },
+        {
+          id: 56,
+          name: "Kinilaw na Isda",
+          ingredients: ["tanigue, tuna, or tilapia", "vinegar", "ginger", "garlic", "onion", "hot chili", "salt", "pepper"],
+          "procedure": "1. Wash and clean your fish.\n2. 2. Slice your 1 kg (Tanigue, Tuna, or Tilapia) fish into cubes, scales and bones removed.\n3. 3. Simmer the ¾ cup of vinegar for 20 minutes to remove the excess acidity. Let it cool.\n4. 4. Marinate the fish in vinegar for 15 minutes then drain.\n5. 5. Combine 1 thumb size grated ginger, 4 cloves chopped garlic and medium sliced onion then add fish.\n6. 6. Add coconut creme (optional).\n7. 7. Season with salt and pepper and put in the 2 pcs. chili.\n8. 8. Add Chili and other ingredients according to taste.",
+        "image": "kinilaw_na_isda.jpg"
+        },
+
+      {
+      id: 57,
+      name: "Sinamak",
+      ingredients: ["vinegar", "ginger", "chili", "peppercorns", "onion"],
+      procedure: "1. Combine whole 3 tsp whole peppercorn, 3 tbsp. ginger, 1 head garlic, 1 medium size onion, and chili in a clean container (usually an empty bottle of liquor). Shake well to distribute the ingredients.\n2. 2. Fill the bottle with the 2 to 3 cups of vinegar of your choice then tightly cover the bottle.\n3. 3. Shake the bottle lightly and store in a safe place for at least 3 days. The longer the storage time, the spicier the vinegar will become.\n4. 4. Serve as condiments for fried and grilled foods.",
+    image: "sinamak.jpg"
+    },
+
         
         
           
