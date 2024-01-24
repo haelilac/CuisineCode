@@ -441,6 +441,26 @@ export const recipes = [
         procedure: "1. Soak the noodles in water until it gets soft. Drain the water.\n2. Boil 6 cups of water in a cooking pot. Once the water boils, quickly submerge 1 pack of noodles in it and cook for 1 to 3 minutes. Drain the water right away. Set the noodles aside.\n3. Heat 3 tablespoons oil in a cooking pot.\n4. Once the oil gets hot, quickly pan-fry 10 pieces of shrimp for around 30 seconds per side. Remove the shrimp and set aside.\n5. Put-in the ground pork and pork belly, sauté until the color turns light brown.\n6. Pour in 4 cups beef broth and add 1 shrimp cube. Let it boil. Cover and simmer until the pork gets tender.\n7. Add 6 cups of water from the soaked annatto seeds. Stir.\n8. Add 6 1/2 flour diluted in water. Stir the mixture and ensure that all ingredients are distributed properly. Continue to cook on low to medium heat until the sauce thickens.\n9. Add 2 tablespoons of tilapia flakes and some salt and pepper to taste. Stir and set aside.\n10. Now that the sauce is ready, you can start to assemble your simple pancit palabok. Arrange the noodles on a serving plate, pour the sauce over the noodles. Gently toss the noodles so that it gets coated with sauce. Top with Napa cabbage, scallions, pork rinds, shrimp, more tilapia flakes, and egg.\n11. Serve with a slice of lemon or calamansi. Share and enjoy!",
         image: "pancit_palabok.jpg"
       },
+      {
+        id: 31,
+        name: "Lugaw",
+        ingredients: ["white rice", "water", "salt", "pepper", "pork floss"],
+        procedure: "1. Pour 4 cups of water in a cooking pot. Bring to a boil.\n2. Put in 1 cup of rice. Continue cooking for 30 minutes or until the texture becomes thick, while stirring once in a while. Add 2 teaspoons of salt, a pinch of pepper, stir and then cook for 2 minutes more.\n4. Transfer to a serving bowl. Top with a tablespoon of pork floss.\n5. Serve hot. Share and enjoy!",
+        "image": "lugaw.jpg"
+      },
+      {
+        id: 32,
+        name: "Biko",
+        ingredients: [
+          "glutinous rice",
+          "water",
+          "brown sugar",
+          "coconut milk",
+          "salt"
+        ],
+        procedure: "1. Combine 2 cups of sticky rice and 1 1/2 cups of water in a rice cooker and cook until the rice is ready (we intentionally combined a lesser amount of water than usual so that the rice will not be fully cooked).\n2. While the rice is cooking, combine 4 cups of coconut milk with 2 cups of brown sugar and 1/2 teaspoon salt in a separate pot and cook on low heat until the texture becomes thick. Stir constantly.\n3. Once the rice is cooked and the coconut milk-sugar mixture is thick enough, add the cooked rice to the coconut milk and sugar mixture then mix well. Continue cooking until all the liquid evaporates (but do not overcook).\n4. Scoop the cooked biko and place it in a serving plate then flatten the surface.\n5. Share and enjoy!",
+        image: "biko.jpg"
+      },
       
 
       ]
