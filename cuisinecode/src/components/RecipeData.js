@@ -56,20 +56,6 @@ export const recipes = [
     procedure: "1. Arrange the 2 lbs of ruffle fat, 1 tablespoon of whole peppercorn, 2 tablespoons salt, and 5 bay leaves in a cooking pot. Pour-in 6 cups of water. Let boil. Cover and then simmer for 1 hour.\n2. Turn the heat off. Remove the boiled ruffle fat from the pot and then let the water drip-off.\n3. Rub the remaining salt all over the ruffled fat. Set aside.\n4. Meanwhile, heat the 4 cups of cooking oil in a deep fryer or a deep cooking pot.\n5. When the oil gets hot, slowly add-in the ruffled fat. Deep fry in low to medium heat until the texture becomes crisp and the color turns medium brown.\n6. Add salt to taste.\n7. Remove from the deep fryer or cooking pot. Arrange on a plate lined with paper towels to absorb the oil.\n8. Serve with spiced vinegar.",
     image: "Chicharon_Bulaklak.jpg"
   },
-  {
-    id: 3,
-    name: "Chicharong_Bulaklak",
-    ingredients: [
-      "Ruffle fat",
-      "Whole peppercorn",
-      "Dried bay leaves",
-      "Sea salt",
-      "4 cups canola oil",
-      "Water"
-    ],
-    procedure: "1. Arrange the 2 lbs of ruffle fat, 1 tablespoon of whole peppercorn, 2 tablespoons salt, and 5 bay leaves in a cooking pot. Pour-in 6 cups of water. Let boil. Cover and then simmer for 1 hour.\n2. Turn the heat off. Remove the boiled ruffle fat from the pot and then let the water drip-off.\n3. Rub the remaining salt all over the ruffled fat. Set aside.\n4. Meanwhile, heat the 4 cups of cooking oil in a deep fryer or a deep cooking pot.\n5. When the oil gets hot, slowly add-in the ruffled fat. Deep fry in low to medium heat until the texture becomes crisp and the color turns medium brown.\n6. Add salt to taste.\n7. Remove from the deep fryer or cooking pot. Arrange on a plate lined with paper towels to absorb the oil.\n8. Serve with spiced vinegar.",
-    image: "Chicharon_Bulaklak.jpg"
-  },
   
   {
     id: 4,
