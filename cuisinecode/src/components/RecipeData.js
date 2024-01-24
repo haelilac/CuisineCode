@@ -1165,21 +1165,29 @@ image: "bicol_express_pizza.jpg"
       image: "lechon_paksiw.jpg"
     },
     {
-      id: 80,
-      name: "Inun-unan",
+      id: 81,
+      name: "Sinarsahang Manok",
       ingredients: [
-        "fish",
-        "bitter gourd",
-        "eggplant",
-        "ginger",
-        "vinegar",
+        "chicken",
+        "bell pepper",
+        "chicken cube",
+        "green peas",
+        "green beans",
         "green chili",
         "onion",
+        "garlic",
+        "tomato",
+        "soy sauce",
+        "tomato sauce",
         "water",
-        "peppercorn"
+        "tomato ketchup",
+        "sugar",
+        "pepper",
+        "salt",
+        "cooking oil"
       ],
-      procedure: "1. Arrange the 1 small onion, fish, 1 thumb sliced ginger, 1 teaspoon whole peppercorn, water, and vinegar in a cooking pot. Cover the pot and turn the heat on. Let the liquid boil.\n2. Once the liquid starts to boil, adjust the heat to low. Cook for 15 minutes.\n3. Add 1 medium eggplant, 1 medium bitter gourd, 5 pieces long green and chili (or pepper). Cover the pot and continue to cook until the water completely evaporates.\n4. Transfer to a serving plate. Serve.\n5. Share and enjoy!",
-      image: "inun-unan.jpg"
+      procedure: "1. Heat 2 tablespoons of oil in a pan. Sauté 1 piece bell pepper julienne, 1/2 cup green peas, and 6 pieces long green beans for 45 seconds. Remove from the pan and set aside.\n2. Add remaining oil. Once oil becomes hot, pan-fry the 1/2kg chicken pieces for 3 minutes per side. Remove chicken from the pan and place on a clean plate. Set aside.\n3. Sauté 3 cloves garlic chopped, 1 piece onion chopped, and 8 ounces tomato sauce using the remaining oil. Add 3 tablespoons soy sauce, tomato sauce, and water once the onion softens. Let it boil.\n4. Add Knorr chicken cube and then put the chicken piece back into the pan. Cover the pan and continue cooking the chicken using medium heat for 15 minutes. Remove the cover and cook until the sauce becomes thick.\n5. Add Knorr chicken cube and then put the chicken piece back into the pan. Cover the pan and continue cooking the chicken using medium heat for 15 minutes. Remove the cover and cook until the sauce becomes thick.\n6. Season with sugar, salt, and ground black pepper. Transfer to a serving plate. Serve!",
+      image: "sinarsahang_manok.jpg"
     },
     
      
