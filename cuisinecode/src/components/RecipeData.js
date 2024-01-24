@@ -385,5 +385,232 @@ export const recipes = [
     procedure: "1. Heat a pan and cooking pot then pour-in ½ cup of vinegar and 1 cup of water.\n2. 2. Add 2 tsp. of salt and whole 1 tsp. Whole peppercorn then stir. Bring to a boil.\n3. 3. Arrange the fish in the pan along with the ginger, 6 cloves garlic, 1 medium sliced onion, and 3 pcs. finger chili. Cover and simmer in low to medium heat for 12 to 15 minutes.\n4. 4. Turn off the heat and transfer to a serving plate.\n5. 5. Serve hot with steamed rice. Share and enjoy!/n6. 6. Note: You may substitute salt with 3/4 to 1 tablespoon fish sauce.",
     image: "paksiw_na_isda.jpg"
   },
-
+  {
+    id: 28,
+    name: "Halo-Halo",
+    ingredients: [
+      "sweetened jackfruit",
+      "sweetened saba banana",
+      "ripe mango",
+      "sweetened sweet potato",
+      "sweetened garbanzos",
+      "sweetened red beans",
+      "sweetened white beans",
+      "sweet corn kernels",
+      "gulaman",
+      "tapioca",
+      "young coconut",
+      "evaporated milk",
+      "rice krispies",
+      "purple yam",
+      "leche flan",
+      "ice cream",
+      "shaved ice"
+    ],
+    procedure: "1. Add about a teaspoon of each desired add-in to a tall glass, filling it about ⅓ full.\n2. Pack the glass with shaved ice.\n3. Drizzle evaporated milk over the ice.\n4. Top the ice with scoops of ice cream, leche flan, and purple yam.\n5. Sprinkle with rice crispies as desired.",
+    image: "halo-halo.jpg"
+  },
+  
+  {
+    id: 29,
+    name: "Daing na Bangus",
+    ingredients: [
+      "milkfish/bangus",
+      "vinegar",
+      "peppercorn",
+      "garlic",
+      "salt",
+      "cooking oil",
+      "cayenne powder"
+    ],
+    procedure: "1. Combine 10 tablespoons vinegar, 1 teaspoon crushed peppercorn, 1/2 teaspoon coarse sea salt, 1 head garlic crushed, and 1 teaspoon cayenne pepper powder in a bowl. Stir to mix the ingredients. Set aside.\n2. Butterfly the bangus (slice from the top) and place it inside a large resealable plastic bag.\n3. Pour the vinegar mixture in the bag and then let all the air out. Seal the bag and refrigerate overnight.\n4. Remove the fish from the bag and let the liquid drip.\n5. Heat the 1/2 cup cooking oil in a pan. Once the oil gets hot, fry the fish in medium heat until one side gets crisp. Turn it over and repeat the process on the other side.\n6. Remove from the pan and place on a serving plate. Serve with a bowl of spicy vinegar.\n7. Share and enjoy.",
+    image: "daing_na_bangus.jpg"
+  },
+  
+  {
+    id: 30,
+    name: "Pancit Palabok",
+    ingredients: [
+      "bihon",
+      "ground pork",
+      "anatto seeds",
+      "pork shoulder",
+      "shrimp bouillon",
+      "beef broth",
+      "all-purpose flour",
+      "fish sauce",
+      "ground black pepper",
+      "pork belly",
+      "tinapa flakes",
+      "chicharon",
+      "hard-boiled egg",
+      "cabbage",
+      "shrimp cubes",
+      "green onion",
+      "garlic",
+      "lemon",
+      "cooking oil",
+      "salt",
+      "pepper",
+      "water"
+    ],
+    procedure: "1. Soak the noodles in water until it gets soft. Drain the water.\n2. Boil 6 cups of water in a cooking pot. Once the water boils, quickly submerge 1 pack of noodles in it and cook for 1 to 3 minutes. Drain the water right away. Set the noodles aside.\n3. Heat 3 tablespoons oil in a cooking pot.\n4. Once the oil gets hot, quickly pan-fry 10 pieces of shrimp for around 30 seconds per side. Remove the shrimp and set aside.\n5. Put-in the ground pork and pork belly, sauté until the color turns light brown.\n6. Pour in 4 cups beef broth and add 1 shrimp cube. Let it boil. Cover and simmer until the pork gets tender.\n7. Add 6 cups of water from the soaked annatto seeds. Stir.\n8. Add 6 1/2 flour diluted in water. Stir the mixture and ensure that all ingredients are distributed properly. Continue to cook on low to medium heat until the sauce thickens.\n9. Add 2 tablespoons of tilapia flakes and some salt and pepper to taste. Stir and set aside.\n10. Now that the sauce is ready, you can start to assemble your simple pancit palabok. Arrange the noodles on a serving plate, pour the sauce over the noodles. Gently toss the noodles so that it gets coated with sauce. Top with Napa cabbage, scallions, pork rinds, shrimp, more tilapia flakes, and egg.\n11. Serve with a slice of lemon or calamansi. Share and enjoy!",
+    image: "pancit_palabok.jpg"
+  },
+  
+  {
+    id: 31,
+    name: "Lugaw",
+    ingredients: ["white rice", "water", "salt", "pepper", "pork floss"],
+    procedure: "1. Pour 4 cups of water in a cooking pot. Bring to a boil.\n2. Put in 1 cup of rice. Continue cooking for 30 minutes or until the texture becomes thick, while stirring once in a while. Add 2 teaspoons of salt, a pinch of pepper, stir and then cook for 2 minutes more.\n4. Transfer to a serving bowl. Top with a tablespoon of pork floss.\n5. Serve hot. Share and enjoy!",
+    "image": "lugaw.jpg"
+  },
+  
+  {
+    id: 32,
+    name: "Biko",
+    ingredients: [
+      "glutinous rice",
+      "water",
+      "brown sugar",
+      "coconut milk",
+      "salt"
+    ],
+    procedure: "1. Combine 2 cups of sticky rice and 1 1/2 cups of water in a rice cooker and cook until the rice is ready (we intentionally combined a lesser amount of water than usual so that the rice will not be fully cooked).\n2. While the rice is cooking, combine 4 cups of coconut milk with 2 cups of brown sugar and 1/2 teaspoon salt in a separate pot and cook on low heat until the texture becomes thick. Stir constantly.\n3. Once the rice is cooked and the coconut milk-sugar mixture is thick enough, add the cooked rice to the coconut milk and sugar mixture then mix well. Continue cooking until all the liquid evaporates (but do not overcook).\n4. Scoop the cooked biko and place it in a serving plate then flatten the surface.\n5. Share and enjoy!",
+    image: "biko.jpg"
+  },
+  
+  {
+    id: 33,
+    name: "Buko Pie",
+    ingredients: [
+      "all-purpose flour",
+      "butter",
+      "salt",
+      "vegetable shortening",
+      "cold water",
+      "young coconut meat",
+      "granulated white sugar",
+      "cornstarch",
+      "coconut water",
+      "evaporated milk"
+    ],
+    procedure: "1. Create the crust. Combine 2 cups of all-purpose flour and 1 teaspoon salt then mix using a balloon whisk. Add 1/3 cup melted butter and 1/3 cup vegetable shortening then mix using a pastry mixer. Gradually add coconut water a tablespoon at a time while mixing the ingredients. When everything is completely mixed, gather the mixture and divide it into two equal parts. On a flat surface flatten each of the dough and roll using a rolling pin until wide enough to fit an eight or nine-inch cake pan. Note: Sprinkle flour over the flat surface to prevent the dough from sticking or use a silicon mat. Arrange the first dough over the cake pan. This will be the base. Set the second flattened dough aside. This will be needed after arranging the filling in the cake pan.\n2. Make the filling by heating a saucepan and pour in 1/2 cup of evaporated milk. Let it boil.\n3. Add 3/4 cups of granulated white sugar and stir.\n4. Put in 2 cups of young coconut meat and cook for 3 minutes.\n5. Pour in 1/2 cup cornstarch diluted in young coconut water and stir thoroughly while cooking. Cook until the texture thickens.\n6. Turn off the heat and allow the mixture to cool down.\n7. Preheat the oven to 375 degrees Fahrenheit.\n8. Arrange the cooked filling in the cake pan.\n9. Put the second crust over the filling and seal the sides.\n10. Create holes on the secondary crust using a fork. This will serve as exhaust vents that will prevent the crust from deforming.\n11. Bake for 45 to 55 minutes or until the color turns golden brown. Note: Baking time may vary; make sure to check the color of the crust to determine if baking is complete.\n12. Let cool and serve. Share and enjoy!",
+    image: "buko_pie.jpg"
+  },
+  
+  {
+    id: 34,
+    name: "Maja Blanca",
+    ingredients: [
+      "coconut milk",
+      "fresh milk",
+      "sweet corn cream style",
+      "granulated white sugar",
+      "cornstarch",
+      "condensed milk",
+      "toasted coconut"
+    ],
+    procedure: "1. Pour 4 cups of coconut milk into a cooking pot and bring to a boil.\n2. Add 3/4 cup sugar, 14 ounces condensed milk, and whole sweet kernel corn then stir until all the ingredients are evenly distributed.\n3. Simmer for 8 minutes.\n4. Combine 3/4 cup fresh milk and 3/4 cup cornstarch then whisk until the cornstarch is diluted.\n5. Pour the 14 ounces condensed milk and cornstarch mixture into the cooking pot and stir thoroughly.\n6. Allow to cook while stirring until the mixture reaches your desired thickness.\n7. Pour the mixture into a serving tray then arrange and flatten the top using a flat tool such as a wooden spatula.\n8. Allow to cool down then refrigerate for at least 1 hour.\n9. Garnish with toasted grated coconut.\n10. Share and enjoy!",
+    image: "maja_blanca.jpg"
+  },
+  
+  {
+    id: 35,
+    name: "Ensaymada",
+    ingredients: [
+      "all-purpose flour",
+      "butter",
+      "white sugar",
+      "salt",
+      "cheddar cheese",
+      "eggs",
+      "yeast",
+      "fresh milk"
+    ],
+    procedure: "1. Combine 1 cup warm fresh milk, 1 pouch rapid rise yeast, and 1/2 cup sugar and stir until yeast and sugar dissolve in milk. Set aside to let the yeast activate (approximately 10 minutes).\n2. In a mixing bowl, combine all the dry ingredients starting from the 5 cups of flour, 3/4 cup sugar, and 1 teaspoon salt then mix thoroughly.\n3. Add 3 pieces of eggs, 1/2 cup butter, and the activated yeast mixture (these are the ingredients that we combined in number 1) to the mixed dry ingredients. Mix thoroughly until all ingredients are evenly distributed and a dough is formed.\n4. Knead the dough until the texture becomes fine.\n5. Put the dough back on the mixing bowl and cover the top with cloth. Allow the dough to rise for 2 hours.\n6. Put the dough on a flat surface and flatten. Punch the dough lightly to release the air inside.\n7. Using a dough slicer, divide the dough into four pieces.\n8. Roll each piece until the shape becomes cylindrical.\n9. Cut the cylindrical dough into individual serving pieces (1 serving piece should weigh at least 80 grams).\n10. Put the sliced individual serving piece on a flat surface and flatten using a rolling pin.\n11. Combine 1/4 cup melted butter with 1/4 cup white sugar. Using a brush, paint the mixture on the flattened dough. Make sure to paint only the center part of the flat dough.\n12. Sprinkle some cheese over the painted area then seal the dough by folding opposite directions and rolling it until a long cylindrical shape is formed (about 14 inches in length).\n13. Start forming the spiral Ensaymada shape by crossing the two opposite ends of the dough. The first end should be placed under the dough while the other end should be inserted in the middle. (See video for better comprehension).\n14. Place the dough in a baking tray with wax paper and cover with cloth. Set aside to rise for another 45 minutes.\n15. Pre-heat the oven at 350 degrees Fahrenheit for 10 minutes. Remove cloth on top of the tray and bake the dough for 15 minutes at 350 degrees Fahrenheit.\n16. Remove the baked Ensaymada from the oven. Using the remaining melted butter and sugar mixture, paint the top of the baked ensaymada and sprinkle additional cheese.\n17. Serve hot. Share and Enjoy!",
+    image: "ensaymada.jpg"
+  },
+  
+  {
+    id: 36,
+    name: "Ginataang Mais",
+    ingredients: [
+      "coconut cream",
+      "coconut milk",
+      "glutinous rice",
+      "sweet corn",
+      "granulated white sugar",
+      "vanilla extract",
+      "salt"
+    ],
+    procedure: "1. Pour 2 cups coconut milk and 2 cups coconut cream into a cooking pot. Let it boil.\n2. Once it starts to boil, add 1/2 cup glutinous rice. Stir continuously for 10 minutes.\n3. Add 3/4 cup sugar. Stir.\n4. Add 1 cup of sweetcorn to the pot. Stir and continue to cook on low heat for 8 minutes. Note: You can cook this longer to make the corn and rice softer.\n5. Add 1 teaspoon vanilla extract and a pinch of salt. Stir.\n6. Transfer to a serving bowl and serve.\n7. Share and enjoy!",
+    "notes": "",
+    image: "ginataang_mais.jpg"
+  },
+  
+  {
+    id: 37,
+    name: "Leche Flan",
+    ingredients: [
+      "eggs",
+      "condensed milk",
+      "evaporated milk",
+      "granulated sugar",
+      "vanilla extract"
+    ],
+    procedure: "1. Using all 10 egg yolks, separate them from the egg whites (only egg yolks will be used).\n2. Place the egg yolks in a large bowl, then beat them using a fork or an egg beater.\n3. Add the 1 can condensed milk and mix thoroughly.\n4. Pour in 1 cup fresh milk and 1 teaspoon of vanilla extract. Mix well.\n5. Heat the mold (llanera) on top of the stove using low fire.\n6. Put granulated sugar on the mold and mix thoroughly until the solid sugar turns into liquid (caramel) with a light brown color.\n7. Spread the caramel evenly on the flat side of the mold.\n8. Wait for 5 minutes, then pour the egg yolk and milk mixture into the mold.\n9. Cover the top of the mold using aluminum foil.\n10. Steam the mold with the egg and milk mixture for 30 to 35 minutes.\n11. After steaming, let the temperature cool down, then refrigerate.\n12. Serve for dessert. Share and enjoy!",
+    image: "leche_flan.jpg"
+  },
+  
+  {
+    id: 38,
+    name: "Turon",
+    ingredients: [
+      "banana saba",
+      "jackfruit",
+      "sugar",
+      "lumpia wrapper",
+      "cooking oil"
+    ],
+    procedure: "1. Roll the banana on the sugar plate and ensure that the banana is coated with enough sugar.\n2. Place the banana with sugar coating in the spring roll wrapper and add some ripe jackfruit.\n3. Fold and lock the spring roll wrapper, using water to seal the edge.\n4. In a pan, heat 2 cups of cooking oil and put in some sugar. Wait until the brown sugar floats.\n5. Serve hot as a dessert or snack. Share and enjoy!",
+    image: "turon.jpg"
+  },
+  
+  {
+    id: 39,
+    name: "Ube Halaya",
+    ingredients: [
+      "grated purple yam",
+      "condensed milk",
+      "coconut milk",
+      "butter",
+      "ube flavoring",
+      "cheddar cheese"
+    ],
+    procedure: "1. Pour 2 cups of coconut milk into a cooking pot. Let it boil.\n2. Stir and add the 1 14 ounces condensed milk.\n3. Once the mixture starts to boil, add the 1/2 kilo grated purple yam and 1 teaspoon ube flavoring. Continue to cook on medium heat while continuously stirring for 30 minutes.\n4. Add butter. Stir. Cook until the mixture reaches your desired thickness. (I usually cook it for 10 to 12 minutes after adding butter).\n5. Transfer to a container. Top with shredded cheese.\n6. Serve. Share and enjoy!",
+    image: "ube_halaya.jpg"
+  },
+  
+  {
+    id: 40,
+    name: "Bibingka",
+    ingredients: [
+      "rice flour",
+      "salt",
+      "baking powder",
+      "butter",
+      "granulated sugar",
+      "coconut milk",
+      "fresh milk",
+      "salted egg",
+      "cheese",
+      "egg",
+      "coconut",
+      "banana leaf"
+    ],
+    procedure: "1. Preheat the oven to 375 degrees Fahrenheit.\n2. Combine 1 cup rice flour, 2 1/2 teaspoons baking powder, and 1/8 teaspoon salt, then mix well. Set aside.\n3. Cream butter, then gradually put in sugar while whisking.\n4. Add 3 pieces of eggs, then whisk until every ingredient is well incorporated.\n5. Gradually add the rice flour, salt, and baking powder mixture, then continue mixing.\n6. Pour in coconut milk and fresh milk, then whisk for 1 to 2 minutes.\n7. Arrange the pre-cut banana leaf on a cake pan or baking pan.\n8. Pour the mixture on the pan.\n9. Bake for 15 minutes.\n10. Remove from the oven, then top with sliced salted egg and grated cheese (do not turn the oven off).\n11. Put back in the oven and bake for 15 to 20 minutes or until the color of the top turns medium brown.\n12. Remove from the oven and let cool.\n13. Brush with butter and top with grated coconut.\n14. Serve. Share and enjoy!",
+    image: "bibingka.jpg"
+  },
+  
     ];
