@@ -23,7 +23,7 @@ function App() {
   const handleSearch = () => {
     const searchTerm = searchInput.toLowerCase().trim();
 
-    if (searchTerm === '' || searchTerm.length < 3) {
+    if (searchTerm === '' || searchTerm.length <= 0) {
       // Clear filtered recipes if search term is empty or less than 3 characters
       setFilteredRecipes([]);
     } else {
@@ -112,7 +112,3 @@ function App() {
 }
 
 export default App;
-
-
-
-

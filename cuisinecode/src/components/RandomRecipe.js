@@ -3,18 +3,13 @@ import { recipes } from './RecipeData';
 
 const RandomRecipe = ({ randomIndex, setRandomIndex }) => {
   useEffect(() => {
- 
     const newRandomIndex = Math.floor(Math.random() * recipes.length);
     setRandomIndex(newRandomIndex);
-  }, []); 
+  }, [setRandomIndex]); // Add setRandomIndex to the dependency array
 
-  
   const isValidIndex = randomIndex !== null && randomIndex >= 0 && randomIndex < recipes.length;
-
- 
   const randomRecipe = isValidIndex ? recipes[randomIndex] : null;
 
-  
   const generateNewRandomIndex = () => {
     const newRandomIndex = Math.floor(Math.random() * recipes.length);
     setRandomIndex(newRandomIndex);

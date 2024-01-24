@@ -40,7 +40,7 @@ body {
 }
 
 .left-container {
-  width: 300px;
+  width: 400px;
   height: 300px;
   background-color: #ecf0f1;
   padding: 50px;
@@ -98,7 +98,7 @@ button {
   display: flex;
   flex-wrap: wrap;
   overflow-y: auto;
-  text-align: left; /* Updated from center to left */
+  text-align: center;
   position: relative;
   flex: 1;
   margin-top: 20px;
@@ -110,8 +110,7 @@ button {
   width: 200px;
   height: 200px;
   margin: 0 10px 50px 0;
-  cursor: pointer;
-  text-align: left; /* Add this line to align text to the left */
+  cursor: pointer; 
 }
 
 .recipe img {
@@ -129,7 +128,7 @@ button {
 }
 
 
-/* Recipe Modal */
+/* Add a separate style for the modal overlay and content */
 
 .RecipeModal-overlay {
   position: fixed;
@@ -141,33 +140,22 @@ button {
   display: flex;
   justify-content: center;
   align-items: center;
-  z-index: 2;
+  z-index: 2; /* Make sure it's above other elements */
 }
 
 .RecipeModal-content {
   background: #fff;
   padding: 20px;
   border-radius: 8px;
-  text-align: left;
+  text-align: center;
   position: relative;
-  z-index: 3;
-  width: 400px;
-  display: flex; /* Use flexbox to create a flex container */
+  z-index: 3; /* Make sure it's above other elements */
 }
 
 .RecipeModal-content img {
-  width: 150px; 
+  width: 100%;
   height: auto;
-  max-height: 300px;
-  margin-right: 20px; /* margin to separate image from text */
-}
-
-.recipe-details {
-  flex: 1; /* Allow the text to take the remaining space */
-}
-
-.recipe-details p {
-  margin-bottom: 10px;
+  max-height: 300px; 
 }
 
 .modal-overlay {
