@@ -881,6 +881,7 @@ export const recipes = [
           procedure: "1. In a pan, put-in 24 ounces of water and bring to a boil. \n2. 2.Put-in the 1 1/2 Mung beans and simmer until they become soft. \n3. 3.On a separate pan, 1 tbsp garlic, 1 piece chopped onion, and 1 piece chopped tomato. \n4. 4.Add the 1/2 cup crushed pork rind. Cook for 5 mins \n5. 5. Put-in the 1 piece beef cube and 2 tablespoons fish sauce. Simmer for 10 mins or until the meat is tender. Note: If necessary, you may add water to help make the meat tender but make sure to add more time to simmer. \n6. 6.Add the 8 pieces of shrimp. Stir and then cook for 2 minutes.\n7. 7.Pour the cooked Mung beans. Stir and then simmer for 10 minutes \n8 8.Add the spinach and 1/2 cup crushed pork rinds. \n9. 9.Sprinkle the ground 1/4 teaspoon black pepper and serve.",
           image: "Ginisang_Monggo.jpg"
         },
+
         {
           id: 56,
           name: "Kinilaw na Isda",
@@ -889,7 +890,7 @@ export const recipes = [
         "image": "kinilaw_na_isda.jpg"
         },
 
-      {
+    {
       id: 57,
       name: "Sinamak",
       ingredients: ["vinegar", "ginger", "chili", "peppercorns", "onion"],
@@ -911,16 +912,15 @@ export const recipes = [
       ingredients: ["pork leg", "knorr pork cube", "bok choy or pechay", "mushroom", "brown sugar", "sesame oil", "soy sauce", "cornstarch", "cooking wine", "star anise", "peppercorn", "water"],
       procedure: "1. Set the turbo broiler to 350F. Broil 3 lbs pork leg (pata) for 20 minutes.\n2. 2. Boil 6 cups of water in a cooking pot. Add broiled pata. Boil for 15 minutes. Drain water and then wash the pata with running water.\n3. 3. In a clean cooking pot, arrange the pata. Pour 6 tbsp. soy sauce, 1 tsp sesame oil, ¼ cup of cooking wine (optional), and water. Add 2 tsp. whole peppercorn. Boil for 1 to 2 hours or until pork gets tender. Note: you can use a pressure cooker to tenderize the pork leg quicker.\n4. 4. Add 1 pc. Knorr Pork Cube, 3 pcs. star anise, and 1- pcs. Shiitake mushroom. Cook for 20 minutes. Note: add more water if needed. Make sure that there is at least 2 ½ cups of sauce in the pot.\n5. 5. Add 6 tbsp. brown sugar. Stir. Pour 1 tbsp. cornstarch and water mixture. Stir and cook until the sauce thickens.\n6. 6. Add 1 bunch of baby bok choy or pechay. Cook for 2 minutes.\n7. 7. Transfer to a serving plate. Serve. Share and enjoy!",
       image: "pata_tim.jpg"
-      },
+    },
       
         
-      {
-          id: 60,
-          name: "Papaitan",
-          ingredients: ["ox tripe", "cows small intestine", "beef", "bile", "ginger", "onion", "onion", "garlic", "water", "finger chilies", "salt", "ground black pepper", "lemon or calamasi", "cooking oil"],
-          procedure: "1. Heat a cooking pot and pour-in 4 cups of water and put-in 1 tablespoon of salt. Bring to a boil.\n2. 2. Put-in the 1 lb ox tripe and ½ lb small intestines and simmer until tender. This should take approximately 35 to 50 minutes.\n3. 3. Turn off heat. Remove the tender ox tripe and small intestines then slice. Set aside. Discard the water.\n4. 4. Heat a clean cooking pot and pour-in 2 tbsp. cooking oil.\n5. 5. When the oil is hot enough, sauté 6 cloves crushed and chopped garlic, 1 pc. diced onion, and 2 thumbs julienned ginger.\n6. 6. Add the ½ lb thinly sliced and chopped beef, ½ lb cow’s heart, sliced intestines, and tripe then cook for about 3 to 4 minutes.\n7. 7. Add 1 1/2 tablespoon salt and ground black pepper then stir for a minute.\n8. 8. Pour-in remaining 4 cups of water and bring to a boil. Simmer for 40 minutes (you may add more water if needed).\n9. 9. Add bile then simmer for 5 minutes.\n10. 10. Add the finger chilies and squeeze-in the lemon juice then simmer for 3 minutes.\n11. 11. Turn off the heat and transfer to a serving bowl.\n12. 12. Serve hot. Share and enjoy!",
-          image: "papaitan.jpg"
-        },
+     {
+       id: 60,
+       name: "Papaitan",
+       ingredients: ["ox tripe", "cows small intestine", "beef", "bile", "ginger", "onion", "onion", "garlic", "water", "finger chilies", "salt", "ground black pepper", "lemon or calamasi", "cooking oil"],         procedure: "1. Heat a cooking pot and pour-in 4 cups of water and put-in 1 tablespoon of salt. Bring to a boil.\n2. 2. Put-in the 1 lb ox tripe and ½ lb small intestines and simmer until tender. This should take approximately 35 to 50 minutes.\n3. 3. Turn off heat. Remove the tender ox tripe and small intestines then slice. Set aside. Discard the water.\n4. 4. Heat a clean cooking pot and pour-in 2 tbsp. cooking oil.\n5. 5. When the oil is hot enough, sauté 6 cloves crushed and chopped garlic, 1 pc. diced onion, and 2 thumbs julienned ginger.\n6. 6. Add the ½ lb thinly sliced and chopped beef, ½ lb cow’s heart, sliced intestines, and tripe then cook for about 3 to 4 minutes.\n7. 7. Add 1 1/2 tablespoon salt and ground black pepper then stir for a minute.\n8. 8. Pour-in remaining 4 cups of water and bring to a boil. Simmer for 40 minutes (you may add more water if needed).\n9. 9. Add bile then simmer for 5 minutes.\n10. 10. Add the finger chilies and squeeze-in the lemon juice then simmer for 3 minutes.\n11. 11. Turn off the heat and transfer to a serving bowl.\n12. 12. Serve hot. Share and enjoy!",
+      image: "papaitan.jpg"
+       },
 
      {
         id: 61,
@@ -953,6 +953,7 @@ export const recipes = [
       procedure: "1.Cook the 1 lb. thick rice noodles according to package instructions. If you are using the traditional Pancit Malabon noodles, you will need to soak it in water overnight before cooking. Set aside.\n2. 2. Start making the sauce by sautéing the 1 tbsp. fresh minced garlic and 1 medium-sized onion.\n3. 3. Add ½ lb. chopped boiled pork and cook for 3 minutes.\n4. 4. Add 3 tbsp. fish sauce and ½ tsp. ground black pepper then stir.\n5. 5. Pour-in shrimp juice and annatto water and let boil.\n6. 6. Add ½ cup of pounded pork rinds (chicharon) then stir.\n7. 7. Simmer for 2 to 3 minutes then turn off heat.\n8. 8. Place the cooked noodles in a large bowl then pour-in the sauce and mix well.\n9. 9. Transfer the sauce and noodle mixture in a wide serving plate and arrange the ¾ cup of tinapa flakes, 3 pcs. of sliced hard boiled eggs, 1 tbsp. chopped parsley, 1 tbsp minced garlic, and 1 pc. chopped cabbage on top.\n10. 10. Serve with 1 pc. quartered lemon or calamansi and a lot of love. Share and enjoy!",
       image: "pancit_malabon.jpg"
     },
+
     {
       id: 65,
       name: "Sapin-Sapin",
@@ -960,6 +961,7 @@ export const recipes = [
       procedure: "1. In a large mixing bowl, combine 2 cups of glutinous rice flour and 1 cup granulated white sugar. Mix well.\n2. 2. Pour-in the 7 oz. ½ can of condensed milk, 4 cups of  coconut milk, and ½ tsp. vanilla extract. Mix until the texture becomes smooth.\n3. 3. Divide the mixture into 3 parts.\n4. 4. Add the ¾ cup of  mashed purple yam and ube extract on the first part along with the violet food coloring. Stir thoroughly and then set aside.\n5. 5. Shred the ½ cup of ripe jackfruit (without the seed) in a food processor. Add the processed jackfruit on the second part along with the yellow coloring and then mix well. Set aside. Note: leave the 3rd part as it is.\n6. 6. Arrange the steamer on your stovetop and pour-in about 1 quart of water. Turn on the heat and let the water boil.\n7. 7. Grease a round baking pan by brushing 1 tbsp. cooking oil or coconut oil.\n8. 8. Pour-in the first part (colored violet) on the greased baking pan. Make sure that the mixture settles. Cover the baking pan with a cheesecloth and then steam for 12 to 16 minutes.\n9. 9. Remove the baking pan and then pour-in the white mixture. Use a spatula to spread it on top of the violet mixture. Remove excess water from the cheesecloth by squeezing it. Put it back on the baking pan. Steam for another 12 to 16 minutes.\n10. 10. Remove the baking pan from the steamer and then pour-in the yellow mixture. Spread the mixture over the succeeding one using a spatula. Try to remove the excess water again from the cloth and then put it back on the baking pan. Steam for 15 to 20 minutes. Note: If you think that the mixture is still a bit runny, try to steam for 5 minutes more.\n11. 11. Arrange a clean banana leaf over a wide serving plate. Brush coconut or cooking oil on the leaf. Use a spatula (brushed with oil) and gently run on the side of the baking pan to prevent the mixture from sticking. Turn the baking pan over the banana leaf and let the cooked sapin-sapin fall.\n12. 12. Brush oil on top of the sapin-sapin (the violet part should be on top). Sprinkle with ¼ cup of latik.\n13. 13. Serve for dessert. Share and enjoy!",
       image: "sapin_sapin.jpg"
     },
+
     {
       id: 66,
       name: "Bulanglang",
@@ -967,6 +969,7 @@ export const recipes = [
       procedure: "1. Heat a cooking pot and pour-in 4 to 6 cups of water. Let boil.\n2. 2. Add 4 cloves of lightly crushed garlic, 1 thumb chopped ginger, and lemongrass (optional). Boil for 5 to 7 minutes.\n3. 3. Remove the lemongrass. Add papaya and calabaza squash. Boil for 6 minutes.\n4. 4. Add 3 medium sliced tomatoes, 10 to 15 small okras, and sliced patola. Cook for 3 to 4 minutes.\n5. 5. Put-in 1 cup of malunggay leaves and 1 to 2 tsp. salt. Stir. Turn the heat off.\n6. 6. Transfer to a serving bowl and serve. Share and enjoy!",
 image: "bulanglang.jpg"
     },
+
     {
       id: 67,
       name: "Adobong Kangkong",
@@ -974,6 +977,7 @@ image: "bulanglang.jpg"
       procedure: "1. Heat 3 tbsp. cooking oil in a pan.\n2. 2. Add the 1 head crushed and chopped garlic. Saute until the color turns golden brown. Scoop-out a quarter of the browned garlic and put in a clean bowl. Save this later for garnish.\n3. 3. Add 1 pc. chopped onion. Saute until it softens.\n4. 4. Pour the soy sauce and vinegar in the pan. Let the liquid boil.\n5. 5. Add 1 bunch of Kangkong stalks. Cook for 2 minutes.\n6. 6. Add the Kangkong leaves. Stir. Continue cooking for 30 to 1 minute. Cover the pan and cook for 1 minute.\n7. 7. Season with ground black pepper. Note: you may also add salt if needed.\n8. 8. Transfer to a serving bowl and then top with browned garlic.\n9. 9. Serve. Share and enjoy!",
       image: "adobong_kangkong.jpg"
     },
+
     {
       id: 68,
       name: "Bicol Express Pizza",
@@ -981,6 +985,7 @@ image: "bulanglang.jpg"
       procedure: "1. Preheat the oven to 450°F.\n2. 2. Assemble pizza by spreading Bicol express sauce on each pizza crust surface.\n3. 3. Add mozzarella and quickmelt cheese on each crust. Top with Bicol express meat and bell peppers.\n4. 4. Bake for 10 minutes or until the crust is golden brown and the cheese has melted.\n5. 5. Combine together chili flakes and honey. Drizzle over pizza just before serving.",
 image: "bicol_express_pizza.jpg"
     },
+    
     {
       id: 69,
       name: "Cheesy Lumpiang Shanghai",
