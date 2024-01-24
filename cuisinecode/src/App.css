@@ -98,7 +98,7 @@ button {
   display: flex;
   flex-wrap: wrap;
   overflow-y: auto;
-  text-align: center;
+  text-align: left; /* Updated from center to left */
   position: relative;
   flex: 1;
   margin-top: 20px;
@@ -149,13 +149,15 @@ button {
   border-radius: 8px;
   text-align: center;
   position: relative;
-  z-index: 3; /* To make sure it's above other elements */
+  z-index: 3;
+  width: 400px; /* Set the width as needed */
+  height: 500px; /* Set the height as needed */
 }
 
 .RecipeModal-content img {
   width: 100%;
   height: auto;
-  max-height: 300px; 
+  max-height: 300px;
 }
 
 .modal-overlay {
