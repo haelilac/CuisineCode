@@ -112,6 +112,23 @@ export const recipes = [
     procedure: "1. Heat a frying pan.\n2. Sear the sliced 1/4 lb pork belly by putting them directly in the hot pan and cooking them until oil comes out. This should take about 2 to 5 minutes.\n3. Add 1 tablespoon of bagoong guisado and then stir. Cook for a minute and then remove from the pan and set aside.\n4. Pour the 1 tablespoon cooking oil in the same frying pan.\n5. When the oil becomes hot, put in 1 teaspoon of garlic and then cook for 15 seconds.\n6. Add 2 tablespoons of shrimp paste and then cook for 30 seconds on medium heat.\n7. Put in the rice. Gently mix while cooking until all the ingredients are distributed properly. Cook the rice for 10 minutes while gently scraping the bottom of the pan once in a while.\n8. Transfer the rice to a serving bowl. Top with the cooked pork belly, 1/2 cup chopped green mango, and 3 tablespoons chopped scallions.\n9. Serve. Share and enjoy!",
     image: "Bagoong_Rice.jpeg"
   },
+  {
+    id: 7,
+    name: "Tokneneng",
+    ingredients: [
+      "Chicken eggs",
+      "Cornstarch",
+      "Water",
+      "Annatto seeds",
+      "All-purpose flour",
+      "Salt",
+      "Ground black pepper",
+      "Cooking oil"
+    ],
+    procedure: "1. Place the 3 tbsp cornstarch in a container and dredge the boiled quail eggs. Set aside.\n2. Combine all-purpose flour, 1/2 tsp salt, and 1/2 tsp pepper then mix thoroughly.\n3. Dilute the 1/4 cup annatto powder in warm water then pour-in the mixing bowl with the other ingredients. Mix well.\n4. Place all the quail eggs in the mixing bowl and coat with the batter.\n5. Put the boiled chicken eggs in the mixing bowl and coat with the batter.\n6. Heat the pan and pour 2 cups of cooking oil.\n7. When the oil is hot enough, deep-fry the eggs until the coating is crispy. Use a serving spoon to scoop the eggs from the mixing bowl.\n8. Remove the fried eggs from the pan and place in a serving plate.\n9. Serve with vinegar or special sauce.",
+    image: "Tokneneng.jpeg"
+  },
+  
   
 
 ];
