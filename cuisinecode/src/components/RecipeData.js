@@ -1164,6 +1164,23 @@ image: "bicol_express_pizza.jpg"
       procedure: "1. Chop 1 1/2 kg lechon into serving pieces. Place in a large cooking pot and add 2 1/2 cups of water. Bring to a boil.\n2. Add 5 cloves garlic, 2 pieces onion, 2 teaspoons whole peppercorn, and 5 pieces dried bay leaves. Cover the pot. Boil for 5 minutes.\n3. Add 1 piece Knorr Pork Cube and 1/2 cup vinegar. Cover the pot. Let boil. Adjust the heat between low to medium. Cook for 30 minutes.\n4. Pour lechon sauce into the pan. Stir. Cook for 15 minutes.\n5. Add 1/4 cup sugar and season with salt. Cook for 3 minutes.\n6. Transfer to a serving bowl. Serve with rice. Share and enjoy.",
       image: "lechon_paksiw.jpg"
     },
+    {
+      id: 80,
+      name: "Inun-unan",
+      ingredients: [
+        "fish",
+        "bitter gourd",
+        "eggplant",
+        "ginger",
+        "vinegar",
+        "green chili",
+        "onion",
+        "water",
+        "peppercorn"
+      ],
+      procedure: "1. Arrange the 1 small onion, fish, 1 thumb sliced ginger, 1 teaspoon whole peppercorn, water, and vinegar in a cooking pot. Cover the pot and turn the heat on. Let the liquid boil.\n2. Once the liquid starts to boil, adjust the heat to low. Cook for 15 minutes.\n3. Add 1 medium eggplant, 1 medium bitter gourd, 5 pieces long green and chili (or pepper). Cover the pot and continue to cook until the water completely evaporates.\n4. Transfer to a serving plate. Serve.\n5. Share and enjoy!",
+      image: "inun-unan.jpg"
+    },
     
      
 ];
