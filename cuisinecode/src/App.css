@@ -39,6 +39,8 @@ body {
   padding-top: 100px; /* Add padding to the top to account for the fixed header height */
 }
 
+/* Random Recipe */
+
 .left-container {
   width: 400px;
   height: 500px;
@@ -58,6 +60,15 @@ body {
   margin-bottom: 5px;
   margin-left: 50px;
 }
+
+
+.recipe-name {
+  margin-left: 85px;
+  font-size: 18px; /* Adjust the font size of the recipe name */
+  margin-top: 8px; /* Add margin to separate the image and name */
+  color: #000000; /* Adjust the text color */
+}
+
 
 .right-container {
   flex: 1;

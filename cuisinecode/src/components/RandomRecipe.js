@@ -5,7 +5,7 @@ const RandomRecipe = ({ randomIndex, setRandomIndex }) => {
   useEffect(() => {
     const newRandomIndex = Math.floor(Math.random() * recipes.length);
     setRandomIndex(newRandomIndex);
-  }, [setRandomIndex]); // Add setRandomIndex to the dependency array
+  }, [setRandomIndex]);
 
   const isValidIndex = randomIndex !== null && randomIndex >= 0 && randomIndex < recipes.length;
   const randomRecipe = isValidIndex ? recipes[randomIndex] : null;
@@ -21,7 +21,8 @@ const RandomRecipe = ({ randomIndex, setRandomIndex }) => {
       {isValidIndex && (
         <div className="recipe" onClick={generateNewRandomIndex}>
           <img src={randomRecipe.image} alt={randomRecipe.name} />
-          <p>{randomRecipe.name}</p>
+          <p className="recipe-name">{randomRecipe.name}</p>
+          {/* Add a className to style the recipe name or make other adjustments */}
         </div>
       )}
     </div>
