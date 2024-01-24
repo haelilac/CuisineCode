@@ -922,19 +922,28 @@ export const recipes = [
           image: "papaitan.jpg"
         },
 
-        {
-          id: 61,
-          name: "Ginataang Bilo-Bilo",
-          ingredients: ["water", "sago", "glutinous rice flour", "coconut milk", "sugar", "coconut cream", "jackfruit"],
-          procedure: "1. In a pot over medium heat, bring about 6 cups of water to a boil. Add sago pearls and cook, stirring occasionally, for about 15 to 20 minutes or until soft and translucent. Rinse and drain well.\n2. 2. In a small bowl, combine 1 cup of glutinous rice flour and ½ cup water into a pliable dough. If the dough is too sticky, add more flour and if too crumbly, add a little bit more water.\n3. 3. Scoop about a teaspoon of dough and using the palms of hands, form about 1 into smooth balls. Cover prepared balls with cloth until ready to use.\n4. 4. In a pot over medium heat, combine 4 cups of coconut milk and 1 cup sugar. Bring to a simmer, stirring occasionally, until sugar is dissolved. Continue to cook until slightly reduced.\n5. 5. Add glutinous rice balls and cook for about 8 to 10 minutes or until they begin to float to top.\n6. 6.Add coconut cream and stir to combine. Continue to cook until slightly thickened.\n7. 7. Add ½ cup of sago and 1 cup of shredded ripe jackfruit and continue to cook for about 3 to 5 minutes or until heated through.\n8. 8. Ladle in bowls and top with additional coconut cream, if desired.",    
-          image: "ginataan_na_bilobilo.jpg"
-        },
-      {
-        id: 62,
-       name: "Pancit Habhab",
+     {
+        id: 61,
+        name: "Ginataang Bilo-Bilo",
+        ingredients: ["water", "sago", "glutinous rice flour", "coconut milk", "sugar", "coconut cream", "jackfruit"],
+        procedure: "1. In a pot over medium heat, bring about 6 cups of water to a boil. Add sago pearls and cook, stirring occasionally, for about 15 to 20 minutes or until soft and translucent. Rinse and drain well.\n2. 2. In a small bowl, combine 1 cup of glutinous rice flour and ½ cup water into a pliable dough. If the dough is too sticky, add more flour and if too crumbly, add a little bit more water.\n3. 3. Scoop about a teaspoon of dough and using the palms of hands, form about 1 into smooth balls. Cover prepared balls with cloth until ready to use.\n4. 4. In a pot over medium heat, combine 4 cups of coconut milk and 1 cup sugar. Bring to a simmer, stirring occasionally, until sugar is dissolved. Continue to cook until slightly reduced.\n5. 5. Add glutinous rice balls and cook for about 8 to 10 minutes or until they begin to float to top.\n6. 6.Add coconut cream and stir to combine. Continue to cook until slightly thickened.\n7. 7. Add ½ cup of sago and 1 cup of shredded ripe jackfruit and continue to cook for about 3 to 5 minutes or until heated through.\n8. 8. Ladle in bowls and top with additional coconut cream, if desired.",    
+        image: "ginataan_na_bilobilo.jpg"
+     },
+
+   {
+      id: 62,
+      name: "Pancit Habhab",
       ingredients: ["miki lucban", "pork belly", "beef broth", "shrimp", "pig's liver", "chayote", "bok choy or pechay", "snap pea or snow pea", "carrots", "onion", "garlic", "cooking oil", "soy sauce", "ground black pepper", "banana leaf"],
       procedure: "1. Heat 3 tablespoons of cooking oil in a wide cooking pot.\n2. 2. Stir-fry the chayote, snap pea, carrots, and bok choy for 3 to 4 minutes. Set aside.\n3. 3. In the same cooking pot, add remaining oil. Put-in the pork slices. Cook for 5 minutes or until the oil from the pork comes out.\n4. 4. Put-in the onion and garlic. Cook for 2 minutes.\n5. 5. Add the liver. Stir.\n6. 6. Add the shrimp. Cook each side for 1 minute. Remove the shrimp and then set aside.\n7. 7. Sprinkle the ground black pepper and pour-in soy sauce.\n8. 8. Pour-in the beef broth. Let boil. Simmer for 20 minutes.\n9. 9. Put-in the Miki Lucban noodles. Cook while stirring until the noodles absorb the liquid.\n10. 10. Add half of the stir-fried vegetables. Stir.\n11. 11. Arrange on top of each banana leaf and then top with shrimp and more vegetables.\n12. 12. Serve. Share and enjoy!",
       image: "pancit_habhab.jpg"
+    },
+
+   {
+      id: 63,
+      name: "Pork Menudo",
+      ingredients: ["pork", "pig liver", "potatoes", "carrots", "soy sauce", "lemon", "egg", "baking powder", "water", "onion", "garlic", "sugar", "tomato sauce", "water", "hotdog", "cooking oil", "dried bay leaves", "salt", "pepper"],
+      procedure: "1. Combine 2 lbs. pork, ½ soy sauce, and ½ pc. lemon in a bowl. Marinate for at least 1 hour.\n2. 2. Heat 2 tbsp. oil in a pan.\n3. 3. Sauté 3 cloves minced garlic and 1 pc. chopped onion.\n4. 4. Add the marinated pork. Cook for 5 to 7 minutes.\n5. 5. Pour in ¾ cup of tomato sauce and 1 cup of water and then add the 2 to 3 pcs. of bay leaves. Let boil and simmer for 30 minutes to an hour depending on the toughness of the pork. Note: Add water as necessary.\n6. 6. Add-in the liver and hot dogs.Cook for 5 minutes.\n7. 7. Put-in 1 cup diced potatoes, 1 pc. cubed carrots,  1 tsp. sugar, salt, and pepper. Stir and cook for 8 to 12 minutes.\n8. 8. Serve hot. Share and enjoy!",
+      image: "pork_menudo.jpg"
     },
 
     
