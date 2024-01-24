@@ -349,7 +349,18 @@ export const recipes = [
       image: "bicol_express.jpg"
     },
 
+    {
+       id: 25,
+       name: "Beef Kaldereta",
+       ingredients: ["beef", "garlic", "onion", "beef broth", "red bell pepper", "tomato sauce", "liver spread", "chili flakes", "bay leaves", "potatoes", "carrots", "cooking oil", "green olives", "pepper", "salt"],
+       procedure: "1. Heat the ¼ cup of cooking oil in the cooking pot or pressure cooker.\n2. 2. Sauté the 1 pc. finely chopped onion and 3 pcs. Crushed and chopped garlic cloves.\n3. 3. Add the 2 lbs cubed beef. Cook for 5 minutes or until the color turns light brown.\n4. 4.Add the 3 pcs. dried bay leaves and crushed pepper. Stir.\n5. 5. Add the ½ cup of liver spread. Stir.\n6. 6. Pour-in the 1 cup tomato sauce and 2 cups of beef broth.\n7. 7. Cook the beef until it becomes tender (about 30 mins if using a pressure cooker, or 1 to 2 hours if using an ordinary pot).\n8. 8. Add potato and carrots. Cook for 8 to 10 minutes.\n9. 9. Put the ⅔ cup of green olives and 1 pc. red and green bell peppers in the cooking pot. Stir and continue to cook for 5 minutes more.\n10. 10. Add salt and pepper to taste.\n11. 11. Serve hot.  Share and enjoy!",
+       image: "beef_kaldereta.jpg"
+    },
+
+      ]
+      
+  
 
 
 
-];
+
