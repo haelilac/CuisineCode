@@ -1020,6 +1020,28 @@ image: "bicol_express_pizza.jpg"
       procedure: "1. Heat 3 tablespoons of cooking oil in a cooking pot.\n2. Once the oil gets hot, saute the 4 cloves of garlic and 1 medium sliced onion. Add sliced 2 thumbs ginger and continue to cook for 1 to 2 minutes.\n3. Put 1/2 kg apple snails in the cooking pot. Stir and cook for 2 minutes.\n4. Add 1/4 cup shrimp paste and 6 pieces of red chilies. Stir.\n5. Pour in 2 cups of coconut milk. Let boil. Cover and simmer for 30 minutes.\n6. Add 1/4 teaspoon ground black pepper and 1 large bunch of spinach. Stir and cook for 5 minutes without covering.\n7. Transfer to a serving bowl. Serve for pulutan or as a main dish with warm white rice. Share and enjoy!",
       image: "ginataang_kuhol.jpg"
     },
+    {
+      id: 72,
+      name: "Dinengdeng with Fried Fish",
+      ingredients: [
+        "milkfish",
+        "okra",
+        "squash flower",
+        "bitter gourd",
+        "snake beans",
+        "plum tomato",
+        "ginger",
+        "onion",
+        "pepper",
+        "hot pepper leaves",
+        "water",
+        "bagoong monamon",
+        "salt",
+        "cooking oil"
+      ],
+      procedure: "1. Rub salt all over the fish. Heat ½ cup cooking oil in a pan. Once the oil gets hot, fry 2 to 3 pieces of medium-sized fish until the side turns golden brown. Turn the fish over and continue to fry the other side until the same color is achieved. Remove the fried fish from the cooking pot. Place on a plate and set aside.\n2. Pour 3 cups of water into a clean cooking pot. Let boil.\n3. Add 1 medium onion, 2 sliced knobs of ginger, and 2 medium ripe plum tomatoes. Cover and boil in medium heat for 5 minutes.\n4. Stir-in the bagoong. Add okra, bitter gourd, and snake beans. Cover and cook for 7 to 12 minutes.\n5. Add 2 cups hot pepper leaves and 1 ½ cup squash flower. Cook for 3 minutes.\n6. Put the fried fish on top. Cover. Cook for 1 minute. Transfer to a serving bowl.\n7. Serve. Share and enjoy!",
+      image: "dinengdeng_with_fried_fish.jpg"
+    },
     
      
 ];
