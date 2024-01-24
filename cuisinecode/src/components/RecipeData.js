@@ -713,6 +713,26 @@ export const recipes = [
         procedure: "1. Heat cooking oil in a pot. 3 chopped Saute garlic, 1 chopped onion, and 1 thumb ginger. \n2. 2. Add the 2 lbs chicken once the onion softens. Cook one side for 2 minutes. Turn it over and do the same on the opposite side. \n3. 3.Pour water. Let boil. \n4. 4.Add 1 cup of labanos and 22gram Knorr Sinigang sa Sampaloc Mix. Cover the pot and continue cooking using low to medium heat for 35 minutes. \n5. 5.Add 2 halved tomato, 2 long green pepper, 5 okra, and 12 string beans cut into 2-inch pieces. Cook for 8 to 12 minutes. \n6. 6. Season with ground black pepper and fish sauce. \n7.7. Add spinach. Cook for 1 minute. \n8. 8.Transfer to a serving bowl. Serve and Enjoy.",
         image: "Sinigang_na_manok.jpg"
         },
+
+        {
+          id:48,
+          name: "Sinanglay_na_Tilapia",
+          ingredients: [
+        "tilapia",
+        "tomatoes",
+        "shallots ",
+        "ginger",
+        "tamarind powder",
+        "pechay leaves",
+        "pandan leaves",
+        "coconut milk",
+        "chili peppers",
+        "salt and pepper"
+          ],
+        procedure: "1. Rinse the 2 tilapia and make sure innards are completely removed. Season with salt and pepper to taste. \n2. 2. In a bowl, combine 2 diced tomatoes, 4 peeled and chopped shallots, 1 thumb-sized ginger peeled and minced, and 1 tbsp tamarind powder.\n3. 3.Rinse pandan leaves and pat dry. \n4. 4.Divide tomato-onion mixture and gently spoon into the belly cavity of each fish. \n5. 5.Wrap fish with pechay and tie with pandan to completely secure. \n6.In a wide pan, arrange prepared fish parcels in a single layer. \n6. 6..Add coconut milk and chili peppers. Season with salt and pepper to taste. \n7. 7. Cover and bring to a simmer over low heat. Continue to cook for about 20 to 25 minutes or until fish is cooked through and sauce is reduced. Serve hot.",
+        image: "Sinanglay_na_Tilapia"
+        },
+        
         
       
 
