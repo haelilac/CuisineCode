@@ -526,6 +526,19 @@ export const recipes = [
         "notes": "",
         image: "ginataang_mais.jpg"
       },
+      {
+        id: 37,
+        name: "Leche Flan",
+        ingredients: [
+          "eggs",
+          "condensed milk",
+          "evaporated milk",
+          "granulated sugar",
+          "vanilla extract"
+        ],
+        procedure: "1. Using all 10 egg yolks, separate them from the egg whites (only egg yolks will be used).\n2. Place the egg yolks in a large bowl, then beat them using a fork or an egg beater.\n3. Add the 1 can condensed milk and mix thoroughly.\n4. Pour in 1 cup fresh milk and 1 teaspoon of vanilla extract. Mix well.\n5. Heat the mold (llanera) on top of the stove using low fire.\n6. Put granulated sugar on the mold and mix thoroughly until the solid sugar turns into liquid (caramel) with a light brown color.\n7. Spread the caramel evenly on the flat side of the mold.\n8. Wait for 5 minutes, then pour the egg yolk and milk mixture into the mold.\n9. Cover the top of the mold using aluminum foil.\n10. Steam the mold with the egg and milk mixture for 30 to 35 minutes.\n11. After steaming, let the temperature cool down, then refrigerate.\n12. Serve for dessert. Share and enjoy!",
+        image: "leche_flan.jpg"
+      },
       
 
       ]
