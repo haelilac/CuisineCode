@@ -904,6 +904,25 @@ export const recipes = [
       procedure: "1. Make the regular sinigang by boiling 1 quart of water in a cooking pot. Add 3 quartered tomatoes and 2 quartered onions. Cook for 2 to 3 minutes. Add the 2 lbs. cleaned and sliced bangus and 23g Knorr Sinigang sa Sampaloc with Miso. Simmer it for 18 to 20 minutes. Add 8 cleaned okras, 4 oz of daikon radish, 3 long green peppers, and 12 string beans that are cut in 2-inch length. Continue cooking for 5 minutes. Season with fish sauce and ground black pepper. Add the 1 bunch of mustard leaves and cook for 2 minutes. Serve hot.\n2. 2. Start making the fried bangus sinigang by rubbing salt all over the fish. Heat the oil in a pan. Fry both sides of the fish until it turns golden brown. Remove the fish and set it aside. Saute 2 quartered onions and 3 quartered tomatoes in the remaining oil. Add the fried bangus and pour water into the pot. Let it boil. Add Knorr Sinigang sa Sampaloc with Miso. Simmer for 10 minutes. Add okra, string beans, and long green peppers. Season with fish sauce and ground black pepper. Add the kangkong leaves. Continue cooking for 1 minute. Serve hot.\n3. 3. Share and enjoy!",
     image: "sinigang_na_bangus.jpg"
     },
+   
+    {
+      id: 59,
+      name: "Pata Tim",
+      ingredients: ["pork leg", "knorr pork cube", "bok choy or pechay", "mushroom", "brown sugar", "sesame oil", "soy sauce", "cornstarch", "cooking wine", "star anise", "peppercorn", "water"],
+      procedure: "1. Set the turbo broiler to 350F. Broil 3 lbs pork leg (pata) for 20 minutes.\n2. 2. Boil 6 cups of water in a cooking pot. Add broiled pata. Boil for 15 minutes. Drain water and then wash the pata with running water.\n3. 3. In a clean cooking pot, arrange the pata. Pour 6 tbsp. soy sauce, 1 tsp sesame oil, ¼ cup of cooking wine (optional), and water. Add 2 tsp. whole peppercorn. Boil for 1 to 2 hours or until pork gets tender. Note: you can use a pressure cooker to tenderize the pork leg quicker.\n4. 4. Add 1 pc. Knorr Pork Cube, 3 pcs. star anise, and 1- pcs. Shiitake mushroom. Cook for 20 minutes. Note: add more water if needed. Make sure that there is at least 2 ½ cups of sauce in the pot.\n5. 5. Add 6 tbsp. brown sugar. Stir. Pour 1 tbsp. cornstarch and water mixture. Stir and cook until the sauce thickens.\n6. 6. Add 1 bunch of baby bok choy or pechay. Cook for 2 minutes.\n7. 7. Transfer to a serving plate. Serve. Share and enjoy!",
+      image: "pata_tim.jpg"
+      },
+
+      {
+        id: 60,
+        name: "Papaitan",
+        ingredients: ["ox tripe”, "cows small intestine", "beef", "bile", "ginger", "onion", "onion", "garlic", "water", "finger chilies", "salt", "ground black pepper", "lemon or calamasi", "cooking oil"],
+        procedure: "1. Heat a cooking pot and pour-in 4 cups of water and put-in 1 tablespoon of salt. Bring to a boil.\n2. 2. Put-in the 1 lb ox tripe and ½ lb small intestines and simmer until tender. This should take approximately 35 to 50 minutes.\n3. 3. Turn off heat. Remove the tender ox tripe and small intestines then slice. Set aside. Discard the water.\n4. 4. Heat a clean cooking pot and pour-in 2 tbsp. cooking oil.\n5. 5. When the oil is hot enough, sauté 6 cloves crushed and chopped garlic, 1 pc. diced onion, and 2 thumbs julienned ginger.\n6. 6. Add the ½ lb thinly sliced and chopped beef, ½ lb cow’s heart, sliced intestines, and tripe then cook for about 3 to 4 minutes.\n7. 7. Add 1 1/2 tablespoon salt and ground black pepper then stir for a minute.\n8. 8. Pour-in remaining 4 cups of water and bring to a boil. Simmer for 40 minutes (you may add more water if needed).\n9. 9. Add bile then simmer for 5 minutes.\n10. 10. Add the finger chilies and squeeze-in the lemon juice then simmer for 3 minutes.\n11. 11. Turn off the heat and transfer to a serving bowl.\n12. 12. Serve hot. Share and enjoy!",
+        image: "papaitan.jpg"
+      },
+  
+  
+  
 
         
           
