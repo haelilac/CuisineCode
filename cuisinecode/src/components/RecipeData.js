@@ -960,6 +960,20 @@ export const recipes = [
       procedure: "1. In a large mixing bowl, combine 2 cups of glutinous rice flour and 1 cup granulated white sugar. Mix well.\n2. 2. Pour-in the 7 oz. ½ can of condensed milk, 4 cups of  coconut milk, and ½ tsp. vanilla extract. Mix until the texture becomes smooth.\n3. 3. Divide the mixture into 3 parts.\n4. 4. Add the ¾ cup of  mashed purple yam and ube extract on the first part along with the violet food coloring. Stir thoroughly and then set aside.\n5. 5. Shred the ½ cup of ripe jackfruit (without the seed) in a food processor. Add the processed jackfruit on the second part along with the yellow coloring and then mix well. Set aside. Note: leave the 3rd part as it is.\n6. 6. Arrange the steamer on your stovetop and pour-in about 1 quart of water. Turn on the heat and let the water boil.\n7. 7. Grease a round baking pan by brushing 1 tbsp. cooking oil or coconut oil.\n8. 8. Pour-in the first part (colored violet) on the greased baking pan. Make sure that the mixture settles. Cover the baking pan with a cheesecloth and then steam for 12 to 16 minutes.\n9. 9. Remove the baking pan and then pour-in the white mixture. Use a spatula to spread it on top of the violet mixture. Remove excess water from the cheesecloth by squeezing it. Put it back on the baking pan. Steam for another 12 to 16 minutes.\n10. 10. Remove the baking pan from the steamer and then pour-in the yellow mixture. Spread the mixture over the succeeding one using a spatula. Try to remove the excess water again from the cloth and then put it back on the baking pan. Steam for 15 to 20 minutes. Note: If you think that the mixture is still a bit runny, try to steam for 5 minutes more.\n11. 11. Arrange a clean banana leaf over a wide serving plate. Brush coconut or cooking oil on the leaf. Use a spatula (brushed with oil) and gently run on the side of the baking pan to prevent the mixture from sticking. Turn the baking pan over the banana leaf and let the cooked sapin-sapin fall.\n12. 12. Brush oil on top of the sapin-sapin (the violet part should be on top). Sprinkle with ¼ cup of latik.\n13. 13. Serve for dessert. Share and enjoy!",
       image: "sapin_sapin.jpg"
     },
+    {
+      id: 66,
+      name: "Bulanglang",
+      ingredients: ["green papaya", "squash", "squash or kalabasa", "patola", "lemongrass (optional)", "okra", "tomatoes", "malunggay leaves", "garlic", "ginger", "salt", "water"],
+      procedure: "1. Heat a cooking pot and pour-in 4 to 6 cups of water. Let boil.\n2. 2. Add 4 cloves of lightly crushed garlic, 1 thumb chopped ginger, and lemongrass (optional). Boil for 5 to 7 minutes.\n3. 3. Remove the lemongrass. Add papaya and calabaza squash. Boil for 6 minutes.\n4. 4. Add 3 medium sliced tomatoes, 10 to 15 small okras, and sliced patola. Cook for 3 to 4 minutes.\n5. 5. Put-in 1 cup of malunggay leaves and 1 to 2 tsp. salt. Stir. Turn the heat off.\n6. 6. Transfer to a serving bowl and serve. Share and enjoy!",
+image: "bulanglang.jpg"
+    },
+    {
+      id: 67,
+      name: "Adobong Kangkong",
+      ingredients: ["kangkong leaves", "onion", "garlic", "soy sauce", "vinegar", "water", "cooking oil", "ground black pepper"],
+      procedure: "1. Heat 3 tbsp. cooking oil in a pan.\n2. 2. Add the 1 head crushed and chopped garlic. Saute until the color turns golden brown. Scoop-out a quarter of the browned garlic and put in a clean bowl. Save this later for garnish.\n3. 3. Add 1 pc. chopped onion. Saute until it softens.\n4. 4. Pour the soy sauce and vinegar in the pan. Let the liquid boil.\n5. 5. Add 1 bunch of Kangkong stalks. Cook for 2 minutes.\n6. 6. Add the Kangkong leaves. Stir. Continue cooking for 30 to 1 minute. Cover the pan and cook for 1 minute.\n7. 7. Season with ground black pepper. Note: you may also add salt if needed.\n8. 8. Transfer to a serving bowl and then top with browned garlic.\n9. 9. Serve. Share and enjoy!",
+      image: "adobong_kangkong.jpg"
+    },
 
      
 ];
