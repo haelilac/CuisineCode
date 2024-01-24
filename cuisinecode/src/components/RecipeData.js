@@ -215,5 +215,29 @@ export const recipes = [
       "procedure": "1. Grill the 4 pieces of eggplant until the color of skin turns almost black. \n 2. Let the eggplant cool for a while then peel off the skin. Set aside. \n 3. Crack the 2 pieces of eggs and place in a bowl \n 4. Add 1 teaspoon salt and beat \n 5. Place the eggplant on a flat surface and flatten using a fork. \n 6. Dip the flattened eggplant in the beaten egg mixture\n 7. Heat the pan and pour the 6 tablespoons of cooking oil  \n 8. Fry the eggplant (that was dipped in the beaten mixture). Make sure that both sides are cooked. Frying time will take you about 3 to 4 minutes per side on medium heat.",
       image: "Torta_Talong.jpg"
     },
+    {
+      id: 13,
+      name: "Pinakbet",
+      ingredients: [
+        "Liempo",
+        "Knorr Pork Cube",
+        "Ube",
+        "Kalabasa",
+        "Sitaw sliced",
+        "Okra",
+        "Talong sliced",
+        "Ampalaya",
+        "Tomato",
+        "Onion",
+        "Ginger",
+        "Garlic chopped",
+        "Bagoong alamang",
+        "Water",
+        "Cooking oil",
+        "Ground black pepper to taste"
+      ],
+      "procedure": "1. Boil 5 cups of water in a cooking pot.\n2. 2. Add 1 1/2 lbs  pork belly. Continue boiling for 35 minutes. \n3. 3.Remove pork from the pot. Let it cool down. Note: Save the pork stock (water used to boil the pork). It will be used later. \n4. 4.Rub salt all over the pork belly. Let it stay for 10 minutes. \n5. 6.Put the pork in an air fryer. Air-fry for 18 minutes (or until crispy) per side at 370F. Slice into serving pieces. Set aside. \n6. 6. Heat 3 tablespoons of oil in a pan. Saute 1 piece chopped onion, 3 thumbs crushed garlic, 4 crushed ginger, and 1 piece cubed Tomato. \n7. 7. Once tomato and onion softens, add 1 piece  ube and 1 1/2 cups cubed kalabasa. Saute for 2 minutes. \n8. 8. Pour 1 1/4 cup pork stock into the pot. Let boil. \n9. 9. Add 1 piece 1 piece Knorr Pork Cube. Stir. \n10. 10. Add 3 tablespoons  bagoong alamang. Stir. Cover the pan. Cook for 5 minutes. \n11. 11. Add1 piece eggplant sliced and 1 piece  ampalaya. Cover and cook for 2 minutes. \n12.  12. Add  10 pieces of okra and snake beans. Cover and cook for 7 to 10 minutes. \n13. 13. Season with ground black pepper. Top with crispy liempo. Serve. Share and enjoy.",
+      "image": "Pinakbet.jpg"
+    },
     
 ];
