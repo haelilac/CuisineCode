@@ -239,6 +239,7 @@ export const recipes = [
       "procedure": "1. Boil 5 cups of water in a cooking pot.\n2. 2. Add 1 1/2 lbs  pork belly. Continue boiling for 35 minutes. \n3. 3.Remove pork from the pot. Let it cool down. Note: Save the pork stock (water used to boil the pork). It will be used later. \n4. 4.Rub salt all over the pork belly. Let it stay for 10 minutes. \n5. 6.Put the pork in an air fryer. Air-fry for 18 minutes (or until crispy) per side at 370F. Slice into serving pieces. Set aside. \n6. 6. Heat 3 tablespoons of oil in a pan. Saute 1 piece chopped onion, 3 thumbs crushed garlic, 4 crushed ginger, and 1 piece cubed Tomato. \n7. 7. Once tomato and onion softens, add 1 piece  ube and 1 1/2 cups cubed kalabasa. Saute for 2 minutes. \n8. 8. Pour 1 1/4 cup pork stock into the pot. Let boil. \n9. 9. Add 1 piece 1 piece Knorr Pork Cube. Stir. \n10. 10. Add 3 tablespoons  bagoong alamang. Stir. Cover the pan. Cook for 5 minutes. \n11. 11. Add1 piece eggplant sliced and 1 piece  ampalaya. Cover and cook for 2 minutes. \n12.  12. Add  10 pieces of okra and snake beans. Cover and cook for 7 to 10 minutes. \n13. 13. Season with ground black pepper. Top with crispy liempo. Serve. Share and enjoy.",
       "image": "Pinakbet.jpg"
     },
+    
     {
       id: 14,
       name: "Pork Barbeque",
@@ -258,5 +259,23 @@ export const recipes = [
       "procedure": "1. Place the 3 lbs pork shoulder sliced into thin pieces in a large bowl. Add all the BBQ marinade ingredients. Mix well. Cover the bowl and place inside the refrigerator. Marinate for at least 3 hours. Note: marinating for a longer period of time is ideal for the meat to absorb the flavors from the marinade. \n2. 2. Skewer the marinated pork in bamboo skewers.  \n3. 3. Prepare the basting sauce by combining all the basting sauce ingredients in a bowl. Mix well and set aside. \n4. 4. Heat-up the grill. Grill the pork barbeque for 2 minutes. Baste the top part using a brush and then turn it over. Baste the top again. Continue to grill one side for 2 to 2 1 ⁄ 2 minutes while basting every time its flipped until the BBQ is done. \n5. 5. Arrange on a serving plate. Serve with rice on the side and a dipping sauce of spicy vinegar. Share and enjoy!",
       image: "Pork_Barbeque.jpg"
     },
-        
+
+    {
+      id: 15,
+      name: "Chicken Inasal",
+      ingredients : ["chicken", "ginger", "lemongrass", "garlic", "vinegar", "lemon or calamansi juice","salt", "brown sugar", "lemon soda", "ground black pepper", "atsuete oil", "margarine"],
+      procedure: "1. In a freezer bag or large bowl, combine 2 lbs chicken cut into serving pieces, lemongrass, salt, ½ tablespoon ground black pepper, 2 tablespoons ginger, 2 tablespoons garlic, ¼ cup of brown sugar, 1 cup vinegar, 1 cup lemon-lime soda, and ½ cup lemon juice.\n2. 2. Stir or shake the mixture until every ingredient is well incorporated. Marinade for 1 to 3 hours.\n3. 3. In a bowl, combine margarine, annatto oil, salt, and lemon juice then stir. Set aside.\n4. 4. Grill the chicken while basting generous amounts of the margarine mixture.\n5. 5. Transfer the grilled chicken to a serving plate.\n6. 6. Serve with sinamak. Share and enjoy!",
+      image: "chicken_inasal.jpg"
+    },
+
+    {
+      id: 16,
+      name: "Crispy Pata",
+      ingredients: ["pig leg", "dried bay leaves", "peppercorn", "star anise", "salt", "garlic powder", "salt", "brown sugar", "water", "cooking oil"],
+      procedure: "1. Pour 12 cups of water in a cooking pot then let boil.\n2. 2. Put-in 6 dried bay leaves, 2 tbsp of whole peppercorn, 4 pcs of star anise, and 4 tsp of salt.\n3. 3. Add the whole pig’s legs in the cooking pot then simmer until the leg becomes tender (about 45 to 60 minutes).\n4. 4. Remove the tender leg from the cooking pot and set aside until the temperature goes down.\n5. 5. Rub the leg with 2 teaspoons of garlic powder, 2 teaspoons of  ground black pepper, and remaining salt. Let stand for 15 minutes to absorb the rub.\n6. 6. Heat a clean large cooking pot (preferably with cover) and pour-in cooking oil.\n7. 7. When the oil becomes hot, deep fry the rubbed pork leg. Continue cooking in medium heat until one side becomes crispy, and then cautiously flip the leg to crisp the other side. Note: Be extra careful in doing this procedure.\n8. 8. Turn-off the heat; remove the crispy pork leg; and transfer it to a wide serving plate.\n9. 9. Serve with atcharang papaya and soy sauce – vinegar dipping sauce.\n10. 10. Share and enjoy!",
+      image: "crispy_pata.jpg"
+    }
+
+     
+
 ];
