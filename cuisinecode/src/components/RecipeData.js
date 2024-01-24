@@ -1056,6 +1056,28 @@ image: "bicol_express_pizza.jpg"
       procedure: "1. Pour 5 cups of water into the cooking pot. Boil.\n2. Add 1kg pork belly and 1 tablespoon of salt. Put some peppercorn and 5 pieces of dried bay leaves. Boil for 30 minutes or until meat gets tender.\n3. Remove the meat from the pot and let it cool down for a few minutes.\n4. Spread 1 tablespoon of salt on the pork belly. Make sure to distribute it evenly on all sections.\n5. Start to deep fry the boiled meat. Heat 3 cups of cooking oil on a cooking pot.\n6. Put each piece of boiled pork belly into the hot oil with extra caution. Fry until crispy. Turn the meat over to completely fry the opposite side until crispy. Note: be extra careful when frying as oil can splatter. You can use the cover of the pot to cover it while oil splatters, but do not cover completely as steam will be trapped. It will cause more splatters.\n7. Remove the meat from the cooking pot. Arrange on a wire rack to cool down.  Slice according to desired portions.\n8. Serve with lechon sauce. Share and Enjoy!",
       image: "lechon_kawali.jpg"
     },
+    {
+      id: 74,
+      name: "Pork Pata Humba",
+      ingredients: [
+        "ham hock",
+        "banana blossoms",
+        "pork cube",
+        "black beans",
+        "brown sugar",
+        "onion",
+        "garlic",
+        "bay leaves",
+        "peppercorn",
+        "pineapple juice",
+        "soy sauce",
+        "vinegar",
+        "water",
+        "cooking oil"
+      ],
+      procedure: "1. Pour 6 cups of water into the cooking pot. Boil.\n2. Add the 1 kg ham hock (pata). Scoop out the scums that will eventually float. Cover and boil in medium heat for 40 to 60 minutes. You can add more water if needed.\n3. Remove the pata from the cooking pot and set it aside. Discard the water.\n4. Pour 3 tablespoons of cooking oil into a clean cooking pot.\n5. Once the oil gets hot, saute 4 cloves of garlic and 1 medium yellow onion.\n6. Add the boiled pata. Stir and cook for 1 minute.\n7. Pour 1/2 cup soy sauce and 4 cups pineapple juice into the pot. Let boil.\n8. Add 1 pork cube. Stir.\n9. Add 3 pieces of dried bay leaves, 1/2 teaspoon crushed peppercorns, 1/2 cup dried banana blossoms, and 1/4 cup salted black beans (tausi). Stir. Cover and continue to cook between low to medium heat until the liquid reduces to half.\n10. Add 1 teaspoon of vinegar. Stir and then add 1/4 cup dark brown sugar. Continue to cook for 5 minutes.\n11. Transfer to a serving bowl or plate. Serve.\n12. Share and enjoy!",
+      image: "pork_pata_humba.jpg"
+    },
     
      
 ];
