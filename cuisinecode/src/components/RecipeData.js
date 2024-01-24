@@ -143,6 +143,7 @@ export const recipes = [
     procedure: "1. Peel the skin off the garlic cloves. Crush thoroughly using mortar and pestle. Mince the crushed garlic. Set aside.\n2. In a large mixing bowl, combine ground pork along with all of the ingredients. Mix well.\n3. Cover the bowl. Refrigerate for 2 hours.\n4. Shape the longganisa by laying a sheet of wax paper on a flat surface. Scoop around 3 tablespoons of mixture and put over the wax paper. Fold the wax paper from top to down until the mixture is covered. Hold the edge of the paper with your fingers and then slide the card towards the mixture. Push a bit more until a sausage shape is formed. Do this step until the entire mixture is consumed.\n5. Refrigerate overnight.\n6. Cook and serve for breakfast. Share and enjoy!",
     image: "Skinless_Longganisa.jpg"
   },
+
   {
     id: 9,
     name: "Okoy",
@@ -161,8 +162,27 @@ export const recipes = [
     "procedure": "1. Combine cornstarch, 1/4 flour, 1/4 teaspoon baking powder, 1 piece raw egg, 1 1/4 water, 2 teaspoons salt, and 1/2 teaspoon ground black pepper then stir until diluted. \n 2. Add the 1 cup small shrimps cleaned and 1 1/2 cups mung bean sprouts in the mixture and lightly stir to distribute.\n 3. Heat a frying pan or small cooking pot and pour-in the 2 cups of cooking oil. \n 4. When the oil is hot enough, scoop about 2 to 3 tablespoons of the mixture and quickly (but cautiously) drop it in hot oil. \n 5. Cook each side for 2 to 3 minutes or until the color turns golden brown. Please note that cooking time may vary. Repeat this step until the entire mixture is consumed. \n 6. Remove the deep-fried ukoy from the pan and place in a plate lined with a paper towel to absorb the oil. \n 7. Remove the paper towel and serve with sinamak. \n 8. Share and enjoy!",
     image: "Okoy.jpg"
   },
-  
-  
-  
+
+    {
+      id: 10,
+      name: "Tokwa at Baboy",
+      ingredients: [
+        "Pig ears",
+        "Pork belly",
+        "Tofu",
+        "White vinegar",
+        "Soy sauce",
+        "Sugar",
+        "Salt",
+        "Peppercorn",
+        "Onion",
+        "Scallions",
+        "Ground black pepper",
+        "Water",
+        "Cooking oil" 
+      ],
+      procedure: "1. Pour-in water in a pot and bring to a boil\n 2. Add salt and 1 whole peppercorn \n 3. Put-in the 1lb pig’s ears and 1 lb pork belly then simmer until tender (about 30 mins to 1 hour) \n 4. Pour 2 cups of cooking oil on a separate pan and allow to heat. \n 5. When the oil is hot enough, deep-fry the 1 lb tofu until the color turns golden brown and the outer texture is somewhat crispy  \n 6. Cube the fried tofu and slice the boiled pig’s ears and pork belly into bite-sized pieces then set aside \n 7. Combine the 1 tablespoon sugar, 1 tablespoon salt, 1/4 cup soy sauce, and 1 1/2 white vinegar in a bowl. Stir. \n 8. Microwave for 1 minute. \n 9. Add the 1/8 teaspoon ground black pepper, 1 piece onions, green onions, and chili pepper. Transfer the sauce in a serving bowl. \n 10. Place the sliced meat and tofu in a serving plate with the bowl of sauce by the side. \n 11. Serve hot! Share and Enjoy!",
+      image: "Tokwa_at_Baboy.jpg"
+    },  
 
 ];
