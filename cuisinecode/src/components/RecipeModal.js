@@ -9,7 +9,7 @@ const RecipeModal = ({ recipe, onClose }) => {
         <div className="modal-header">
           <h2>{recipe.name}</h2>
           <button className="close-button" onClick={onClose}>
-            <i className="material-icons">close</i>
+          <span class="material-symbols-rounded"> cancel</span>
           </button>
         </div>
         <img src={imagePath} alt={recipe.name} />
