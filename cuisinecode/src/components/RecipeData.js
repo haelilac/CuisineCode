@@ -61,7 +61,7 @@ export const recipes = [
     id: 4,
     name: "Lechon Kawali Sisig",
     ingredients: [
-      "Lady’s Choice Mayonnaise",
+      "Lady's Choice Mayonnaise",
       "Tablespoons Knorr liquid seasoning",
       "lemon lime soda",
       "Calamansi juice",

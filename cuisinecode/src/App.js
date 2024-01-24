@@ -12,13 +12,12 @@ function App() {
   const [scrollingUp, setScrollingUp] = useState(false);
 
   useEffect(() => {
-    // Generate a random index only on the initial page load
     if (randomIndex === null) {
       const newRandomIndex = Math.floor(Math.random() * recipes.length);
       setRandomIndex(newRandomIndex);
     }
 
-    // Event listener for scrolling
+    // scrolling
     const handleScroll = () => {
       setScrollingUp(window.scrollY < window.scrollYOffset);
     };
@@ -35,7 +34,7 @@ function App() {
     const searchTerm = searchInput.toLowerCase().trim();
 
     if (searchTerm === '' || searchTerm.length <= 0) {
-      // Clear filtered recipes if search term is empty or less than 3 characters
+      // Clear filtered recipes if search term is empty
       setFilteredRecipes([]);
     } else {
       const searchIngredients = searchTerm.split(',').map((ingredient) => ingredient.trim());
@@ -76,9 +75,6 @@ function App() {
   const closeRecipeModal = () => {
     setSelectedRecipe(null);
   };
-
-
-  
 
   return (
     <div className="body" style={{ backgroundImage: `url(/Assets/mainbg.jpg)` }}>

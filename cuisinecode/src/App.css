@@ -6,7 +6,7 @@
   flex-direction: column;
   height: 100vh;
   overflow: auto; 
-  background-size: 90%; /* Set background size to cover the whole screen */
+  background-size: 90%;
   background-position: right 15% ;
   background-repeat: no-repeat;
 }
@@ -15,7 +15,7 @@
   display: flex;
   flex-direction: column;
   height: auto;
-  overflow: auto; /* Add scrollbar to the app container */
+  overflow: auto; /* Add scrollbar */
 }
 
 .header {
@@ -31,22 +31,9 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  z-index: 1; /* Ensure the header is on top of other elements */
-  transition: top 0.3s; /* Add smooth transition for header movement */
+  z-index: 1;
+  transition: top 0.3s;
 }
-
-.header-text {
-  color: #fff;
-}
-
-.app-container.scrolling-up .header {
-  top: 140px; /* Move the header off-screen when scrolling up */
-}
-
-.header.scrolling-up {
-  transform: translateY(-140px);
-}
-
 
 .header-text {
   color: #fff;

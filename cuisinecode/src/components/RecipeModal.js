@@ -1,11 +1,11 @@
 import React from 'react';
 
-import './RecipeModal.css'; // Import the RecipeModal specific CSS
+import './RecipeModal.css';
 
 const RecipeModal = ({ recipe, onClose }) => {
   const imagePath = process.env.PUBLIC_URL + '/' + recipe.image;
 
-  // Split the procedure string into an array of lines
+
   const procedureLines = recipe.procedure.split('\n');
 
   return (
