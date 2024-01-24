@@ -33,21 +33,6 @@ function App() {
 
   return (
     <div className="App">
-<<<<<<< Updated upstream
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-        </a>
-      </header>
-=======
       <div className="header">
         <div className="header-text">
           <h1>Cuisine Code</h1>
@@ -77,7 +62,6 @@ function App() {
           )}
         </div>
       </div>
->>>>>>> Stashed changes
     </div>
   );
 }
