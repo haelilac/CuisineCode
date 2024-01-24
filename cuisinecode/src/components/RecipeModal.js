@@ -1,5 +1,7 @@
 import React from 'react';
 
+import './RecipeModal.css'; // Import the RecipeModal specific CSS
+
 const RecipeModal = ({ recipe, onClose }) => {
   const imagePath = process.env.PUBLIC_URL + '/' + recipe.image;
 
@@ -7,27 +9,24 @@ const RecipeModal = ({ recipe, onClose }) => {
   const procedureLines = recipe.procedure.split('\n');
 
   return (
-    <div className="modal-overlay" onClick={onClose}>
-      <div className="modal-content" onClick={(e) => e.stopPropagation()}>
-        <div className="modal-header">
-          <h2>{recipe.name}</h2>
-          <button className="close-button" onClick={onClose}>
-            <span className="material-symbols-rounded">cancel</span>
-          </button>
-        </div>
+    <div className="RecipeModal-overlay" onClick={onClose}>
+      <div className="RecipeModal-content" onClick={(e) => e.stopPropagation()}>
+        <h2>{recipe.name}</h2>
         <img src={imagePath} alt={recipe.name} />
-        <p>
-          <strong>Ingredients:</strong> {recipe.ingredients.join(', ')}
-        </p>
-        <p>
-          <strong>Procedure:</strong>
-          {procedureLines.map((line, index) => (
-            <React.Fragment key={index}>
-              {line}
-              <br />
-            </React.Fragment>
-          ))}
-        </p>
+        <div className="recipe-details">
+          <p>
+            <strong>Ingredients:</strong> {recipe.ingredients.join(', ')}
+          </p>
+          <p>
+            <strong>Procedure:</strong>
+            {procedureLines.map((line, index) => (
+              <React.Fragment key={index}>
+                {line}
+                <br />
+              </React.Fragment>
+            ))}
+          </p>
+        </div>
       </div>
     </div>
   );
