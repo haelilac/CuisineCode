@@ -758,7 +758,7 @@ export const recipes = [
         },
 
         {
-          id:49,
+          id:50,
           name: "Puto Bumbong",
           ingredients: [
         "sticky purple rice",
@@ -772,7 +772,34 @@ export const recipes = [
           ],
         procedure: "1. Combine all 1 1/3 cups sticky purple rice and 2/3 cup long grain purple rice in a large mixing bowl. Pour water. Soak for 2 days.\n2. 2. Drain the water by pouring the contents of the bowl into a large sieve. \n3. 3. Put the soaked rice in a large food processor. Start to grind the rice until it becomes very fine. Note: It took me around 10 minutes to achieve this consistency. \n4. 4.Fill your puto bumbong steamer with water halfway through. Apply heat and then let the water boil. \n5. 5. Meanwhile, fill each bumbong (bamboo tube) with powdered rice. Note: Do not compress the rice so that steam can pass easily. \n6. 6. Once the water starts to boil rapidly, arrange each bamboo tube on the steamer. Continue to cook until steam comes out of the tube.\n7. 7.Remove the tube from the steamer. Arrange the contents over a piece of banana leaf. Spread 1/2 cup butter all over and then top with 1 1/2 cups freshly grated coconut and 3/4 cups muscovado sugar.",
         image: "Puto_Bumbong.jpg"
+        },      
+
+        {
+          id:51,
+          name: "La Paz Batchoy",
+          ingredients: [
+          "miki noodles",
+          "pork",
+          "pig's intestines ",
+          "pig liver",
+          "salt",
+          "ground black pepper",
+          "sugar",
+          "shrimp paste",
+          "onion powder",
+          "cracklings",
+          "spring onion",
+          "toasted garlic",
+          "water"
+            ],
+           procedure: "1.Boil water in a cooking pot.\n2. 2.Put-in 1 1/2 teaspoons salt, 2 teaspoons sugar, 1 teaspoon onion powder,1/2 teaspoon ground black pepper, and 1 teaspoon shrimp paste. Cook for a minute.. \n3. 3.Add the 1 lb pork and cook until tender (about 30 to 45 minutes). \n4. 4.Put-in the 1 lb pig's intestines and 1/4 lb pig  liver, and then cook for 6 to 10 minutes. \n5. 5.Remove the pork, liver, and intestine from the broth (caldo). Set aside. \n6. 6.Slice the pork into strips. \n7. 7.Arranged the cooked miki noodles in a single serving bowl. \n8 8.Place the strips of pork, liver, and intestine on top of the 1 lb miki noodles. \n8. 8.Pour the broth in the bowl, and then garnish with spring onions and toasted garlic.\n9. 9.Pour the broth in the bowl, and then garnish with spring onions and toasted garlic. \n10. 10.Serve hot. Share and enjoy.",
+           image: "La_Paz_Batchoy.jpg"
         },
+
+        
+          
+
+
         
         
 
@@ -792,7 +819,7 @@ export const recipes = [
       
   
 
-      ]
+]
       
   
 
