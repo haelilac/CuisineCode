@@ -184,5 +184,24 @@ export const recipes = [
       procedure: "1. Pour-in water in a pot and bring to a boil\n 2. Add salt and 1 whole peppercorn \n 3. Put-in the 1lb pig’s ears and 1 lb pork belly then simmer until tender (about 30 mins to 1 hour) \n 4. Pour 2 cups of cooking oil on a separate pan and allow to heat. \n 5. When the oil is hot enough, deep-fry the 1 lb tofu until the color turns golden brown and the outer texture is somewhat crispy  \n 6. Cube the fried tofu and slice the boiled pig’s ears and pork belly into bite-sized pieces then set aside \n 7. Combine the 1 tablespoon sugar, 1 tablespoon salt, 1/4 cup soy sauce, and 1 1/2 white vinegar in a bowl. Stir. \n 8. Microwave for 1 minute. \n 9. Add the 1/8 teaspoon ground black pepper, 1 piece onions, green onions, and chili pepper. Transfer the sauce in a serving bowl. \n 10. Place the sliced meat and tofu in a serving plate with the bowl of sauce by the side. \n 11. Serve hot! Share and Enjoy!",
       image: "Tokwa_at_Baboy.jpg"
     },  
+     {
+      id: 11,
+      name: "Laing",
+      ingredients: [
+        "Dried taro leaves",
+        "Pork belly",
+        "Salted dried fish daing, shredded",
+        "Coconut milk",
+        "Coconut cream",
+        "Thai chili",
+        "Onion sliced",
+        "Garlic crushed",
+        "Ginger sliced",
+        "Green chili",
+        "Salt and pepper to taste"
+      ],
+      "procedure": "1. Combine 1/2 lb pork thinly sliced, 3/4 cup salted dried fish, 5 cloves garlic, 1 medium onion, 2 tablespoons ginger,2 cups coconut milk, and 4 cups coconut cream in a cooking pot. \n 2. Apply heat and let boil. \n 3. Add the 1 pack of 4 ounces dried taro leaves and 15 pieces Thai chili (do not stir). Simmer until the liquid almost dries out. Note: This will take about 40 to 50 minutes. When you notice a strong scent of coconut, this can be a sign that its ready.  \n 4. Put in the 2 pieces long  long green chili, salt, and pepper. Gently stir the ingredients and cook for another 3 minutes.  \n 5. Transfer to a serving plate.\n 6. Serve. Share and enjoy",
+      image: "Laing.jpg"
+    },
 
 ];
