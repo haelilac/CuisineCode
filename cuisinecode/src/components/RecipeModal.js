@@ -9,12 +9,16 @@ const RecipeModal = ({ recipe, onClose }) => {
         <div className="modal-header">
           <h2>{recipe.name}</h2>
           <button className="close-button" onClick={onClose}>
-          <span class="material-symbols-rounded"> cancel</span>
+            <span className="material-symbols-rounded"> cancel</span>
           </button>
         </div>
-        <img src={imagePath} alt={recipe.name} />
-        <p>Ingredients: {recipe.ingredients.join(', ')}</p>
-        <p>Procedure: {recipe.procedure}</p>
+        <div className="modal-body">
+          <img src={imagePath} alt={recipe.name} />
+          <div className="recipe-details">
+            <p>Ingredients: {recipe.ingredients.join(', ')}</p>
+            <p>Procedure: {recipe.procedure}</p>
+          </div>
+        </div>
       </div>
     </div>
   );

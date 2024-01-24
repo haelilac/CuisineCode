@@ -148,17 +148,26 @@ button {
   background: #fff;
   padding: 20px;
   border-radius: 8px;
-  text-align: center;
+  text-align: left;
   position: relative;
   z-index: 3;
-  width: 400px; /* Set the width as needed */
-  height: 500px; /* Set the height as needed */
+  width: 400px;
+  display: flex; /* Use flexbox to create a flex container */
 }
 
 .RecipeModal-content img {
-  width: 100%;
+  width: 150px; 
   height: auto;
   max-height: 300px;
+  margin-right: 20px; /* margin to separate image from text */
+}
+
+.recipe-details {
+  flex: 1; /* Allow the text to take the remaining space */
+}
+
+.recipe-details p {
+  margin-bottom: 10px;
 }
 
 .modal-overlay {
