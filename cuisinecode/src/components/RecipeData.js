@@ -539,6 +539,19 @@ export const recipes = [
         procedure: "1. Using all 10 egg yolks, separate them from the egg whites (only egg yolks will be used).\n2. Place the egg yolks in a large bowl, then beat them using a fork or an egg beater.\n3. Add the 1 can condensed milk and mix thoroughly.\n4. Pour in 1 cup fresh milk and 1 teaspoon of vanilla extract. Mix well.\n5. Heat the mold (llanera) on top of the stove using low fire.\n6. Put granulated sugar on the mold and mix thoroughly until the solid sugar turns into liquid (caramel) with a light brown color.\n7. Spread the caramel evenly on the flat side of the mold.\n8. Wait for 5 minutes, then pour the egg yolk and milk mixture into the mold.\n9. Cover the top of the mold using aluminum foil.\n10. Steam the mold with the egg and milk mixture for 30 to 35 minutes.\n11. After steaming, let the temperature cool down, then refrigerate.\n12. Serve for dessert. Share and enjoy!",
         image: "leche_flan.jpg"
       },
+      {
+        id: 38,
+        name: "Turon",
+        ingredients: [
+          "banana saba",
+          "jackfruit",
+          "sugar",
+          "lumpia wrapper",
+          "cooking oil"
+        ],
+        procedure: "1. Roll the banana on the sugar plate and ensure that the banana is coated with enough sugar.\n2. Place the banana with sugar coating in the spring roll wrapper and add some ripe jackfruit.\n3. Fold and lock the spring roll wrapper, using water to seal the edge.\n4. In a pan, heat 2 cups of cooking oil and put in some sugar. Wait until the brown sugar floats.\n5. Serve hot as a dessert or snack. Share and enjoy!",
+        image: "turon.jpg"
+      },
       
 
       ]
