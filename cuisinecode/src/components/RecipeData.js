@@ -823,6 +823,24 @@ export const recipes = [
         image: "Pancit_Canton.jpg"
         },
         
+        {
+          id:53,
+          name: "Kinalabasang Hipon",
+          ingredients: [
+        "shrimp",
+        "squash",
+        "white onion ",
+        "canola oil",
+        "kangkong leaves",
+        "chicken cube",
+        "fish sauce",
+        "sugar"
+         
+          ],
+          procedure: "1.Heat 2 tbsp of oil in a small pot and sauté onion until it becomes translucent \n2. 2. Add 300g peeled and cut squash and 3 cups of stock. \n3. 3.Simmer until squash are soft. Use fork to mash it or if you prefer a smoother consistency, use an immersion blender. \n4. 4.Simmer for 5 more minutes. \n5. 5.Add in 500g shrimp and simmer for 10 minutes to let the flavors get married. If it gets too thick, add more water or stock to thin it out.\n6. 6.Stir in sugar and fish sauce to taste. \n7. 7.Add kangkong leaves and simmer for another minute. \n8 8.Serve with steamed rice.",
+          image: "Kinalabasang_Hipon.jpg"
+        },
+        
           
 
 
