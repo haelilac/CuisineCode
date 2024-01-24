@@ -309,13 +309,21 @@ export const recipes = [
       procedure: "1. Sauté the 1 tbsp minced garlic, 1 pc chopped onion, and 1 thumb strips ginger.\n2. 2. Put-in the 1 whole chopped chicken and cook until the color turns light brown.\n3. 3. Add the fish sauce. Stir. Pour 36 ounces of water into the cooking pot. Let boil. Cover the pot and simmer for 45 minutes. Note: add water if needed.\n4. 4. Add the ½ cup toasted ground rice and simmer for 5 minutes. Add ½ pc chopped green papaya. Cook for 5 minutes.\n5. 5. Add the hot 1 cup malunggay leaves. Stir and cook for 1 minute.\n6. 6. Season with ¼ tsp ground black pepper. Note you can also add fish sauce or salt if needed.\n7. 7. Transfer to a serving bowl. Serve hot. Share and enjoy!",
       image: "chicken_tinola.jpg"
     },
-    
+
     {
       id: 20,
       name: "Inihaw na Liempo",
       ingredients: ["chicken", "pork belly", "soy sauce", "lemon or calamansi", "ground black pepper", "salt", "garlic", "banana catsup", "cooking oil"],
       "procedure": "1. Combine 2 lbs pork belly with ½ cup of soy sauce, 1 pc lemon or 3 to 4 pcs calamansi, 1 tsp salt, ½ tsp. ground black pepper, 4 cloves crushed garlic and mix well. Marinade the pork belly for at least 3 hours.\n2. 2. In a bowl, pour the pork belly marinade. Add ¼ cup of banana catsup and 1 tbsp. cooking oil. Stir well. (This will be the basting sauce)\n3. 3. Grill the pork belly while basting the top part of the pork after flipping it over..\n4. 4. Serve hot with spiced vinegar or toyomansi. Share and Enjoy!",
       image: "inihaw_na_liempo.jpg"
+    },
+    
+   {
+      id: 21,
+      name: "Dinakdakan",
+      ingredients: ["pig ears", "pig face", "pig liver", "ginger powder", "red chili", "red onion", "vinegar", "ginger", "bay leaves", "peppercorn", "mayonnaise", "salt", "ginger", "pepper"],
+      procedure: "1. Pour 6 to 8 cups of water in a cooking pot. Let boil.\n2. 2. Once the water starts to boil, you have the option to add 3 pcs dried bay leaves and 1 tbsp. whole peppercorn. Add-in the 1 lb pig ears and 1 lbs face. Set the heat to low and continue to boil for 50 to 60 minutes.\n3. 3. Discard the water and let the excess water drip. Rub a little bit of salt all over the boiled ears and face. Rub the 1 tsp. ginger powder on the liver.\n4. 4.Heat-up the grill. Grill the ears and face for 4 to 6 minutes per side or until it turns a bit crisp, but not burnt. Grill the liver for 5 to 8 minutes depending on the thickness.\n5. 5. Remove the grilled pig parts from the grill. Let it cool down and start chopping into bite-size pieces.\n6. 6. Meanwhile, combine ¾ cup of  mayonnaise and 4 tbsp vinegar in a mixing bowl. Stir.\n7. 7. Add some ground black pepper. Continue to stir until the ingredients are well blended.\n8. 8. Add the 1 tbsp minced ginger, 6 green and red chopped chili, 1 medium sliced red onion, and 1 tsp garlic powder (optional). Toss.\n9. 9. Add more salt if needed.\n10. 10. Transfer to a serving bowl. Serve.\n11. 11. Share and enjoy!",
+     image: "dinakdakan.jpg"
     },
 
 
