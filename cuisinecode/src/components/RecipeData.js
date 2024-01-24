@@ -411,6 +411,36 @@ export const recipes = [
         procedure: "1. Combine 10 tablespoons vinegar, 1 teaspoon crushed peppercorn, 1/2 teaspoon coarse sea salt, 1 head garlic crushed, and 1 teaspoon cayenne pepper powder in a bowl. Stir to mix the ingredients. Set aside.\n2. Butterfly the bangus (slice from the top) and place it inside a large resealable plastic bag.\n3. Pour the vinegar mixture in the bag and then let all the air out. Seal the bag and refrigerate overnight.\n4. Remove the fish from the bag and let the liquid drip.\n5. Heat the 1/2 cup cooking oil in a pan. Once the oil gets hot, fry the fish in medium heat until one side gets crisp. Turn it over and repeat the process on the other side.\n6. Remove from the pan and place on a serving plate. Serve with a bowl of spicy vinegar.\n7. Share and enjoy.",
         image: "daing_na_bangus.jpg"
       },
+      {
+        id: 30,
+        name: "Pancit Palabok",
+        ingredients: [
+          "bihon",
+          "ground pork",
+          "anatto seeds",
+          "pork shoulder",
+          "shrimp bouillon",
+          "beef broth",
+          "all-purpose flour",
+          "fish sauce",
+          "ground black pepper",
+          "pork belly",
+          "tinapa flakes",
+          "chicharon",
+          "hard-boiled egg",
+          "cabbage",
+          "shrimp cubes",
+          "green onion",
+          "garlic",
+          "lemon",
+          "cooking oil",
+          "salt",
+          "pepper",
+          "water"
+        ],
+        procedure: "1. Soak the noodles in water until it gets soft. Drain the water.\n2. Boil 6 cups of water in a cooking pot. Once the water boils, quickly submerge 1 pack of noodles in it and cook for 1 to 3 minutes. Drain the water right away. Set the noodles aside.\n3. Heat 3 tablespoons oil in a cooking pot.\n4. Once the oil gets hot, quickly pan-fry 10 pieces of shrimp for around 30 seconds per side. Remove the shrimp and set aside.\n5. Put-in the ground pork and pork belly, sauté until the color turns light brown.\n6. Pour in 4 cups beef broth and add 1 shrimp cube. Let it boil. Cover and simmer until the pork gets tender.\n7. Add 6 cups of water from the soaked annatto seeds. Stir.\n8. Add 6 1/2 flour diluted in water. Stir the mixture and ensure that all ingredients are distributed properly. Continue to cook on low to medium heat until the sauce thickens.\n9. Add 2 tablespoons of tilapia flakes and some salt and pepper to taste. Stir and set aside.\n10. Now that the sauce is ready, you can start to assemble your simple pancit palabok. Arrange the noodles on a serving plate, pour the sauce over the noodles. Gently toss the noodles so that it gets coated with sauce. Top with Napa cabbage, scallions, pork rinds, shrimp, more tilapia flakes, and egg.\n11. Serve with a slice of lemon or calamansi. Share and enjoy!",
+        image: "pancit_palabok.jpg"
+      },
       
 
       ]
