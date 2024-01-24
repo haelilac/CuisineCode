@@ -1078,6 +1078,23 @@ image: "bicol_express_pizza.jpg"
       procedure: "1. Pour 6 cups of water into the cooking pot. Boil.\n2. Add the 1 kg ham hock (pata). Scoop out the scums that will eventually float. Cover and boil in medium heat for 40 to 60 minutes. You can add more water if needed.\n3. Remove the pata from the cooking pot and set it aside. Discard the water.\n4. Pour 3 tablespoons of cooking oil into a clean cooking pot.\n5. Once the oil gets hot, saute 4 cloves of garlic and 1 medium yellow onion.\n6. Add the boiled pata. Stir and cook for 1 minute.\n7. Pour 1/2 cup soy sauce and 4 cups pineapple juice into the pot. Let boil.\n8. Add 1 pork cube. Stir.\n9. Add 3 pieces of dried bay leaves, 1/2 teaspoon crushed peppercorns, 1/2 cup dried banana blossoms, and 1/4 cup salted black beans (tausi). Stir. Cover and continue to cook between low to medium heat until the liquid reduces to half.\n10. Add 1 teaspoon of vinegar. Stir and then add 1/4 cup dark brown sugar. Continue to cook for 5 minutes.\n11. Transfer to a serving bowl or plate. Serve.\n12. Share and enjoy!",
       image: "pork_pata_humba.jpg"
     },
+    {
+      id: 75,
+      name: "Sinuglaw",
+      ingredients: [
+        "pork belly",
+        "tuna meat",
+        "cucumber",
+        "vinegar",
+        "red onion",
+        "ginger",
+        "finger chilies",
+        "lemon",
+        "salt"
+      ],
+      procedure: "1. Place 1/2 kg tuna meat in a bowl then pour in 1/2 cup of vinegar. Soak for 8 minutes.\n2. Using a spoon or fork, press the tuna meat lightly.\n3. Drain the vinegar then combine 2 cups cucumber, 1 sliced medium-sized red onion, 2 tablespoons julienned ginger, 4 pieces sliced finger chili, and 1 teaspoon salt. Mix well.\n4. Squeeze 1 piece lemon until all the juices are extracted then pour in the remaining 3/4 cup vinegar. Mix well and soak for 10 minutes.\n5. Put in the 1/2 kg grilled pork belly and mix thoroughly. Let the mixture stand for at least 1 hour (you may place this inside the refrigerator).\n6. Transfer to a serving bowl or plate. Serve.\n7. Share and enjoy!",
+      image: "sinuglaw.jpg"
+    },
     
      
 ];
