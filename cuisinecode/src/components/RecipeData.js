@@ -203,5 +203,17 @@ export const recipes = [
       "procedure": "1. Combine 1/2 lb pork thinly sliced, 3/4 cup salted dried fish, 5 cloves garlic, 1 medium onion, 2 tablespoons ginger,2 cups coconut milk, and 4 cups coconut cream in a cooking pot. \n 2. Apply heat and let boil. \n 3. Add the 1 pack of 4 ounces dried taro leaves and 15 pieces Thai chili (do not stir). Simmer until the liquid almost dries out. Note: This will take about 40 to 50 minutes. When you notice a strong scent of coconut, this can be a sign that its ready.  \n 4. Put in the 2 pieces long  long green chili, salt, and pepper. Gently stir the ingredients and cook for another 3 minutes.  \n 5. Transfer to a serving plate.\n 6. Serve. Share and enjoy",
       image: "Laing.jpg"
     },
-
+    {
+      id: 12,
+      name: "Tortang Talong",
+      ingredients: [
+        "Eggplant",
+        "Raw eggs",
+        "Salt",
+        "Cooking oil"
+      ],
+      "procedure": "1. Grill the 4 pieces of eggplant until the color of skin turns almost black. \n 2. Let the eggplant cool for a while then peel off the skin. Set aside. \n 3. Crack the 2 pieces of eggs and place in a bowl \n 4. Add 1 teaspoon salt and beat \n 5. Place the eggplant on a flat surface and flatten using a fork. \n 6. Dip the flattened eggplant in the beaten egg mixture\n 7. Heat the pan and pour the 6 tablespoons of cooking oil  \n 8. Fry the eggplant (that was dipped in the beaten mixture). Make sure that both sides are cooked. Frying time will take you about 3 to 4 minutes per side on medium heat.",
+      image: "Torta_Talong.jpg"
+    },
+    
 ];
