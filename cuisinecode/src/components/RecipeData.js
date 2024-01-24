@@ -56,20 +56,6 @@ export const recipes = [
     procedure: "1. Arrange the 2 lbs of ruffle fat, 1 tablespoon of whole peppercorn, 2 tablespoons salt, and 5 bay leaves in a cooking pot. Pour-in 6 cups of water. Let boil. Cover and then simmer for 1 hour.\n2. Turn the heat off. Remove the boiled ruffle fat from the pot and then let the water drip-off.\n3. Rub the remaining salt all over the ruffled fat. Set aside.\n4. Meanwhile, heat the 4 cups of cooking oil in a deep fryer or a deep cooking pot.\n5. When the oil gets hot, slowly add-in the ruffled fat. Deep fry in low to medium heat until the texture becomes crisp and the color turns medium brown.\n6. Add salt to taste.\n7. Remove from the deep fryer or cooking pot. Arrange on a plate lined with paper towels to absorb the oil.\n8. Serve with spiced vinegar.",
     image: "images/Chicharon_Bulaklak.jpg"
   },
-  {
-    id: 3,
-    name: "Chicharong_Bulaklak",
-    ingredients: [
-      "Ruffle fat",
-      "Whole peppercorn",
-      "Dried bay leaves",
-      "Sea salt",
-      "4 cups canola oil",
-      "Water"
-    ],
-    procedure: "1. Arrange the 2 lbs of ruffle fat, 1 tablespoon of whole peppercorn, 2 tablespoons salt, and 5 bay leaves in a cooking pot. Pour-in 6 cups of water. Let boil. Cover and then simmer for 1 hour.\n2. Turn the heat off. Remove the boiled ruffle fat from the pot and then let the water drip-off.\n3. Rub the remaining salt all over the ruffled fat. Set aside.\n4. Meanwhile, heat the 4 cups of cooking oil in a deep fryer or a deep cooking pot.\n5. When the oil gets hot, slowly add-in the ruffled fat. Deep fry in low to medium heat until the texture becomes crisp and the color turns medium brown.\n6. Add salt to taste.\n7. Remove from the deep fryer or cooking pot. Arrange on a plate lined with paper towels to absorb the oil.\n8. Serve with spiced vinegar.",
-    image: "images/Chicharon_Bulaklak.jpg"
-  },
   
   {
     id: 4,
@@ -93,7 +79,7 @@ export const recipes = [
       "Cooking oil"
     ],
     procedure: "1. Combine all Sisig seasoning ingredients in a bowl. Mix well until smooth. Set aside.\n2. Make lechon kawali sisig by boiling the pork belly with whole peppercorn and dried bay leaves in 6 to 8 cups of water for 50 minutes or until tender\n3. Remove from the pot and let it cool down.\n4. Rub it with 2 teaspoons of salt. Deep-fry the pork belly until golden brown and crispy.\n5. Chop into serving pieces.\n6. Combine a quarter of the sisig seasoning ingredients with 2 tablespoons of liver spread.\n7. Put the chopped pork belly, Thai chili pepper, green onions, and red onions in a mixing bowl and then add the Sisig seasoning mixture.\n8. Toss until well blended. Serve.",
-    image: "images/Chicharon_Bulaklak.jpg"
+    image: "images/Lechon_Kawali_Sisig.jpg"
   },
   
   {
@@ -693,7 +679,7 @@ export const recipes = [
   "Condensed milk"
     ],
   procedure: "1. Pour 6 to 9 cups of water in a cooking pot. Bring to a boil.\n2. 2. Put in the 5 pieces of  tablea and then stir. Let it dissolve in boiling water. \n3. 3. Add in the 1 3/4 rice. Let the water re-boil. Set the heat to low-medium and then stir almost constantly to avoid sticking. The rice should be ready when it absorbs the water (about 15 to 25 minutes). \n4. 4. Add the 3/4 white sugar. Stir until the sugar dissolves. \n5.Transfer the champorado in individual serving bowls.Top with condensed milk.",
-  image: "images/Champorado"
+  image: "images/Champorado.jpg"
   },
    
   {
@@ -744,23 +730,23 @@ export const recipes = [
     name: "Sinanglay na Tilapia",
     ingredients: [
     "tilapia",
-  "tomatoes",
-  "shallots ",
-  "ginger",
-  "tamarind powder",
-  "pechay leaves",
-  "pandan leaves",
-  "coconut milk",
-  "chili peppers",
-  "salt and pepper"
+    "tomatoes",
+    "shallots ",
+    "ginger",
+    "tamarind powder",
+    "pechay leaves",
+    "pandan leaves",
+    "coconut milk",
+    "chili peppers",
+    "salt and pepper"
    
     ],
     procedure: "1. Rinse the 2 tilapia and make sure innards are completely removed. Season with salt and pepper to taste. \n2. 2. In a bowl, combine 2 diced tomatoes, 4 peeled and chopped shallots, 1 thumb-sized ginger peeled and minced, and 1 tbsp tamarind powder.\n3. 3.Rinse pandan leaves and pat dry. \n4. 4.Divide tomato-onion mixture and gently spoon into the belly cavity of each fish. \n5. 5.Wrap fish with pechay and tie with pandan to completely secure. \n6.In a wide pan, arrange prepared fish parcels in a single layer. \n6. 6..Add coconut milk and chili peppers. Season with salt and pepper to taste. \n7. 7. Cover and bring to a simmer over low heat. Continue to cook for about 20 to 25 minutes or until fish is cooked through and sauce is reduced. Serve hot.",
-  image: "images/Sinanglay_na_Tilapia.jpg"
+    image: "images/Sinanglay_na_Tilapia.jpg"
   },
    
   {
-    id:48,
+    id:49,
     name: "Goto",
     ingredients: [
     "ox tripe",
@@ -786,7 +772,7 @@ export const recipes = [
   },
    
   {
-    id:49,
+    id:50,
     name: "Puto Bumbong",
     ingredients: [
     "sticky purple rice",

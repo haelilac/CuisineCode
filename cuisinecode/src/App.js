@@ -101,7 +101,9 @@ function App() {
                 </div>
               ))
             ) : (
+              <div className="no-recipes">
               <p>No matching recipes found.</p>
+              </div>
             )}
           </div>
         </div>

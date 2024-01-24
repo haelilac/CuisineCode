@@ -41,7 +41,7 @@ body {
 
 .left-container {
   width: 400px;
-  height: 300px;
+  height: 500px;
   background-color: #ecf0f1;
   padding: 50px;
   box-sizing: border-box;
@@ -56,6 +56,7 @@ body {
   width: 120px;
   height: 90px;
   margin-bottom: 5px;
+  margin-left: 50px;
 }
 
 .right-container {
@@ -181,7 +182,7 @@ button {
 }
 
 .modal-content img {
-  height: 200px;
+  height: 500px;
   width: 200px;
 }
 
@@ -221,4 +222,16 @@ button {
   word-wrap: normal;
   white-space: nowrap;
   direction: ltr;
+}
+
+/* text */
+
+.no-recipes {
+  text-align: center;
+  margin-top: 20px;
+  margin-left: 35%;
+}
+
+.no-recipes p {
+  color: #000000; /* Adjust the color as needed */
 }
