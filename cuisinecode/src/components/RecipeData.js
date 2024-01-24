@@ -636,7 +636,7 @@ export const recipes = [
         procedure: "1. Prepare the tapa by placing the beef in a large bowl. Combine with all the tapa marinade ingredients. Mix well and cover the bowl. Place inside the fridge and marinate overnight.\n2. 2. Cook the garlic fried rice (sinangag na kanin) by heating 3 tablespoons of cooking oil in a pan. Add crushed garlic. Cook until garlic turns light brown. Add the leftover rice. Stir-fry for 3 minutes. \n3. 3. Season with 1 teaspoon salt. Continue to stir-fry for 3 to 5 minutes. Set aside. \n4. 4. Start to cook the tapa. Heat a pan and pour the marinated beef into it, including the marinade. Add ¾ cups water. Let the mixture boil. Cover the pan and continue to cook until the liquid reduces to half. Add 3 tablespoons of cooking oil into the mixture. Continue to cook until the liquid completely evaporates. Fry the beef tapa in remaining oil until medium brown. Set aside. \n5. 5. Pour-in water and let boil. \n6. 6. Fry the egg by pouring 1 tablespoon of oil on a pan. Crack a piece of egg and sprinkle enough salt on top. Cook for 30 seconds. Pour 2 tablespoons of water on the side of the pan. Cover and let the water boil. Continue to cook until the egg yolks gets completely cooked by the steam. \n7. 7. Arrange the beef tapa, sinangag, and fried egg on a large plate to form Tapsilog. Serve with vinegar as a dipping sauce for tapa.",
         image: "Tapsilog.jpg"
       },
-      
+
       {
         id:44,
         name: "Chicken Adobo Flakes",
@@ -657,6 +657,22 @@ export const recipes = [
         "procedure": "1. Combine all marinade ingredients in a bowl. Mix everything together with clean hands, making sure that all your chicken pieces are evenly coated. Cover and refrigerate overnight to marinate.\n2. 2. The next day, heat a pan over medium-high heat. Sear chicken pieces on one side until browned and slightly caramelized. Remove chicken. Deglaze pan with warm water and add the chicken broth cube. Stir until the cube is dissolved. Add remaining marinade and chicken pieces. Let cook until meat is tender—the exact cooking time will depend on the size of your chicken. Season to taste, then serve. Let leftovers cool completely before refrigerating. \n3. 3. Shred leftover chicken adobo along the grain using two forks or your hands. Heat oil in a pan over medium heat, then fry shredded chicken, working in batches if necessary, until dry and golden brown. Be careful not to burn the flakes. Transfer fried flakes to a heatproof plate or tray lined with paper towels. \n4. 4.Scoop one serving adobo flakes over rice. Place poached egg over the flakes, and pickled red onions on the side. Serve warm.",
         image: "Chicken_Adobo_Flakes.jpg"
       },
+
+      {
+        id:45,
+        name: "Champorado",
+        ingredients: [
+          "tablea",
+          "glutinous rice",
+          "granulated white sugar",
+          "water",
+          "Condensed milk"
+        ],
+      procedure: "1. Pour 6 to 9 cups of water in a cooking pot. Bring to a boil.\n2. 2. Put in the 5 pieces of  tablea and then stir. Let it dissolve in boiling water. \n3. 3. Add in the 1 3/4 rice. Let the water re-boil. Set the heat to low-medium and then stir almost constantly to avoid sticking. The rice should be ready when it absorbs the water (about 15 to 25 minutes). \n4. 4. Add the 3/4 white sugar. Stir until the sugar dissolves. \n5.Transfer the champorado in individual serving bowls.Top with condensed milk.",
+      image: "Champorado.jpg"
+      },
+       
+      
        
       
       
