@@ -302,5 +302,16 @@ export const recipes = [
       image: "kare-kare.jpg"
     },
 
+    {
+      id: 19,
+      name: "Chicken Tinola",
+      ingredients: ["chicken", "water", "pechay ", "green papaya", "garlic", "onion", "ginger", "fish sauce", "malunggay leaves", "ground black pepper"],
+      procedure: "1. Sauté the 1 tbsp minced garlic, 1 pc chopped onion, and 1 thumb strips ginger.\n2. 2. Put-in the 1 whole chopped chicken and cook until the color turns light brown.\n3. 3. Add the fish sauce. Stir. Pour 36 ounces of water into the cooking pot. Let boil. Cover the pot and simmer for 45 minutes. Note: add water if needed.\n4. 4. Add the ½ cup toasted ground rice and simmer for 5 minutes. Add ½ pc chopped green papaya. Cook for 5 minutes.\n5. 5. Add the hot 1 cup malunggay leaves. Stir and cook for 1 minute.\n6. 6. Season with ¼ tsp ground black pepper. Note you can also add fish sauce or salt if needed.\n7. 7. Transfer to a serving bowl. Serve hot. Share and enjoy!",
+      image: "chicken_tinola.jpg"
+    },
+
+    
+
+
 
 ];
