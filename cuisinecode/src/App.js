@@ -1,47 +1,67 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import './App.css';
 import { recipes } from './components/RecipeData';
+import RecipeModal from './components/RecipeModal';
+import RandomRecipe from './components/RandomRecipe';
 
 function App() {
   const [searchInput, setSearchInput] = useState('');
   const [filteredRecipes, setFilteredRecipes] = useState([]);
+  const [selectedRecipe, setSelectedRecipe] = useState(null);
+  const [randomIndex, setRandomIndex] = useState(null);
+
+  useEffect(() => {
+    // Generate a random index only on initial page load
+    if (randomIndex === null) {
+      const newRandomIndex = Math.floor(Math.random() * recipes.length);
+      setRandomIndex(newRandomIndex);
+    }
+  }, [randomIndex]);
 
   const handleSearch = () => {
     const searchTerm = searchInput.toLowerCase().trim();
-  
+
     if (searchTerm === '' || searchTerm.length < 3) {
+      // Clear filtered recipes if search term is empty or less than 3 characters
       setFilteredRecipes([]);
     } else {
-      const matchingRecipes = recipes.filter((recipe) =>
-        recipe.ingredients.some((ingredient) =>
-          ingredient.toLowerCase() === searchTerm
-        )
-      );
-  
-      // Check if there is an exact match for the search term
-      if (matchingRecipes.length > 0) {
+      const searchIngredients = searchTerm.split(',').map((ingredient) => ingredient.trim());
+
+      if (searchIngredients.length > 0) {
+        const matchingRecipes = recipes.filter((recipe) =>
+          searchIngredients.every((searchIngredient) =>
+            recipe.ingredients.some((ingredient) =>
+              ingredient.toLowerCase().includes(searchIngredient)
+            )
+          )
+        );
         setFilteredRecipes(matchingRecipes);
       } else {
+        // Clear filtered recipes if no valid search ingredients
         setFilteredRecipes([]);
       }
     }
   };
+  
 
   const handleInputChange = (e) => {
     const inputValue = e.target.value;
     setSearchInput(inputValue);
 
-    // Update filtered recipes based on input change
     if (inputValue.trim() === '') {
       setFilteredRecipes([]);
+      setSelectedRecipe(null);
     } else {
-      const matchingRecipes = recipes.filter((recipe) =>
-        recipe.ingredients.some((ingredient) =>
-          ingredient.toLowerCase().includes(inputValue.toLowerCase())
-        )
-      );
-      setFilteredRecipes(matchingRecipes);
+      handleSearch();
     }
+  };
+
+  const openRecipeModal = (recipe) => {
+    setSelectedRecipe(recipe);
+  };
+
+  const closeRecipeModal = () => {
+    setSelectedRecipe(null);
   };
 
   return (
@@ -53,28 +73,36 @@ function App() {
         </div>
       </div>
       <div className="content">
-        <div className="search-container">
-          <input
-            type="text"
-            placeholder="Enter ingredient..."
-            value={searchInput}
-            onChange={handleInputChange}
-          />
-          <button onClick={handleSearch}>Search</button>
+        <div className="left-container">
+        <div className="Random-Recipe-container">
+          <RandomRecipe randomIndex={randomIndex} setRandomIndex={setRandomIndex} />
         </div>
-        <div className="recipes-container">
-          {filteredRecipes.length > 0 ? (
-            filteredRecipes.map((recipe) => (
-              <div key={recipe.id} className="recipe">
-                <img src={recipe.image} alt={recipe.name} />
-                <p>{recipe.name}</p>
-              </div>
-            ))
-          ) : (
-            <p>No matching recipes found.</p>
-          )}
+        </div>
+        <div className="right-container">
+        <div className="search-container">
+        <input
+          type="text"
+          placeholder="Enter ingredients..."
+          value={searchInput}
+          onChange={handleInputChange}
+        />
+        <button onClick={handleSearch}>Search</button>
+      </div>
+          <div className="recipes-container">
+            {filteredRecipes.length > 0 ? (
+              filteredRecipes.map((recipe) => (
+                <div key={recipe.id} className="recipe" onClick={() => openRecipeModal(recipe)}>
+                  <img src={recipe.image} alt={recipe.name} />
+                  <p>{recipe.name}</p>
+                </div>
+              ))
+            ) : (
+              <p>No matching recipes found.</p>
+            )}
+          </div>
         </div>
       </div>
+      {selectedRecipe && <RecipeModal recipe={selectedRecipe} onClose={closeRecipeModal} />}
     </div>
   );
 }

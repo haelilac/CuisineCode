@@ -1,38 +1,192 @@
 .App {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  overflow-y: auto; /* Set overflow-y to auto for the entire screen */
+}
+
+body {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  overflow: auto; /* Enable scrolling for the entire body */
+}
+
+.header {
+  position: fixed;
+  margin-bottom: 20px;
+  top: 0;
+  width: 100%;
+  background-color: #3498db;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+
+}
+
+.content {
+  display: flex;
+  flex: 1;
+  overflow-x: hidden;
+  padding-top: 100px; /* Add padding to the top to account for the fixed header height */
+}
+
+.left-container {
+  width: 300px;
+  height: 300px;
+  background-color: #ecf0f1;
+  padding: 50px;
+  box-sizing: border-box;
+}
+
+.Random-Recipe-container {
+  margin-bottom: 20px;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.Random-Recipe-container img {
+  width: 120px;
+  height: 90px;
+  margin-bottom: 5px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.right-container {
+  flex: 1;
   display: flex;
   flex-direction: column;
-  align-items: center;
+}
+
+.search-container {
+  margin-top: 40px; /* Add margin to the top of the search container */
+  width: 100%;
+  padding: 20px;
+  box-sizing: border-box;
+  background-color: #2ecc71;
+}
+
+input {
+  margin-bottom: 8px;
+  margin-right: 10px; /* Adjust the right margin of the input box */
+  padding: 10px;
+  width: 60%; /* Adjust the width of the search textbox */
+  box-sizing: border-box;
+}
+
+button {
+  padding: 10px;
+  width: 20%; /* Adjust the width of the search button */
+  box-sizing: border-box;
+}
+
+.recipes-container {
+  display: flex;
+  flex-wrap: wrap;
+  overflow-y: auto;
+  text-align: center;
+  position: relative;
+  flex: 1;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.recipe {
+  background-size: cover;
+  width: 200px;
+  height: 200px;
+  margin: 0 10px 50px 0;
+  cursor: pointer; 
+}
+
+.recipe img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.nav-button {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  padding: 8px;
+  cursor: pointer;
+}
+
+.previous-button {
+  left: 0;
+}
+
+.next-button {
+  right: 0;
+}
+
+
+/* Add a separate style for the modal overlay and content */
+
+.RecipeModal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  align-items: center;
+  z-index: 2; /* Make sure it's above other elements */
 }
 
-.App-link {
-  color: #61dafb;
+.RecipeModal-content {
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  text-align: center;
+  position: relative;
+  z-index: 3; /* Make sure it's above other elements */
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.RecipeModal-content img {
+  width: 100%;
+  height: auto;
+  max-height: 300px; 
+}
+
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal-content {
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  text-align: center;
+  height: 600px;
+  width: 600;
+  overflow-y: auto; /* Add overflow-y for scrolling if content exceeds the height */
+}
+
+.modal-content img {
+  height: 200px;
+  width: 200px;
+}
+
+.modal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.close-button {
+  background: none;
+  border: none;
+  font-size: 18px;
+  cursor: pointer;
 }
