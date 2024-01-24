@@ -364,7 +364,13 @@ export const recipes = [
         procedure: "1. Rub 1 kg. Or 4 pcs. fish with salt and place in a large container. Set aside.\n2. 2. In a mixing bowl, combine ¼ cup of vegetable oil and 3 tbsp. atsuete powder. Mix and heat in the microwave for 5 seconds to incorporate. Set aside.\n3. 3. In a different bowl. Combine ¾ cup of soy sauce, ½ cup of lemon juice, achuete oil, and 2 tbsp. liquid smoke. Pour the mixture into the container with the fish and cover with a lid. Make sure the fishes are coated. Brine overnight or up to 3 days.\n4. 4. Preheat the oven to 176°C / 350°F. Bake the fish for 25 minutes on each side or until most of the brine dries up and cooked through. Remove in the oven and let it rest until it cools down.\n5. 5. Place tinapa in an airtight container for later use or you can readily cook in a pan. Bon appetit!",
       image: "tinapa.jpg"
     },
-  
+    {
+        id: 27,
+        name: "Paksiw na Isda",
+        ingredients: ["fish", "garlic", "vinegar", "water", "onion", "salt", "peppercorn", "chili"],
+        procedure: "1. Heat a pan and cooking pot then pour-in ½ cup of vinegar and 1 cup of water.\n2. 2. Add 2 tsp. of salt and whole 1 tsp. Whole peppercorn then stir. Bring to a boil.\n3. 3. Arrange the fish in the pan along with the ginger, 6 cloves garlic, 1 medium sliced onion, and 3 pcs. finger chili. Cover and simmer in low to medium heat for 12 to 15 minutes.\n4. 4. Turn off the heat and transfer to a serving plate.\n5. 5. Serve hot with steamed rice. Share and enjoy!/n6. 6. Note: You may substitute salt with 3/4 to 1 tablespoon fish sauce.",
+      image: "paksiw_na_isda.jpg"
+      },  
   
 
       ]
