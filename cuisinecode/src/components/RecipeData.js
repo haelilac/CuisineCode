@@ -25,7 +25,7 @@ export const recipes = [
     procedure: "1. Heat 4 tablespoons of oil in a cooking pot. Saute onion and garlic until the onion softens.\n2. 2. Add 8 ounces of pork belly and sausage. Saute for 3 minutes.\n3. 3. Pour soy sauce and water. Let boil.\n4. 4. Add 2 pieces of Knorr Pork cube. Stir and cook for 1 minute.\n5. 5. Add 24 ounces of bihon noodles. Cover the pot and then continue cooking until the noodles start to soften.\n6. 6. Add 1/2 cup of oyster sauce. Toss until all ingredients are well distributed.\n7. 7. Put in 1/4 cup of dried shrimp, cabbage, snap peas, 1 1/2 carrots. Toss. Cook for 7 minutes.\n8. 8. Season with ground black pepper and 1 cup soy sauce if needed.\n9. 9. Arrange in a serving tray and top with chopped lechon kawali.\n10. 10. Serve with sliced lime or calamansi. Share and enjoy!",
     image: "Pancit_Bihon_with_lechon.jpg" 
   },
-  
+
   {
     id: 2,
     name: "Pork Adobo",
@@ -285,6 +285,14 @@ export const recipes = [
       procedure: "1. Pour 12 cups of water in a cooking pot then let boil.\n2. 2. Put-in 6 dried bay leaves, 2 tbsp of whole peppercorn, 4 pcs of star anise, and 4 tsp of salt.\n3. 3. Add the whole pig’s legs in the cooking pot then simmer until the leg becomes tender (about 45 to 60 minutes).\n4. 4. Remove the tender leg from the cooking pot and set aside until the temperature goes down.\n5. 5. Rub the leg with 2 teaspoons of garlic powder, 2 teaspoons of  ground black pepper, and remaining salt. Let stand for 15 minutes to absorb the rub.\n6. 6. Heat a clean large cooking pot (preferably with cover) and pour-in cooking oil.\n7. 7. When the oil becomes hot, deep fry the rubbed pork leg. Continue cooking in medium heat until one side becomes crispy, and then cautiously flip the leg to crisp the other side. Note: Be extra careful in doing this procedure.\n8. 8. Turn-off the heat; remove the crispy pork leg; and transfer it to a wide serving plate.\n9. 9. Serve with atcharang papaya and soy sauce – vinegar dipping sauce.\n10. 10. Share and enjoy!",
       image: "crispy_pata.jpg"
     }
+
+   {
+      id: 17,
+      name: "Sinigang",
+      ingredients: ["pork belly or buto-buto", "spinach or kangkong", "fish sauce ", "string beans", "tomato", "chili pepper", "cooking oil", "water", "onion", "gabi", "sinigang mix"],
+      procedure: "1. Heat the pot and put-in the cooking oil.\n2. 2. Sauté the onion until its layers separate from each other.\n3. 3. Add the 2 lbs chopped pork belly and cook until the outer part turns light brown.\n4. 4. Put-in the 3 tbsp fish sauce and mix with the ingredients.\n5. 5. Pour the 2 quarts of water and bring to a boil.\n6. 6. Add the 2 pcs quartered taro/gabi and 2 pcs  quartered tomatoes then simmer for 40 minutes or until the pork is tender.\n7. 7. Put-in the 1 pack sinigang mix and chili.\n8. 8. Add the 1 bundle of sliced string beans (and other vegetables if there are any) and simmer for 5 to 8 minutes.\n9. 9. Put-in 1 bunch spinach, turn off the heat, and cover the pot. Let the spinach cook using the remaining heat in the pot.\n10. 10. Serve hot. Share and enjoy!",
+      image: "sinigang.jpg"
+    },
 
      
 
