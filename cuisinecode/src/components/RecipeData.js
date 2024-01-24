@@ -974,6 +974,13 @@ image: "bulanglang.jpg"
       procedure: "1. Heat 3 tbsp. cooking oil in a pan.\n2. 2. Add the 1 head crushed and chopped garlic. Saute until the color turns golden brown. Scoop-out a quarter of the browned garlic and put in a clean bowl. Save this later for garnish.\n3. 3. Add 1 pc. chopped onion. Saute until it softens.\n4. 4. Pour the soy sauce and vinegar in the pan. Let the liquid boil.\n5. 5. Add 1 bunch of Kangkong stalks. Cook for 2 minutes.\n6. 6. Add the Kangkong leaves. Stir. Continue cooking for 30 to 1 minute. Cover the pan and cook for 1 minute.\n7. 7. Season with ground black pepper. Note: you may also add salt if needed.\n8. 8. Transfer to a serving bowl and then top with browned garlic.\n9. 9. Serve. Share and enjoy!",
       image: "adobong_kangkong.jpg"
     },
+    {
+      id: 68,
+      name: "Bicol Express Pizza",
+      ingredients: ["pizza crusts", "purefoods heat & eat bicol express", "mozarella", "red bell pepper", "green bell pepper", "chili flakes", "honey"],
+      procedure: "1. Preheat the oven to 450°F.\n2. 2. Assemble pizza by spreading Bicol express sauce on each pizza crust surface.\n3. 3. Add mozzarella and quickmelt cheese on each crust. Top with Bicol express meat and bell peppers.\n4. 4. Bake for 10 minutes or until the crust is golden brown and the cheese has melted.\n5. 5. Combine together chili flakes and honey. Drizzle over pizza just before serving.",
+image: "bicol_express_pizza.jpg"
+    },
 
      
 ];
