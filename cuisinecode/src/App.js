@@ -88,8 +88,10 @@ function App() {
           value={searchInput}
           onChange={handleInputChange}
         />
-        <button onClick={handleSearch}>Search</button>
-      </div>
+        <button onClick={handleSearch}>
+          <span class="material-icons-outlined">search</span>
+        </button>
+        </div>
           <div className="recipes-container">
             {filteredRecipes.length > 0 ? (
               filteredRecipes.map((recipe) => (
@@ -110,3 +112,7 @@ function App() {
 }
 
 export default App;
+
+
+
+
