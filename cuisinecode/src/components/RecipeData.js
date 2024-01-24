@@ -283,6 +283,107 @@ export const recipes = [
     image: "Pork_Barbeque.jpg"
   },
   
+  {
+    id: 15,
+    name: "Chicken Inasal",
+    ingredients : ["chicken", "ginger", "lemongrass", "garlic", "vinegar", "lemon or calamansi juice","salt", "brown sugar", "lemon soda", "ground black pepper", "atsuete oil", "margarine"],
+    procedure: "1. In a freezer bag or large bowl, combine 2 lbs chicken cut into serving pieces, lemongrass, salt, ½ tablespoon ground black pepper, 2 tablespoons ginger, 2 tablespoons garlic, ¼ cup of brown sugar, 1 cup vinegar, 1 cup lemon-lime soda, and ½ cup lemon juice.\n2. 2. Stir or shake the mixture until every ingredient is well incorporated. Marinade for 1 to 3 hours.\n3. 3. In a bowl, combine margarine, annatto oil, salt, and lemon juice then stir. Set aside.\n4. 4. Grill the chicken while basting generous amounts of the margarine mixture.\n5. 5. Transfer the grilled chicken to a serving plate.\n6. 6. Serve with sinamak. Share and enjoy!",
+    image: "chicken_inasal.jpg"
+  },
 
-  
+  {
+    id: 16,
+    name: "Crispy Pata",
+    ingredients: ["pig leg", "dried bay leaves", "peppercorn", "star anise", "salt", "garlic powder", "salt", "brown sugar", "water", "cooking oil"],
+    procedure: "1. Pour 12 cups of water in a cooking pot then let boil.\n2. 2. Put-in 6 dried bay leaves, 2 tbsp of whole peppercorn, 4 pcs of star anise, and 4 tsp of salt.\n3. 3. Add the whole pig's legs in the cooking pot then simmer until the leg becomes tender (about 45 to 60 minutes).\n4. 4. Remove the tender leg from the cooking pot and set aside until the temperature goes down.\n5. 5. Rub the leg with 2 teaspoons of garlic powder, 2 teaspoons of  ground black pepper, and remaining salt. Let stand for 15 minutes to absorb the rub.\n6. 6. Heat a clean large cooking pot (preferably with cover) and pour-in cooking oil.\n7. 7. When the oil becomes hot, deep fry the rubbed pork leg. Continue cooking in medium heat until one side becomes crispy, and then cautiously flip the leg to crisp the other side. Note: Be extra careful in doing this procedure.\n8. 8. Turn-off the heat; remove the crispy pork leg; and transfer it to a wide serving plate.\n9. 9. Serve with atcharang papaya and soy sauce – vinegar dipping sauce.\n10. 10. Share and enjoy!",
+    image: "crispy_pata.jpg"
+  },
+
+  {
+    id: 17,
+    name: "Sinigang",
+    ingredients: ["pork belly or buto-buto", "spinach or kangkong", "fish sauce ", "string beans", "tomato", "chili pepper", "cooking oil", "water", "onion", "gabi", "sinigang mix"],
+    procedure: "1. Heat the pot and put-in the cooking oil.\n2. 2. Sauté the onion until its layers separate from each other.\n3. 3. Add the 2 lbs chopped pork belly and cook until the outer part turns light brown.\n4. 4. Put-in the 3 tbsp fish sauce and mix with the ingredients.\n5. 5. Pour the 2 quarts of water and bring to a boil.\n6. 6. Add the 2 pcs quartered taro/gabi and 2 pcs  quartered tomatoes then simmer for 40 minutes or until the pork is tender.\n7. 7. Put-in the 1 pack sinigang mix and chili.\n8. 8. Add the 1 bundle of sliced string beans (and other vegetables if there are any) and simmer for 5 to 8 minutes.\n9. 9. Put-in 1 bunch spinach, turn off the heat, and cover the pot. Let the spinach cook using the remaining heat in the pot.\n10. 10. Serve hot. Share and enjoy!",
+    image: "sinigang.jpg"
+  },
+  {
+    id: 18,
+    name: "Kare-Kare",
+    ingredients: ["beef or pork", "banana flower bud", "pechay ", "egg plants", "ground peanuts", "peanut butter", "shrimp paste", "water", "onion", "garlic", "annatto seeds", "ground rice", "salt", "pepper"],
+    procedure: "1. In a large pot, bring the 34 ounces water to a boil.\n2. 2. Put in the 3 lbs pork or beef followed by the onions and simmer for 2.5 to 3 hrs or until tender (35 minutes if using a pressure cooker).\n3. 3. Once the meat is tender, add the 1 cup ground peanuts, ½ cup peanut butter, and coloring (water from the ½ cup annatto seed mixture) and simmer for 5 to 7 minutes\n4. 4. Add the ½ cup toasted ground rice and simmer for 5 minutes.\n5. 5. On a separate pan, saute the 1 tbsp minced garlic then add the 1 piece sliced banana flower,  4 pcs sliced eggplant, and 1 bundle sliced string beans and cook for 5 minutes.\n6. 6. Transfer the cooked vegetables to the large pot (where the rest of the ingredients are).\n7. 7. Add salt and pepper to taste.\n8. 8. Add the string beans (and other vegetables if there are any) and simmer for 5 to 8 minutes.\n9. 9. Serve hot with shrimp paste. Enjoy!",
+    image: "kare-kare.jpg"
+  },
+
+  {
+    id: 19,
+    name: "Chicken Tinola",
+    ingredients: ["chicken", "water", "pechay ", "green papaya", "garlic", "onion", "ginger", "fish sauce", "malunggay leaves", "ground black pepper"],
+    procedure: "1. Sauté the 1 tbsp minced garlic, 1 pc chopped onion, and 1 thumb strips ginger.\n2. 2. Put-in the 1 whole chopped chicken and cook until the color turns light brown.\n3. 3. Add the fish sauce. Stir. Pour 36 ounces of water into the cooking pot. Let boil. Cover the pot and simmer for 45 minutes. Note: add water if needed.\n4. 4. Add the ½ cup toasted ground rice and simmer for 5 minutes. Add ½ pc chopped green papaya. Cook for 5 minutes.\n5. 5. Add the hot 1 cup malunggay leaves. Stir and cook for 1 minute.\n6. 6. Season with ¼ tsp ground black pepper. Note you can also add fish sauce or salt if needed.\n7. 7. Transfer to a serving bowl. Serve hot. Share and enjoy!",
+    image: "chicken_tinola.jpg"
+  },
+
+  {
+    id: 20,
+    name: "Inihaw na Liempo",
+    ingredients: ["chicken", "pork belly", "soy sauce", "lemon or calamansi", "ground black pepper", "salt", "garlic", "banana catsup", "cooking oil"],
+    procedure: "1. Combine 2 lbs pork belly with ½ cup of soy sauce, 1 pc lemon or 3 to 4 pcs calamansi, 1 tsp salt, ½ tsp. ground black pepper, 4 cloves crushed garlic and mix well. Marinade the pork belly for at least 3 hours.\n2. 2. In a bowl, pour the pork belly marinade. Add ¼ cup of banana catsup and 1 tbsp. cooking oil. Stir well. (This will be the basting sauce)\n3. 3. Grill the pork belly while basting the top part of the pork after flipping it over..\n4. 4. Serve hot with spiced vinegar or toyomansi. Share and Enjoy!",
+    image: "inihaw_na_liempo.jpg"
+  },
+
+  {
+    id: 21,
+    name: "Dinakdakan",
+    ingredients: ["pig ears", "pig face", "pig liver", "ginger powder", "red chili", "red onion", "vinegar", "ginger", "bay leaves", "peppercorn", "mayonnaise", "salt", "ginger", "pepper"],
+    procedure: "1. Pour 6 to 8 cups of water in a cooking pot. Let boil.\n2. 2. Once the water starts to boil, you have the option to add 3 pcs dried bay leaves and 1 tbsp. whole peppercorn. Add-in the 1 lb pig ears and 1 lbs face. Set the heat to low and continue to boil for 50 to 60 minutes.\n3. 3. Discard the water and let the excess water drip. Rub a little bit of salt all over the boiled ears and face. Rub the 1 tsp. ginger powder on the liver.\n4. 4.Heat-up the grill. Grill the ears and face for 4 to 6 minutes per side or until it turns a bit crisp, but not burnt. Grill the liver for 5 to 8 minutes depending on the thickness.\n5. 5. Remove the grilled pig parts from the grill. Let it cool down and start chopping into bite-size pieces.\n6. 6. Meanwhile, combine ¾ cup of  mayonnaise and 4 tbsp vinegar in a mixing bowl. Stir.\n7. 7. Add some ground black pepper. Continue to stir until the ingredients are well blended.\n8. 8. Add the 1 tbsp minced ginger, 6 green and red chopped chili, 1 medium sliced red onion, and 1 tsp garlic powder (optional). Toss.\n9. 9. Add more salt if needed.\n10. 10. Transfer to a serving bowl. Serve.\n11. 11. Share and enjoy!",
+    image: "dinakdakan.jpg"
+  },
+
+  {
+    id: 22,
+    name: "Dinuguan",
+    ingredients: ["pork shoulder", "pork blood", "knorr pork cube", "long peppers", "garlic", "onion", "water", "vinegar", "bay leaves", "cooking oil", "sugar", "salt", "pepper"],
+    procedure: "1. Heat 3 tbsp. oil in a cooking pot.\n2. 2. Saute 2 pcs. chopped onion for 30 seconds. Add 6 cloves minced garlic. Continue to cook until onion softens.\n3. 3. Add pork. Saute for 3 to 5 minutes.\n4. 4. Pour 2 cups of water. Let boil. Add 3 pcs. dried bay leaves and ¾ cup of vinegar. Let the liquid re-boil.\n5. 5. Add Knorr Pork Cube. Stir. Cover and simmer for 1 hour. Note: add water as needed.\n6. 6. Add long green peppers and pour pork blood into the pot. Stir. Continue to cook between low to medium heat for 15 minutes while stirring every 3 minutes.\n7. 7. Add sugar and season with salt and ground black pepper.\n8. 8. Transfer to a serving bowl. Enjoy!",
+    image: "dinuguan.jpg"
+  },
+
+  {
+    id: 23,
+    name: "Bulalo",
+    ingredients: ["beef shank", "cabbage", "pechay", "corn", "peppercorn", "onion", "green onion", "water", "fish sauce"],
+    procedure: "1. In a big cooking pot, pour in 34 ounces water and bring to a boil.\n2. 2. Put-in the 2 lbs beef shank followed by the 1 onion and 2 tbsp. whole pepper corn then simmer for 1.5 hours (30 mins if using a pressure cooker) or until meat is tender.\n3. 3. Add the 2 cobs of corn and simmer for another 10 minutes.\n4. 4. Add the fish sauce, ½ whole leaf individually detached cabbage, pechay, and ½ cup of green onion (onion leeks).\n5. 5. Serve hot. Share and Enjoy!",
+    image: "bulalo.jpg"
+  },
+
+  {
+    id: 24,
+    name: "Bicol Express",
+    ingredients: ["pork belly", "coconut milk", "coconut cream", "shrimp paste", "garlic", "chili pepper", "ginger", "onion", "pepper", "water"],
+    procedure: "1. Combine 1 thumb minced ginger, 4 cloves crushed garlic, 1 pc. chopped onion, 6 pcs. Thai chili pepper, 2 lbs sliced into strips of pork belly, and 2 cups of coconut milk in a pan. Mix well. Cover the pan and turn the heat on. Let the mixture boil.\n2. 2. Remove the cover. Stir. Add half of the ½ cup of bagoong and pour around 1 cup of coconut cream and a cup of water. Stir and adjust the heat to low. Cook until the sauce reduces to a quarter (around 50 minutes).\n3. 3. Add the remaining coconut cream and bagoong alamang (as needed). Also add the1 pc pepper. Continue cooking in low heat until the sauce thickens around.\n4. 4.Transfer to a serving plate and serve with warm rice.\n5. 5. Serve hot. Share and Enjoy!", 
+    image: "bicol_express.jpg"
+  },
+
+  {
+    id: 25,
+    name: "Beef Kaldereta",
+    ingredients: ["beef", "garlic", "onion", "beef broth", "red bell pepper", "tomato sauce", "liver spread", "chili flakes", "bay leaves", "potatoes", "carrots", "cooking oil", "green olives", "pepper", "salt"],
+    procedure: "1. Heat the ¼ cup of cooking oil in the cooking pot or pressure cooker.\n2. 2. Sauté the 1 pc. finely chopped onion and 3 pcs. Crushed and chopped garlic cloves.\n3. 3. Add the 2 lbs cubed beef. Cook for 5 minutes or until the color turns light brown.\n4. 4.Add the 3 pcs. dried bay leaves and crushed pepper. Stir.\n5. 5. Add the ½ cup of liver spread. Stir.\n6. 6. Pour-in the 1 cup tomato sauce and 2 cups of beef broth.\n7. 7. Cook the beef until it becomes tender (about 30 mins if using a pressure cooker, or 1 to 2 hours if using an ordinary pot).\n8. 8. Add potato and carrots. Cook for 8 to 10 minutes.\n9. 9. Put the ⅔ cup of green olives and 1 pc. red and green bell peppers in the cooking pot. Stir and continue to cook for 5 minutes more.\n10. 10. Add salt and pepper to taste.\n11. 11. Serve hot.  Share and enjoy!",
+    image: "beef_kaldereta.jpg"
+  },
+
+  {
+    id: 26,
+    name: "Tinapa",
+    ingredients: ["pike mackerel", "soy sauce", "lemon juice", "vegetable oil", "atsuete powder", "hickory liquid smoke", "salt"],
+    procedure: "1. Rub 1 kg. Or 4 pcs. fish with salt and place in a large container. Set aside.\n2. 2. In a mixing bowl, combine ¼ cup of vegetable oil and 3 tbsp. atsuete powder. Mix and heat in the microwave for 5 seconds to incorporate. Set aside.\n3. 3. In a different bowl. Combine ¾ cup of soy sauce, ½ cup of lemon juice, achuete oil, and 2 tbsp. liquid smoke. Pour the mixture into the container with the fish and cover with a lid. Make sure the fishes are coated. Brine overnight or up to 3 days.\n4. 4. Preheat the oven to 176°C / 350°F. Bake the fish for 25 minutes on each side or until most of the brine dries up and cooked through. Remove in the oven and let it rest until it cools down.\n5. 5. Place tinapa in an airtight container for later use or you can readily cook in a pan. Bon appetit!",
+    image: "tinapa.jpg"
+  },
+
+  {
+    id: 27,
+    name: "Paksiw na Isda",
+    ingredients: ["fish", "garlic", "vinegar", "water", "onion", "salt", "peppercorn", "chili"],
+    procedure: "1. Heat a pan and cooking pot then pour-in ½ cup of vinegar and 1 cup of water.\n2. 2. Add 2 tsp. of salt and whole 1 tsp. Whole peppercorn then stir. Bring to a boil.\n3. 3. Arrange the fish in the pan along with the ginger, 6 cloves garlic, 1 medium sliced onion, and 3 pcs. finger chili. Cover and simmer in low to medium heat for 12 to 15 minutes.\n4. 4. Turn off the heat and transfer to a serving plate.\n5. 5. Serve hot with steamed rice. Share and enjoy!/n6. 6. Note: You may substitute salt with 3/4 to 1 tablespoon fish sauce.",
+    image: "paksiw_na_isda.jpg"
+  },
+
     ];
