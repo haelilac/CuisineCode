@@ -76,36 +76,36 @@ function App() {
       </div>
       <div className="content">
         <div className="left-container">
-        <div className="Random-Recipe-container">
-          <RandomRecipe randomIndex={randomIndex} setRandomIndex={setRandomIndex} />
-        </div>
+          <div className="Random-Recipe-container">
+            <RandomRecipe randomIndex={randomIndex} setRandomIndex={setRandomIndex} />
+          </div>
         </div>
         <div className="right-container">
-        <div className="search-container">
-        <input
-          type="text"
-          placeholder="Enter ingredients..."
-          value={searchInput}
-          onChange={handleInputChange}
-        />
-        <button onClick={handleSearch}>
-          <span class="material-icons-outlined">search</span>
-        </button>
-        </div>
-        <div className="recipes-container">
-        {filteredRecipes.length > 0 ? (
-          filteredRecipes.map((recipe) => (
-            <div key={recipe.id} className="recipe" onClick={() => openRecipeModal(recipe)}>
-              <img src={recipe.image} alt={recipe.name} />
-              <p className="recipe-rname">{recipe.name}</p>
-            </div>
-          ))
-        ) : (
-          <div className="no-recipes">
-            <p>No matching recipes found.</p>
+          <div className="search-container">
+            <input
+              type="text"
+              placeholder="Enter ingredients..."
+              value={searchInput}
+              onChange={handleInputChange}
+            />
+            <button onClick={handleSearch}>
+              <span className="material-icons-outlined">search</span>
+            </button>
           </div>
-        )}
-      </div>
+          <div className="recipes-container">
+            {filteredRecipes.length > 0 ? (
+              filteredRecipes.map((recipe) => (
+                <div key={recipe.id} className="recipe" onClick={() => openRecipeModal(recipe)}>
+                  <img src={recipe.image} alt={recipe.name} />
+                  <p className="recipe-rname">{recipe.name}</p>
+                </div>
+              ))
+            ) : (
+              <div className="no-recipes">
+                <p>No matching recipes found.</p>
+              </div>
+            )}
+          </div>
         </div>
       </div>
       {selectedRecipe && <RecipeModal recipe={selectedRecipe} onClose={closeRecipeModal} />}
