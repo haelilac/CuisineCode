@@ -897,7 +897,14 @@ export const recipes = [
     image: "sinamak.jpg"
     },
 
-        
+    {
+      id: 58,
+      name: "Sinigang na Bangus",
+      ingredients: ["bangus", "knorr sinigang mix", "okras", "mushroom", "long green peppers", "string beans", "radish", "mustard leaves", "tomatoes", "onions", "fish sauce", "ground black pepper", "water", "kangkong"],
+      procedure: "1. Make the regular sinigang by boiling 1 quart of water in a cooking pot. Add 3 quartered tomatoes and 2 quartered onions. Cook for 2 to 3 minutes. Add the 2 lbs. cleaned and sliced bangus and 23g Knorr Sinigang sa Sampaloc with Miso. Simmer it for 18 to 20 minutes. Add 8 cleaned okras, 4 oz of daikon radish, 3 long green peppers, and 12 string beans that are cut in 2-inch length. Continue cooking for 5 minutes. Season with fish sauce and ground black pepper. Add the 1 bunch of mustard leaves and cook for 2 minutes. Serve hot.\n2. 2. Start making the fried bangus sinigang by rubbing salt all over the fish. Heat the oil in a pan. Fry both sides of the fish until it turns golden brown. Remove the fish and set it aside. Saute 2 quartered onions and 3 quartered tomatoes in the remaining oil. Add the fried bangus and pour water into the pot. Let it boil. Add Knorr Sinigang sa Sampaloc with Miso. Simmer for 10 minutes. Add okra, string beans, and long green peppers. Season with fish sauce and ground black pepper. Add the kangkong leaves. Continue cooking for 1 minute. Serve hot.\n3. 3. Share and enjoy!",
+    image: "sinigang_na_bangus.jpg"
+    },
+
         
           
 
