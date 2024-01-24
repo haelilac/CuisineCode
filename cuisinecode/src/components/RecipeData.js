@@ -1269,7 +1269,25 @@ image: "bicol_express_pizza.jpg"
       procedure: "1. Heat a cooking pot then pour-in the canned hominy/white corn (include the liquid).\n2. Add 1 cup of water and bring to a boil.\n3. Simmer for 12 to 15 minutes.\n4. Drain the water and place the boiled hominy in a serving plate.\n5. Top with sugar (or salt depending on your preference) and grated coconut.\n6. Serve. Share and enjoy!",
       image: "binatog.jpg"
     },
-   
+    {
+      id: 86,
+      name: "Ginataang Puso ng Saging",
+      ingredients: [
+        "banana blossom",
+        "coconut milk",
+        "ground pork",
+        "chili pepper",
+        "onion",
+        "garlic",
+        "black pepper",
+        "water",
+        "cooking oil",
+        "shrimp"
+      ],
+      procedure: "1. Slice banana blossom into thin pieces. Soak in 1/2 cup vinegar for 15 minutes. Rinse and wring tight. Set aside.\n2. Heat oil in a pot. Add 4 cloves of garlic minced and cook until it starts to brown.\n3. Add 1 piece onion chopped. Saute while constantly stirring until onion softens.\n4. Add 1/4 kg ground pork. Cook until pork turns light brown.\n5. Put the banana blossoms in the pan. Saute for 2 minutes. Pour vinegar. Cover and cook in medium heat for another 2 minutes.\n6. Pour coconut milk and add chili peppers. Let boil. Cover the pot and continue cooking in low to medium heat for 7 to 10 minutes. Note: add more water as needed.\n7. Add shrimp. Cook for 2 minutes. Season with ground black pepper.\n8. Transfer to a serving bowl and serve. Share and enjoy!",
+      image: "ginataang_puso_ng_saging.jpg"
+    },
+    
 ];
   
       
