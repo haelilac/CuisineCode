@@ -840,6 +840,26 @@ export const recipes = [
           procedure: "1.Heat 2 tbsp of oil in a small pot and sauté onion until it becomes translucent \n2. 2. Add 300g peeled and cut squash and 3 cups of stock. \n3. 3.Simmer until squash are soft. Use fork to mash it or if you prefer a smoother consistency, use an immersion blender. \n4. 4.Simmer for 5 more minutes. \n5. 5.Add in 500g shrimp and simmer for 10 minutes to let the flavors get married. If it gets too thick, add more water or stock to thin it out.\n6. 6.Stir in sugar and fish sauce to taste. \n7. 7.Add kangkong leaves and simmer for another minute. \n8 8.Serve with steamed rice.",
           image: "Kinalabasang_Hipon.jpg"
         },
+
+        {
+          id:54,
+          name: "Taba ng Talangka Fried Rice",
+          ingredients: [
+        "minced garlic",
+        "grated ginger",
+        "finely chopped shallots",
+        "vegetable oil",
+        "crab paste",
+        "calamansi juice",
+        "salt",
+        "cooked white rice",
+        "scallion",
+         
+          ],
+        procedure: "1. 1 teaspoon minced garlic, 1/4 teaspoon grated ginger, and shallots in 1 tablespoon vegetable oil in a large skillet over medium heat for 1 to 2 minutes until softened. \n2. 2.Add the 1 tablespoon crab paste and 1 splash of calamansi juice. Stir for about 1 minute. \n3. 3.Taste and add 1/4 tablespoon salt, as needed. \n4. 4.Mix in the cooked rice and stir-fry just until heated through, about 5 minutes. Serve hot and garnished with 1 medium scallion",
+        image: "Taba_ng_talangka_fried_rice.jpg"
+        },
+        
         
           
 
