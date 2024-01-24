@@ -1042,6 +1042,20 @@ image: "bicol_express_pizza.jpg"
       procedure: "1. Rub salt all over the fish. Heat ½ cup cooking oil in a pan. Once the oil gets hot, fry 2 to 3 pieces of medium-sized fish until the side turns golden brown. Turn the fish over and continue to fry the other side until the same color is achieved. Remove the fried fish from the cooking pot. Place on a plate and set aside.\n2. Pour 3 cups of water into a clean cooking pot. Let boil.\n3. Add 1 medium onion, 2 sliced knobs of ginger, and 2 medium ripe plum tomatoes. Cover and boil in medium heat for 5 minutes.\n4. Stir-in the bagoong. Add okra, bitter gourd, and snake beans. Cover and cook for 7 to 12 minutes.\n5. Add 2 cups hot pepper leaves and 1 ½ cup squash flower. Cook for 3 minutes.\n6. Put the fried fish on top. Cover. Cook for 1 minute. Transfer to a serving bowl.\n7. Serve. Share and enjoy!",
       image: "dinengdeng_with_fried_fish.jpg"
     },
+    {
+      id: 73,
+      name: "Lechon Kawali",
+      ingredients: [
+        "pork belly",
+        "salt",
+        "peppercorn",
+        "bay leaves",
+        "cooking oil",
+        "water"
+      ],
+      procedure: "1. Pour 5 cups of water into the cooking pot. Boil.\n2. Add 1kg pork belly and 1 tablespoon of salt. Put some peppercorn and 5 pieces of dried bay leaves. Boil for 30 minutes or until meat gets tender.\n3. Remove the meat from the pot and let it cool down for a few minutes.\n4. Spread 1 tablespoon of salt on the pork belly. Make sure to distribute it evenly on all sections.\n5. Start to deep fry the boiled meat. Heat 3 cups of cooking oil on a cooking pot.\n6. Put each piece of boiled pork belly into the hot oil with extra caution. Fry until crispy. Turn the meat over to completely fry the opposite side until crispy. Note: be extra careful when frying as oil can splatter. You can use the cover of the pot to cover it while oil splatters, but do not cover completely as steam will be trapped. It will cause more splatters.\n7. Remove the meat from the cooking pot. Arrange on a wire rack to cool down.  Slice according to desired portions.\n8. Serve with lechon sauce. Share and Enjoy!",
+      image: "lechon_kawali.jpg"
+    },
     
      
 ];
