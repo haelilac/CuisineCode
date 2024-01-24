@@ -1206,6 +1206,26 @@ image: "bicol_express_pizza.jpg"
       procedure: "1. Heat 2 tablespoons of oil in a pan. Sauté 1 piece bell pepper julienne, 1/2 cup green peas, and 6 pieces long green beans for 45 seconds. Remove from the pan and set aside.\n2. Add remaining oil. Once oil becomes hot, pan-fry the 1/2kg chicken pieces for 3 minutes per side. Remove chicken from the pan and place on a clean plate. Set aside.\n3. Sauté 3 cloves garlic chopped, 1 piece onion chopped, and 8 ounces tomato sauce using the remaining oil. Add 3 tablespoons soy sauce, tomato sauce, and water once the onion softens. Let it boil.\n4. Add Knorr chicken cube and then put the chicken piece back into the pan. Cover the pan and continue cooking the chicken using medium heat for 15 minutes. Remove the cover and cook until the sauce becomes thick.\n5. Add Knorr chicken cube and then put the chicken piece back into the pan. Cover the pan and continue cooking the chicken using medium heat for 15 minutes. Remove the cover and cook until the sauce becomes thick.\n6. Season with sugar, salt, and ground black pepper. Transfer to a serving plate. Serve!",
       image: "sinarsahang_manok.jpg"
     },
+    {
+      id: 82,
+     name: "Ginataang Langka with Tinapa",
+      ingredients: [
+        "unripe jackfruit",
+        "coconut milk",
+        "chili pepper",
+        "tinapa flakes",
+        "malunggay leaves",
+        "garlic ",
+        "onion",
+        "shrimp paste",
+        "vinegar",
+        "pepper",
+        "cooking oil",
+        "salt"
+      ],
+      procedure: "1. Heat 3 tablespoons of oil in a pan. Saute 5 cloves garlic crushed and chopped and 1 large yellow onion minced until the onion gets soft.\n2. Add the chopped 1/2 kg unripe jackfruit. Cook for 3 to 5 minutes.\n3. Put-in the tinapa flakes (smoked fish flakes). Stir and cook for 1 minute.\n4. Add 1/8 teaspoon ground black pepper and 8 pieces of chili peppers.\n5. Pour-in 4 cups coconut milk. Let boil. Add 2 tablespoons shrimp paste and 2 tablespoons vinegar. Stir. Cover and cook in medium heat for 15 minutes while stirring occasionally.\n6. Add the malunggay leaves. Stir and continue to cook for 5 to 10 minutes.\n.7. Sprinkle some salt only if needed. Stir.\n8. Transfer to a serving bowl. Serve!",
+      image: "ginataang_langka_with_tinapa.jpg"
+    },
     
      
 ];
