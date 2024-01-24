@@ -8,17 +8,22 @@ function App() {
 
   const handleSearch = () => {
     const searchTerm = searchInput.toLowerCase().trim();
-
+  
     if (searchTerm === '' || searchTerm.length < 3) {
-      // Clear filtered recipes if search term is empty or less than 3 characters
       setFilteredRecipes([]);
     } else {
       const matchingRecipes = recipes.filter((recipe) =>
         recipe.ingredients.some((ingredient) =>
-          ingredient.toLowerCase().includes(searchTerm)
+          ingredient.toLowerCase() === searchTerm
         )
       );
-      setFilteredRecipes(matchingRecipes);
+  
+      // Check if there is an exact match for the search term
+      if (matchingRecipes.length > 0) {
+        setFilteredRecipes(matchingRecipes);
+      } else {
+        setFilteredRecipes([]);
+      }
     }
   };
 
