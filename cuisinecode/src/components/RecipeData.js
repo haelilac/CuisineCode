@@ -494,6 +494,22 @@ export const recipes = [
         procedure: "1. Pour 4 cups of coconut milk into a cooking pot and bring to a boil.\n2. Add 3/4 cup sugar, 14 ounces condensed milk, and whole sweet kernel corn then stir until all the ingredients are evenly distributed.\n3. Simmer for 8 minutes.\n4. Combine 3/4 cup fresh milk and 3/4 cup cornstarch then whisk until the cornstarch is diluted.\n5. Pour the 14 ounces condensed milk and cornstarch mixture into the cooking pot and stir thoroughly.\n6. Allow to cook while stirring until the mixture reaches your desired thickness.\n7. Pour the mixture into a serving tray then arrange and flatten the top using a flat tool such as a wooden spatula.\n8. Allow to cool down then refrigerate for at least 1 hour.\n9. Garnish with toasted grated coconut.\n10. Share and enjoy!",
         image: "maja_blanca.jpg"
       },
+      {
+        id: 35,
+        name: "Ensaymada",
+        ingredients: [
+          "all-purpose flour",
+          "butter",
+          "white sugar",
+          "salt",
+          "cheddar cheese",
+          "eggs",
+          "yeast",
+          "fresh milk"
+        ],
+        procedure: "1. Combine 1 cup warm fresh milk, 1 pouch rapid rise yeast, and 1/2 cup sugar and stir until yeast and sugar dissolve in milk. Set aside to let the yeast activate (approximately 10 minutes).\n2. In a mixing bowl, combine all the dry ingredients starting from the 5 cups of flour, 3/4 cup sugar, and 1 teaspoon salt then mix thoroughly.\n3. Add 3 pieces of eggs, 1/2 cup butter, and the activated yeast mixture (these are the ingredients that we combined in number 1) to the mixed dry ingredients. Mix thoroughly until all ingredients are evenly distributed and a dough is formed.\n4. Knead the dough until the texture becomes fine.\n5. Put the dough back on the mixing bowl and cover the top with cloth. Allow the dough to rise for 2 hours.\n6. Put the dough on a flat surface and flatten. Punch the dough lightly to release the air inside.\n7. Using a dough slicer, divide the dough into four pieces.\n8. Roll each piece until the shape becomes cylindrical.\n9. Cut the cylindrical dough into individual serving pieces (1 serving piece should weigh at least 80 grams).\n10. Put the sliced individual serving piece on a flat surface and flatten using a rolling pin.\n11. Combine 1/4 cup melted butter with 1/4 cup white sugar. Using a brush, paint the mixture on the flattened dough. Make sure to paint only the center part of the flat dough.\n12. Sprinkle some cheese over the painted area then seal the dough by folding opposite directions and rolling it until a long cylindrical shape is formed (about 14 inches in length).\n13. Start forming the spiral Ensaymada shape by crossing the two opposite ends of the dough. The first end should be placed under the dough while the other end should be inserted in the middle. (See video for better comprehension).\n14. Place the dough in a baking tray with wax paper and cover with cloth. Set aside to rise for another 45 minutes.\n15. Pre-heat the oven at 350 degrees Fahrenheit for 10 minutes. Remove cloth on top of the tray and bake the dough for 15 minutes at 350 degrees Fahrenheit.\n16. Remove the baked Ensaymada from the oven. Using the remaining melted butter and sugar mixture, paint the top of the baked ensaymada and sprinkle additional cheese.\n17. Serve hot. Share and Enjoy!",
+        image: "ensaymada.jpg"
+      },
       
 
       ]
