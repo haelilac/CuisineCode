@@ -1258,6 +1258,17 @@ image: "bicol_express_pizza.jpg"
       procedure: "1. Place 3 tablespoons cornstarch in a container and dredge the boiled quail eggs. Set aside.\n2. In a mixing bowl, combine 1 cup flour, 1/2 teaspoon salt, and  1/2 teaspoon pepper then mix thoroughly.\n3. Dilute 1 tablespoons anatto powder in warm water then pour-in the mixing bowl with the other ingredients. Mix well.\n4. Place all the quail eggs in the mixing bowl and coat with the batter.\n5. Heat the pan and pour the cooking oil.\n6. When the oil is hot enough, deep-fry the quail eggs by scooping them from the mixing bowl using a spoon. Make sure that each is coated with batter.\n.7. After a few minutes, remove the fried quail eggs from the pan and place in a serving plate.\n8. Serve with vinegar or fish ball sauce while still crispy. Share and enjoy!",
       image: "kwek-kwek.jpg"
     },
+    {
+      id: 85,
+      name: "Binatog",
+      ingredients: [
+        "white corn",
+        "sugar",
+        "coconut"
+      ],
+      procedure: "1. Heat a cooking pot then pour-in the canned hominy/white corn (include the liquid).\n2. Add 1 cup of water and bring to a boil.\n3. Simmer for 12 to 15 minutes.\n4. Drain the water and place the boiled hominy in a serving plate.\n5. Top with sugar (or salt depending on your preference) and grated coconut.\n6. Serve. Share and enjoy!",
+      image: "binatog.jpg"
+    },
     
      
 ];
