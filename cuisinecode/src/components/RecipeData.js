@@ -998,10 +998,29 @@ image: "bicol_express_pizza.jpg"
       id: 70,
       name: "Pinatisang Baboy",
      ingredients: ["pork", "kalamansi", "patis", "almond flour", "eggs", "ground black pepper", "cooking oil"],
-      procedure: "1. Slice the 1 lb. pork into thin pieces. Arrange in a large bowl.\n2. 2. Add 1⁄2 tsp. ground black pepper. Squeeze  1 pc. of lime over the pork and pour patis. Mix everything together. Let it stay for 10 minutes for the meat to absorb the flavors of the seasonings.\n3. 3. Heat oil in a pot or deep fryer.\n4. 4. Beat 2 pcs. eggs in a bowl. Prepare 3 ⁄ 4 cups of almond flour by transferring to a bowl. Place the two bowls side-by-side.\n5. 5. Dip sliced pork in almond flour, then on beaten eggs. Dip it again in almond flour making sure that all sides are coated. Place on a frying basket (for deep-frying), or a clean plate (for traditional frying).\n6. 6. Fry pork until golden brown and crispy. Note: this should take around 4 to 6 minutes in medium heat.\n7. 7. Remove from the fryer and arrange on a serving plate. Serve with a spicy vinegar dipping sauce.",
+      procedure: "1. Slice the 1 lb. pork into thin pieces. Arrange in a large bowl.\n2. 2. Add 1/2 tsp. ground black pepper. Squeeze  1 pc. of lime over the pork and pour patis. Mix everything together. Let it stay for 10 minutes for the meat to absorb the flavors of the seasonings.\n3. 3. Heat oil in a pot or deep fryer.\n4. 4. Beat 2 pcs. eggs in a bowl. Prepare 3 ⁄ 4 cups of almond flour by transferring to a bowl. Place the two bowls side-by-side.\n5. 5. Dip sliced pork in almond flour, then on beaten eggs. Dip it again in almond flour making sure that all sides are coated. Place on a frying basket (for deep-frying), or a clean plate (for traditional frying).\n6. 6. Fry pork until golden brown and crispy. Note: this should take around 4 to 6 minutes in medium heat.\n7. 7. Remove from the fryer and arrange on a serving plate. Serve with a spicy vinegar dipping sauce.",
       image: "pinatisang_baboy.jpg"
     },
-
+    {
+      id: 71,
+      name: "Ginataang Kuhol",
+      ingredients: [
+        "Apple snails",
+        "spinach",
+        "red chilies",
+        "onion",
+        "garlic",
+        "coconut milk",
+        "ginger",
+        "shrimp paste",
+        "pepper",
+        "egg",
+        "cooking oil"
+      ],
+      procedure: "1. Heat 3 tablespoons of cooking oil in a cooking pot.\n2. Once the oil gets hot, saute the 4 cloves of garlic and 1 medium sliced onion. Add sliced 2 thumbs ginger and continue to cook for 1 to 2 minutes.\n3. Put 1/2 kg apple snails in the cooking pot. Stir and cook for 2 minutes.\n4. Add 1/4 cup shrimp paste and 6 pieces of red chilies. Stir.\n5. Pour in 2 cups of coconut milk. Let boil. Cover and simmer for 30 minutes.\n6. Add 1/4 teaspoon ground black pepper and 1 large bunch of spinach. Stir and cook for 5 minutes without covering.\n7. Transfer to a serving bowl. Serve for pulutan or as a main dish with warm white rice. Share and enjoy!",
+      image: "ginataang_kuhol.jpg"
+    },
+    
      
 ];
   
