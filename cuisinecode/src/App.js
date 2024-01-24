@@ -4,6 +4,8 @@ import { recipes } from './components/RecipeData';
 import RecipeModal from './components/RecipeModal';
 import RandomRecipe from './components/RandomRecipe';
 
+
+
 function App() {
   const [searchInput, setSearchInput] = useState('');
   const [filteredRecipes, setFilteredRecipes] = useState([]);
@@ -66,7 +68,7 @@ function App() {
 
   return (
     <div className="App">
-      <div className="header">
+      <div className="header" style={{ backgroundImage: `url(/Assets/headerbg.jpg)` }}>
         <div className="header-text">
           <h1>Cuisine Code</h1>
           <p>Ingredient-based Filipino recipe search</p>

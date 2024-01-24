@@ -18,11 +18,18 @@ body {
   margin-bottom: 20px;
   top: 0;
   width: 100%;
-  background-color: #3498db;
-  color: #fff;
-  padding: 10px;
+  height: 200px; /* Adjust the height as needed */
+  background-size: cover; /* This property ensures the image covers the entire container */
+  background-position: center; /* Center the background image */
+  background-repeat: no-repeat; /* Do not repeat the background image */
   text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 
+.header-text {
+  color: #fff;
 }
 
 .content {
@@ -112,16 +119,10 @@ button {
   cursor: pointer;
 }
 
-.previous-button {
-  left: 0;
-}
-
-.next-button {
-  right: 0;
-}
 
 
-/* Add a separate style for the modal overlay and content */
+
+/* Recipe Modal */
 
 .RecipeModal-overlay {
   position: fixed;
