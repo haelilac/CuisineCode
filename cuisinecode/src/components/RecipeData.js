@@ -329,7 +329,7 @@ export const recipes = [
    {
       id: 22,
       name: "Dinuguan",
-      ingredients: ["pork shoulder", "pork blood", "knorr pork cube", "long peppers", “garlici”, “onion”, “water”, “vinegar”, “bay leaves”, “cooking oil”, “sugar”, “salt”, “pepper”],
+      ingredients: ["pork shoulder", "pork blood", "knorr pork cube", "long peppers", "garlic", “onion”, “water”, “vinegar”, “bay leaves”, “cooking oil”, “sugar”, “salt”, “pepper”],
       "procedure": "1. Heat 3 tbsp. oil in a cooking pot.\n2. 2. Saute 2 pcs. chopped onion for 30 seconds. Add 6 cloves minced garlic. Continue to cook until onion softens.\n3. 3. Add pork. Saute for 3 to 5 minutes.\n4. 4. Pour 2 cups of water. Let boil. Add 3 pcs. dried bay leaves and ¾ cup of vinegar. Let the liquid re-boil.\n5. 5. Add Knorr Pork Cube. Stir. Cover and simmer for 1 hour. Note: add water as needed.\n6. 6. Add long green peppers and pour pork blood into the pot. Stir. Continue to cook between low to medium heat for 15 minutes while stirring every 3 minutes.\n7. 7. Add sugar and season with salt and ground black pepper.\n8. 8. Transfer to a serving bowl. Enjoy!”,
       image: "dinuguan.jpg"
     },
@@ -340,6 +340,12 @@ export const recipes = [
       ingredients: ["beef shank", "cabbage", "pechay", "corn", "peppercorn", "onion", "green onion", "water", "fish sauce"],
       procedure: "1. In a big cooking pot, pour in 34 ounces water and bring to a boil.\n2. 2. Put-in the 2 lbs beef shank followed by the 1 onion and 2 tbsp. whole pepper corn then simmer for 1.5 hours (30 mins if using a pressure cooker) or until meat is tender.\n3. 3. Add the 2 cobs of corn and simmer for another 10 minutes.\n4. 4. Add the fish sauce, ½ whole leaf individually detached cabbage, pechay, and ½ cup of green onion (onion leeks).\n5. 5. Serve hot. Share and Enjoy!"
       image: "bulalo.jpg"
+    },
+    {
+      id: 24,
+      name: "Bicol Express",
+      ingredients: ["pork belly", "coconut milk", "coconut cream", "shrimp paste", “garlic”, “chili pepper”, ginger”, “onion”, “pepper”, “water”],
+      procedure: "1. Combine 1 thumb minced ginger, 4 cloves crushed garlic, 1 pc. chopped onion, 6 pcs. Thai chili pepper, 2 lbs sliced into strips of pork belly, and 2 cups of coconut milk in a pan. Mix well. Cover the pan and turn the heat on. Let the mixture boil.\n2. 2. Remove the cover. Stir. Add half of the ½ cup of bagoong and pour around 1 cup of coconut cream and a cup of water. Stir and adjust the heat to low. Cook until the sauce reduces to a quarter (around 50 minutes).\n3. 3. Add the remaining coconut cream and bagoong alamang (as needed). Also add the1 pc pepper. Continue cooking in low heat until the sauce thickens around.\n4. 4.Transfer to a serving plate and serve with warm rice.\n5. 5. Serve hot. Share and Enjoy!", image: "bicol_express.jpg"
     },
 
 
