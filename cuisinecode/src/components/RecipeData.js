@@ -689,7 +689,31 @@ export const recipes = [
         ],
       procedure: "1. After buying already cleaned intestines, clean them again yourself, for safety reasons. Clean them lightly to squeeze out any remaining waste, and use a pair of scissors to cut them open and clean under some running water. You can also use a little water hose. \n2. 2. Slice the pork intestines horizontally into 1-inch/2.5cm long pieces, and the chicken intestines into 6-inch/15cm long pieces. Coil the intestines onto skewers, adding about 3 to 4 pieces to each stick. \n3. 3.Boil water with 2 tbsp salt, 1 tbsp whole peppercorns, and  4 to 6 dried bay leaves in a big pot. Place the skewered intestines into the pot and cook over a low flame for a few minutes. Next, add the 120ml  vinegar and simmer for approximately half an hour or until soft and tender. Leave to cool. \n4. 4. Mix the 3tbsp soy sauce, 2 tbsp cooking oil, and  ½ cup ketchup to make the grilling sauce. Grill the intestines, brushing them with the prepared sauce, for approximately 5-10 minutes, or until they turn reddish-brown. When done, serve isaw with some soy sauce or a spiced vinegar dip.",
         image: "Isaw.jpg"
-      },
+      }, 
+
+        {
+          id:47,
+          name: "Sinigang na manok",
+          ingredients: [
+        "cloves garlic",
+        "onion",
+        "ginger ",
+        "chicken",
+        "quart water",
+        "labanos",
+        "Knorr Sinigang sa Sampaloc Mix",
+        "tomatoes",
+        "green pepper",
+        "okra",
+        "string beans ",
+        "ground black pepper ",
+        "fish sauce ",
+        "cooking oil "
+        ],
+        procedure: "1. Heat cooking oil in a pot. 3 chopped Saute garlic, 1 chopped onion, and 1 thumb ginger. \n2. 2. Add the 2 lbs chicken once the onion softens. Cook one side for 2 minutes. Turn it over and do the same on the opposite side. \n3. 3.Pour water. Let boil. \n4. 4.Add 1 cup of labanos and 22gram Knorr Sinigang sa Sampaloc Mix. Cover the pot and continue cooking using low to medium heat for 35 minutes. \n5. 5.Add 2 halved tomato, 2 long green pepper, 5 okra, and 12 string beans cut into 2-inch pieces. Cook for 8 to 12 minutes. \n6. 6. Season with ground black pepper and fish sauce. \n7.7. Add spinach. Cook for 1 minute. \n8. 8.Transfer to a serving bowl. Serve and Enjoy.",
+        image: "Sinigang_na_manok.jpg"
+        },
+        
       
 
 
