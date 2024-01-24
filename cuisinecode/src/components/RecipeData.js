@@ -357,6 +357,16 @@ export const recipes = [
        image: "beef_kaldereta.jpg"
     },
 
+    {
+        id: 26,
+        name: "Tinapa",
+        ingredients: ["pike mackerel", "soy sauce", "lemon juice", "vegetable oil", "atsuete powder", "hickory liquid smoke", "salt"],
+        procedure: "1. Rub 1 kg. Or 4 pcs. fish with salt and place in a large container. Set aside.\n2. 2. In a mixing bowl, combine ¼ cup of vegetable oil and 3 tbsp. atsuete powder. Mix and heat in the microwave for 5 seconds to incorporate. Set aside.\n3. 3. In a different bowl. Combine ¾ cup of soy sauce, ½ cup of lemon juice, achuete oil, and 2 tbsp. liquid smoke. Pour the mixture into the container with the fish and cover with a lid. Make sure the fishes are coated. Brine overnight or up to 3 days.\n4. 4. Preheat the oven to 176°C / 350°F. Bake the fish for 25 minutes on each side or until most of the brine dries up and cooked through. Remove in the oven and let it rest until it cools down.\n5. 5. Place tinapa in an airtight container for later use or you can readily cook in a pan. Bon appetit!",
+      image: "tinapa.jpg"
+    },
+  
+  
+
       ]
       
   
