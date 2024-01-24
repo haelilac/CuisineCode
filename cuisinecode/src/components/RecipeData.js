@@ -648,11 +648,11 @@ export const recipes = [
           "bay leaves",
           "white vinegar",
           "soy sauce",
-      "sugar",
-      "water",
-      "chicken broth",
-      "poached eggs",
-      "pickled red onions"
+          "sugar",
+          "water",
+          "chicken broth",
+          "poached eggs",
+          "pickled red onions"
         ],
         "procedure": "1. Combine all marinade ingredients in a bowl. Mix everything together with clean hands, making sure that all your chicken pieces are evenly coated. Cover and refrigerate overnight to marinate.\n2. 2. The next day, heat a pan over medium-high heat. Sear chicken pieces on one side until browned and slightly caramelized. Remove chicken. Deglaze pan with warm water and add the chicken broth cube. Stir until the cube is dissolved. Add remaining marinade and chicken pieces. Let cook until meat is tender—the exact cooking time will depend on the size of your chicken. Season to taste, then serve. Let leftovers cool completely before refrigerating. \n3. 3. Shred leftover chicken adobo along the grain using two forks or your hands. Heat oil in a pan over medium heat, then fry shredded chicken, working in batches if necessary, until dry and golden brown. Be careful not to burn the flakes. Transfer fried flakes to a heatproof plate or tray lined with paper towels. \n4. 4.Scoop one serving adobo flakes over rice. Place poached egg over the flakes, and pickled red onions on the side. Serve warm.",
         image: "Chicken_Adobo_Flakes.jpg"
@@ -671,6 +671,28 @@ export const recipes = [
       procedure: "1. Pour 6 to 9 cups of water in a cooking pot. Bring to a boil.\n2. 2. Put in the 5 pieces of  tablea and then stir. Let it dissolve in boiling water. \n3. 3. Add in the 1 3/4 rice. Let the water re-boil. Set the heat to low-medium and then stir almost constantly to avoid sticking. The rice should be ready when it absorbs the water (about 15 to 25 minutes). \n4. 4. Add the 3/4 white sugar. Stir until the sugar dissolves. \n5.Transfer the champorado in individual serving bowls.Top with condensed milk.",
       image: "Champorado.jpg"
       },
+      {
+        id:46,
+        name: "Isaw",
+        ingredients: [
+        "chicken intestine",
+        "vinegar",
+        "whole peppercorn",
+        "salt",
+        "dried bay leaves",
+        "water",
+        "UFC banana ketchup",
+        "sugar",
+        "water",
+        "soy sauce",
+        "cooking oil"
+        ],
+      procedure: "1. After buying already cleaned intestines, clean them again yourself, for safety reasons. Clean them lightly to squeeze out any remaining waste, and use a pair of scissors to cut them open and clean under some running water. You can also use a little water hose. \n2. 2. Slice the pork intestines horizontally into 1-inch/2.5cm long pieces, and the chicken intestines into 6-inch/15cm long pieces. Coil the intestines onto skewers, adding about 3 to 4 pieces to each stick. \n3. 3.Boil water with 2 tbsp salt, 1 tbsp whole peppercorns, and  4 to 6 dried bay leaves in a big pot. Place the skewered intestines into the pot and cook over a low flame for a few minutes. Next, add the 120ml  vinegar and simmer for approximately half an hour or until soft and tender. Leave to cool. \n4. 4. Mix the 3tbsp soy sauce, 2 tbsp cooking oil, and  ½ cup ketchup to make the grilling sauce. Grill the intestines, brushing them with the prepared sauce, for approximately 5-10 minutes, or until they turn reddish-brown. When done, serve isaw with some soy sauce or a spiced vinegar dip.",
+        image: "Isaw.jpg"
+      },
+      
+
+
        
       
        
