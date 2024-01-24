@@ -394,7 +394,22 @@ export const recipes = [
           "shaved ice"
         ],
         procedure: "1. Add about a teaspoon of each desired add-in to a tall glass, filling it about ⅓ full.\n2. Pack the glass with shaved ice.\n3. Drizzle evaporated milk over the ice.\n4. Top the ice with scoops of ice cream, leche flan, and purple yam.\n5. Sprinkle with rice crispies as desired.",
-        image: "halo_halo.jpg"
+        image: "halo-halo.jpg"
+      },
+      {
+        id: 29,
+        name: "Daing na Bangus",
+        ingredients: [
+          "milkfish/bangus",
+          "vinegar",
+          "peppercorn",
+          "garlic",
+          "salt",
+          "cooking oil",
+          "cayenne powder"
+        ],
+        procedure: "1. Combine 10 tablespoons vinegar, 1 teaspoon crushed peppercorn, 1/2 teaspoon coarse sea salt, 1 head garlic crushed, and 1 teaspoon cayenne pepper powder in a bowl. Stir to mix the ingredients. Set aside.\n2. Butterfly the bangus (slice from the top) and place it inside a large resealable plastic bag.\n3. Pour the vinegar mixture in the bag and then let all the air out. Seal the bag and refrigerate overnight.\n4. Remove the fish from the bag and let the liquid drip.\n5. Heat the 1/2 cup cooking oil in a pan. Once the oil gets hot, fry the fish in medium heat until one side gets crisp. Turn it over and repeat the process on the other side.\n6. Remove from the pan and place on a serving plate. Serve with a bowl of spicy vinegar.\n7. Share and enjoy.",
+        image: "daing_na_bangus.jpg"
       },
       
 
