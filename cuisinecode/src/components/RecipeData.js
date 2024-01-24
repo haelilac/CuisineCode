@@ -1226,6 +1226,22 @@ image: "bicol_express_pizza.jpg"
       procedure: "1. Heat 3 tablespoons of oil in a pan. Saute 5 cloves garlic crushed and chopped and 1 large yellow onion minced until the onion gets soft.\n2. Add the chopped 1/2 kg unripe jackfruit. Cook for 3 to 5 minutes.\n3. Put-in the tinapa flakes (smoked fish flakes). Stir and cook for 1 minute.\n4. Add 1/8 teaspoon ground black pepper and 8 pieces of chili peppers.\n5. Pour-in 4 cups coconut milk. Let boil. Add 2 tablespoons shrimp paste and 2 tablespoons vinegar. Stir. Cover and cook in medium heat for 15 minutes while stirring occasionally.\n6. Add the malunggay leaves. Stir and continue to cook for 5 to 10 minutes.\n.7. Sprinkle some salt only if needed. Stir.\n8. Transfer to a serving bowl. Serve!",
       image: "ginataang_langka_with_tinapa.jpg"
     },
+    {
+      id: 83,
+      name: "Kinilaw na Tuna",
+      ingredients: [
+        "tuna",
+        "lemon",
+        "ginger",
+        "onion",
+        "vinegar",
+        "pepper",
+        "cooking oil",
+        "salt"
+      ],
+      procedure: "1. Place 1 kg cubed tuna meat in a large bowl then pour-in 3/4 cups of vinegar.\n2. Let stand for 2 minutes then gently squeeze the tuna by placing a spoon on top applying a little pressure.\n3. Gently wash the tuna meat with vinegar. Drain all the vinegar once done. This will help reduce the fishy smell.\n4. Add the remaining 3/4 cup vinegar, calamansi or lemon juice, 3 tablespoons ginger, 2 teaspoon salt, 1 teaspoon ground black pepper, and red chilies then mix well.\n5. Cover the bowl and refrigerate for at least 2 hours.\n6. Top with minced red onions and serve (you may also add the red onions with the rest of the ingredients in step 4).\n.7. Share and enjoy!",
+      image: "kinilaw_na_tuna.jpg"
+    },
     
      
 ];
