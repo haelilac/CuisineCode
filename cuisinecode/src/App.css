@@ -29,6 +29,16 @@
   src: url('./fonts/OleoScript-Regular.ttf') format('truetype');
 }
 
+@font-face {
+  font-family: 'Linotte Bold';
+  src: url('./fonts/Linotte Bold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Linotte Regular';
+  src: url('./fonts/Linotte Regular.otf') format('opentype');
+}
+
 .header-text {
   font-family: 'Oleo Script-Bold', sans-serif;
   margin-top: 20px;
@@ -40,10 +50,10 @@
 
 .header-subtext {
   margin-top: -40px;
-  font-family: 'Oleo Script', sans-serif;
+  font-family: 'Linotte Bold', sans-serif;
   color: #2e260d;
   text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.5);
-  font-size: 30px; /* Adjust the font size as needed */
+  font-size: 20px;
 }
 
 .header {
@@ -137,12 +147,11 @@
   text-align: left;
 }
 
-.recipe-name {
-  font-family: 'Linotte New Rounded Sans Family', sans-serif;
-  font-size: 18px;
-  font-weight: bold;
-  margin-bottom: 10px;
+.recipe-name {/* Random Recipe */
+  font-family: 'Linotte Bold', sans-serif;
+  font-size: 20px; 
   color: #333;
+  margin-bottom: 8px;
 }
 
 .recipe-ingredients {
@@ -218,12 +227,13 @@ button {
   object-fit: cover;
 }
 
-.recipe-rname {
+.recipe-rname {  /* search container */
   margin-left: 0px;
-  font-size: 15px;
-  margin-top: 8px;
-  color: #000000;
-  background-color: rgb(255, 255, 255);
+  font-size: 10px;
+  margin-top: 1px;
+  font-family: 'Linotte regular', sans-serif;
+  font-size: 15px; 
+  color: #303030;
 }
 
 .nav-button {

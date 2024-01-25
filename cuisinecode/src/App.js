@@ -81,7 +81,7 @@ function App() {
         <div className="header" style={{ backgroundImage: `url(/Assets/headerbg.jpg)` }}>
           <div className="header-text">
             <h1>Cuisine Code</h1>
-            <p className="header-subtext">Discover the Art of Filipino Cuisine</p>
+            <p className="header-subtext">Cooking with Love, Pinoy Style: Elevate Your Kitchen Experience with Our Cookbook App</p>
           </div>
         </div>
       </div>
