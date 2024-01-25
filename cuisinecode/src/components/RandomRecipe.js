@@ -17,7 +17,7 @@ const RandomRecipe = ({ randomIndex, setRandomIndex }) => {
 
   return (
     <div className="Random-Recipe">
-      <h2>Explore Something New!</h2>
+      <h2>Explore Something New Today!</h2>
       {isValidIndex && (
         <div className="recipe" onClick={generateNewRandomIndex}>
           <img src={randomRecipe.image} alt={randomRecipe.name} />

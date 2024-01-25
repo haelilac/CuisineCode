@@ -18,12 +18,25 @@
   overflow: auto; /* Add scrollbar */
 }
 
+
 @font-face {
-  font-family: 'Oleo Script';
+  font-family: 'Oleo Script-Bold';
   src: url('./fonts/OleoScript-Bold.ttf') format('truetype');
 }
 
+@font-face {
+  font-family: 'Oleo Script';
+  src: url('./fonts/OleoScript-Regular.ttf') format('truetype');
+}
+
 .header-text {
+  font-family: 'Oleo Script-Bold', sans-serif;
+  color: #2e260d;
+  text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.5);
+  font-size: 25px;
+}
+
+.header-subtext {
   font-family: 'Oleo Script', sans-serif;
   color: #2e260d;
   text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.5);
