@@ -1,5 +1,5 @@
 # CuisineCode
-Bolok, Shana Carmella
-Ermita Katrina Antoinette
-Hernandez, Kristina Cassandra
+Bolok, Shana Carmella \n
+Ermita Katrina Antoinette \n
+Hernandez, Kristina Cassandra \n
 Giron, Rodolfo
