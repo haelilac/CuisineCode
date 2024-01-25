@@ -4,7 +4,6 @@ import { recipes } from './components/RecipeData';
 import RecipeModal from './components/RecipeModal';
 import RandomRecipe from './components/RandomRecipe';
 
-
 function App() {
   const [searchInput, setSearchInput] = useState('');
   const [filteredRecipes, setFilteredRecipes] = useState([]);
@@ -35,7 +34,6 @@ function App() {
     const searchTerm = searchInput.toLowerCase().trim();
 
     if (searchTerm === '' || searchTerm.length <= 0) {
-      // Clear filtered recipes if search term is empty
       setFilteredRecipes([]);
     } else {
       const searchIngredients = searchTerm.split(',').map((ingredient) => ingredient.trim());
