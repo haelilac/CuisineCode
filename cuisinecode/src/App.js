@@ -4,7 +4,6 @@ import { recipes } from './components/RecipeData';
 import RecipeModal from './components/RecipeModal';
 import RandomRecipe from './components/RandomRecipe';
 
-
 function App() {
   const [searchInput, setSearchInput] = useState('');
   const [filteredRecipes, setFilteredRecipes] = useState([]);
@@ -35,7 +34,6 @@ function App() {
     const searchTerm = searchInput.toLowerCase().trim();
 
     if (searchTerm === '' || searchTerm.length <= 0) {
-      // Clear filtered recipes if search term is empty
       setFilteredRecipes([]);
     } else {
       const searchIngredients = searchTerm.split(',').map((ingredient) => ingredient.trim());
@@ -79,13 +77,13 @@ function App() {
 
   return (
     <div className="body" style={{ backgroundImage: `url(/Assets/mainbg.jpg)` }}>
-    <div className={`app-container ${scrollingUp ? 'scrolling-up' : ''}`}>
-      <div className="header" style={{ backgroundImage: `url(/Assets/headerbg.jpg)` }}>
-        <div className="header-text">
-          <h1>Cuisine Code</h1>
-          <p>Discover the Art of Filipino Cuisine</p>
+      <div className={`app-container ${scrollingUp ? 'scrolling-up' : ''}`}>
+        <div className="header" style={{ backgroundImage: `url(/Assets/headerbg.jpg)` }}>
+          <div className="header-text">
+            <h1>Cuisine Code</h1>
+            <p className="header-subtext">Discover the Art of Filipino Cuisine</p>
+          </div>
         </div>
-      </div>
       </div>
       <div className="content">
         <div className="left-container">
@@ -113,6 +111,10 @@ function App() {
                   <p className="recipe-rname">{recipe.name}</p>
                 </div>
               ))
+            ) : searchInput.trim() === '' ? (
+              <div className="no-recipes">
+                <p>Search for your recipe.</p>
+              </div>
             ) : (
               <div className="no-recipes">
                 <p>No matching recipes found.</p>
