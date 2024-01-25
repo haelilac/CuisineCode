@@ -4,6 +4,7 @@ import { recipes } from './components/RecipeData';
 import RecipeModal from './components/RecipeModal';
 import RandomRecipe from './components/RandomRecipe';
 
+
 function App() {
   const [searchInput, setSearchInput] = useState('');
   const [filteredRecipes, setFilteredRecipes] = useState([]);
