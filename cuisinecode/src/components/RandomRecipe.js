@@ -23,10 +23,10 @@ const RandomRecipe = ({ randomIndex, setRandomIndex }) => {
           <img src={randomRecipe.image} alt={randomRecipe.name} />
           <div className="recipe-details">
             <p className="recipe-name">{randomRecipe.name}</p>
-            <p className="recipe-ingredients">
+            <p className="common-style">
               <strong>Ingredients:</strong> {randomRecipe.ingredients.join(', ')}
             </p>
-            <p className="recipe-preparation">
+            <p className="common-style">
               <strong>Preparation:</strong>
               {randomRecipe.procedure.split('\n').map((line, index) => (
                 <React.Fragment key={index}>
